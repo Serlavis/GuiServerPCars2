@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Tracks.xsd" generated="2019-08-02T16:07:53">
+<Tracks>
+<N_x00B0_>1</N_x00B0_>
+<name>24 Hours of Le Mans Circuit</name>
+<id>1740968730</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>2</N_x00B0_>
+<name>Autódromo Internacional do Algarve</name>
+<id>-416617300</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>3</N_x00B0_>
+<name>Autodromo Internazionale Enzo E Dino Ferrari Imola</name>
+<id>920145926</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>4</N_x00B0_>
+<name>Autodromo Nazionale Monza GP</name>
+<id>-52972612</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>5</N_x00B0_>
+<name>Autodromo Nazionale Monza GP Historic</name>
+<id>1184596327</id>
+<gridsize>22</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>6</N_x00B0_>
+<name>Autodromo Nazionale Monza Historic Oval + GP Mix</name>
+<id>1327182267</id>
+<gridsize>22</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>7</N_x00B0_>
+<name>Autodromo Nazionale Monza Oval Historic</name>
+<id>-163046637</id>
+<gridsize>22</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>8</N_x00B0_>
+<name>Autodromo Nazionale Monza Short</name>
+<id>368740158</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>9</N_x00B0_>
+<name>Azure Circuit</name>
+<id>832629329</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>10</N_x00B0_>
+<name>Azure Coast</name>
+<id>560711985</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>11</N_x00B0_>
+<name>Azure Coast Stage 1</name>
+<id>550129415</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>12</N_x00B0_>
+<name>Azure Coast Stage 2</name>
+<id>-780879576</id>
+<gridsize>24</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>13</N_x00B0_>
+<name>Azure Coast Stage 3</name>
+<id>-1737261125</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>14</N_x00B0_>
+<name>Azure Coast Westbound</name>
+<id>-1936790504</id>
+<gridsize>24</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>15</N_x00B0_>
+<name>Bannochbrae Road Circuit</name>
+<id>-602684269</id>
+<gridsize>20</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>16</N_x00B0_>
+<name>Barcelona Rallycross</name>
+<id>1828877100</id>
+<gridsize>6</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>17</N_x00B0_>
+<name>Bathurst Mount Panorama</name>
+<id>921120824</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>18</N_x00B0_>
+<name>Brands Hatch GP</name>
+<id>1988984740</id>
+<gridsize>30</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>19</N_x00B0_>
+<name>Brands Hatch Indy</name>
+<id>1300627020</id>
+<gridsize>30</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>20</N_x00B0_>
+<name>Brno GP</name>
+<id>-907901266</id>
+<gridsize>26</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>21</N_x00B0_>
+<name>Cadwell Park Club</name>
+<id>328972919</id>
+<gridsize>12</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>22</N_x00B0_>
+<name>Cadwell Park GP</name>
+<id>1876749797</id>
+<gridsize>12</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>23</N_x00B0_>
+<name>Cadwell Park Woodland</name>
+<id>-1408189041</id>
+<gridsize>12</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>24</N_x00B0_>
+<name>California Highway Full</name>
+<id>-1593944167</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>25</N_x00B0_>
+<name>California Highway Reverse</name>
+<id>928006536</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>26</N_x00B0_>
+<name>California Highway Stage 1</name>
+<id>1676943041</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>27</N_x00B0_>
+<name>California Highway Stage 2</name>
+<id>940391868</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>28</N_x00B0_>
+<name>California Highway Stage 3</name>
+<id>-331502851</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>29</N_x00B0_>
+<name>Chesterfield Karting Circuit</name>
+<id>-1735912413</id>
+<gridsize>24</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>30</N_x00B0_>
+<name>Circuit de Barcelona-Catalunya Club</name>
+<id>-1042928898</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>31</N_x00B0_>
+<name>Circuit de Barcelona-Catalunya GP</name>
+<id>521933422</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>32</N_x00B0_>
+<name>Circuit de Barcelona-Catalunya National</name>
+<id>-998191994</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>33</N_x00B0_>
+<name>Circuit de Spa-Francorchamps GP</name>
+<id>904625875</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>34</N_x00B0_>
+<name>Circuit de Spa-Francorchamps Historic</name>
+<id>-1804962581</id>
+<gridsize>20</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>35</N_x00B0_>
+<name>Circuit of the Americas Club</name>
+<id>802214179</id>
+<gridsize>18</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>36</N_x00B0_>
+<name>Circuit of the Americas GP</name>
+<id>2050315946</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>37</N_x00B0_>
+<name>Circuit of the Americas National</name>
+<id>1629467388</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>38</N_x00B0_>
+<name>Classic Brands Hatch Rallycross</name>
+<id>-2055158240</id>
+<gridsize>6</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>39</N_x00B0_>
+<name>Daytona International Speedway Rallycross</name>
+<id>35770107</id>
+<gridsize>6</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>40</N_x00B0_>
+<name>Daytona International Speedway Tri-Oval</name>
+<id>2054003546</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>41</N_x00B0_>
+<name>Daytona Road Course</name>
+<id>467707118</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>42</N_x00B0_>
+<name>DirtFish Boneyard Course</name>
+<id>980779751</id>
+<gridsize>6</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>43</N_x00B0_>
+<name>DirtFish Mill Run Course</name>
+<id>-1694936640</id>
+<gridsize>6</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>44</N_x00B0_>
+<name>DirtFish Pro Rallycross Course</name>
+<id>-2108341365</id>
+<gridsize>6</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>45</N_x00B0_>
+<name>Donington Park GP</name>
+<id>354022214</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>46</N_x00B0_>
+<name>Donington Park National</name>
+<id>-1194019375</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>47</N_x00B0_>
+<name>Dubai Autodrome Club</name>
+<id>1735854797</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>48</N_x00B0_>
+<name>Dubai Autodrome GP</name>
+<id>-661887517</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>49</N_x00B0_>
+<name>Dubai Autodrome International</name>
+<id>-710712693</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>50</N_x00B0_>
+<name>Dubai Autodrome National</name>
+<id>-31727447</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>51</N_x00B0_>
+<name>Dubai Kartdrome</name>
+<id>-232513374</id>
+<gridsize>22</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>52</N_x00B0_>
+<name>Fuji GP</name>
+<id>-1695214357</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>53</N_x00B0_>
+<name>Glencairn East</name>
+<id>766599953</id>
+<gridsize>16</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>54</N_x00B0_>
+<name>Glencairn East Reverse</name>
+<id>-446794969</id>
+<gridsize>16</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>55</N_x00B0_>
+<name>Glencairn GP</name>
+<id>-1066742780</id>
+<gridsize>16</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>56</N_x00B0_>
+<name>Glencairn Reverse</name>
+<id>-1520844580</id>
+<gridsize>16</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>57</N_x00B0_>
+<name>Glencairn West</name>
+<id>-1408779593</id>
+<gridsize>16</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>58</N_x00B0_>
+<name>Glencairn West Reverse</name>
+<id>-913625358</id>
+<gridsize>16</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>59</N_x00B0_>
+<name>Greenwood Karting Circuit</name>
+<id>-1160443077</id>
+<gridsize>22</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>60</N_x00B0_>
+<name>Hockenheim Classic GP</name>
+<id>1552853772</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>61</N_x00B0_>
+<name>Hockenheim GP</name>
+<id>1695182971</id>
+<gridsize>30</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>62</N_x00B0_>
+<name>Hockenheim National</name>
+<id>-1977142985</id>
+<gridsize>30</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>63</N_x00B0_>
+<name>Hockenheim Rallycross</name>
+<id>761864750</id>
+<gridsize>6</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>64</N_x00B0_>
+<name>Hockenheim Short</name>
+<id>1768660198</id>
+<gridsize>30</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>65</N_x00B0_>
+<name>Indianapolis Motor Speedway Oval</name>
+<id>62242453</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>66</N_x00B0_>
+<name>Indianapolis Motor Speedway Road Course</name>
+<id>211444010</id>
+<gridsize>28</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>67</N_x00B0_>
+<name>Knockhill International</name>
+<id>-2126387783</id>
+<gridsize>12</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>68</N_x00B0_>
+<name>Knockhill International Reverse</name>
+<id>-1088073214</id>
+<gridsize>12</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>69</N_x00B0_>
+<name>Knockhill National</name>
+<id>1887425815</id>
+<gridsize>12</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>70</N_x00B0_>
+<name>Knockhill National Reverse</name>
+<id>458589160</id>
+<gridsize>12</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>71</N_x00B0_>
+<name>Knockhill Rallycross</name>
+<id>977699253</id>
+<gridsize>6</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>72</N_x00B0_>
+<name>Knockhill Tri-Oval</name>
+<id>-941106232</id>
+<gridsize>10</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>73</N_x00B0_>
+<name>Lånkebanen Rallycross</name>
+<id>2087662703</id>
+<gridsize>6</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>74</N_x00B0_>
+<name>Le Mans Bugatti Circuit</name>
+<id>-1027934689</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>75</N_x00B0_>
+<name>Le Mans International Karting Circuit</name>
+<id>1457129528</id>
+<gridsize>20</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>76</N_x00B0_>
+<name>Le Mans Vintage Track</name>
+<id>167552033</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>77</N_x00B0_>
+<name>Long Beach Street Circuit</name>
+<id>1731699995</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>78</N_x00B0_>
+<name>Lydden Hill GP</name>
+<id>953639515</id>
+<gridsize>16</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>79</N_x00B0_>
+<name>Lydden Hill Rallycross</name>
+<id>673609283</id>
+<gridsize>6</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>80</N_x00B0_>
+<name>Mazda Raceway Laguna Seca</name>
+<id>-1612023328</id>
+<gridsize>26</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>81</N_x00B0_>
+<name>Mojave Boa Ascent</name>
+<id>-984009759</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>82</N_x00B0_>
+<name>Mojave Cougar Ridge</name>
+<id>31280808</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>83</N_x00B0_>
+<name>Mojave Coyote Noose</name>
+<id>369271528</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>84</N_x00B0_>
+<name>Mojave Gila Crest</name>
+<id>-60500434</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>85</N_x00B0_>
+<name>Mojave Sidewinder</name>
+<id>2015693491</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>86</N_x00B0_>
+<name>Mugello GP</name>
+<id>1730519219</id>
+<gridsize>40</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>87</N_x00B0_>
+<name>Mugello Short</name>
+<id>-2110554879</id>
+<gridsize>40</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>88</N_x00B0_>
+<name>Nürburgring Combined</name>
+<id>-891514248</id>
+<gridsize>30</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>89</N_x00B0_>
+<name>Nürburgring GP</name>
+<id>-945967394</id>
+<gridsize>30</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>90</N_x00B0_>
+<name>Nürburgring Müllenbach</name>
+<id>-246966400</id>
+<gridsize>30</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>91</N_x00B0_>
+<name>Nürburgring Nordschleife</name>
+<id>697498609</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>92</N_x00B0_>
+<name>Nürburgring Nordschleife Stage 1</name>
+<id>1459212514</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>93</N_x00B0_>
+<name>Nürburgring Nordschleife Stage 2</name>
+<id>-300387291</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>94</N_x00B0_>
+<name>Nürburgring Nordschleife Stage 3</name>
+<id>1128950148</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>95</N_x00B0_>
+<name>Nürburgring Sprint</name>
+<id>-709737101</id>
+<gridsize>30</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>96</N_x00B0_>
+<name>Nürburgring Sprint Short</name>
+<id>-810715843</id>
+<gridsize>30</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>97</N_x00B0_>
+<name>Oschersleben A Course</name>
+<id>-1194185720</id>
+<gridsize>28</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>98</N_x00B0_>
+<name>Oschersleben B Course</name>
+<id>816601966</id>
+<gridsize>28</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>99</N_x00B0_>
+<name>Oschersleben C Course</name>
+<id>-1359299594</id>
+<gridsize>24</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>100</N_x00B0_>
+<name>Oulton Park Fosters</name>
+<id>-2021024495</id>
+<gridsize>26</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>101</N_x00B0_>
+<name>Oulton Park International</name>
+<id>545979690</id>
+<gridsize>26</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>102</N_x00B0_>
+<name>Oulton Park Island</name>
+<id>-1877699523</id>
+<gridsize>26</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>103</N_x00B0_>
+<name>Pista di Fiorano</name>
+<id>1371913179</id>
+<gridsize>20</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>104</N_x00B0_>
+<name>Porsche Leipzig Dynamic Circuit</name>
+<id>-105902772</id>
+<gridsize>20</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>105</N_x00B0_>
+<name>Porsche Leipzig Full Circuit</name>
+<id>-158843644</id>
+<gridsize>26</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>106</N_x00B0_>
+<name>Porsche Leipzig Short Circuit</name>
+<id>169281142</id>
+<gridsize>26</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>107</N_x00B0_>
+<name>Rallycross of Loheac</name>
+<id>-598879227</id>
+<gridsize>6</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>108</N_x00B0_>
+<name>Red Bull Ring Club</name>
+<id>-73186614</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>109</N_x00B0_>
+<name>Red Bull Ring GP</name>
+<id>-1933253531</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>110</N_x00B0_>
+<name>Red Bull Ring National</name>
+<id>-2014223741</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>111</N_x00B0_>
+<name>Road America</name>
+<id>-660300766</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>112</N_x00B0_>
+<name>Rouen Les Essarts</name>
+<id>-1031249929</id>
+<gridsize>26</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>113</N_x00B0_>
+<name>Rouen Les Essarts Short</name>
+<id>-1515473908</id>
+<gridsize>26</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>114</N_x00B0_>
+<name>Ruapuna Park A Circuit</name>
+<id>619694160</id>
+<gridsize>28</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>115</N_x00B0_>
+<name>Ruapuna Park B Circuit</name>
+<id>-2046633090</id>
+<gridsize>28</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>116</N_x00B0_>
+<name>Ruapuna Park Club</name>
+<id>1446378877</id>
+<gridsize>28</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>117</N_x00B0_>
+<name>Ruapuna Park GP</name>
+<id>1277693448</id>
+<gridsize>28</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>118</N_x00B0_>
+<name>Ruapuna Park Outer Loop</name>
+<id>1940584155</id>
+<gridsize>28</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>119</N_x00B0_>
+<name>Sakitto GP</name>
+<id>-1759743046</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>120</N_x00B0_>
+<name>Sakitto International</name>
+<id>-1474170192</id>
+<gridsize>24</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>121</N_x00B0_>
+<name>Sakitto National</name>
+<id>-1260826266</id>
+<gridsize>24</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>122</N_x00B0_>
+<name>Sakitto Sprint</name>
+<id>-879282119</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>123</N_x00B0_>
+<name>Sampala Ice Circuit</name>
+<id>-823048021</id>
+<gridsize>6</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>124</N_x00B0_>
+<name>Silverstone Classic GP</name>
+<id>-1194290828</id>
+<gridsize>18</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>125</N_x00B0_>
+<name>Silverstone GP</name>
+<id>1641471184</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>126</N_x00B0_>
+<name>Silverstone International</name>
+<id>1101719627</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>127</N_x00B0_>
+<name>Silverstone National</name>
+<id>1952936927</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>128</N_x00B0_>
+<name>Silverstone Stowe</name>
+<id>1600840139</id>
+<gridsize>8</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>129</N_x00B0_>
+<name>Snetterton 100</name>
+<id>-867340010</id>
+<gridsize>26</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>130</N_x00B0_>
+<name>Snetterton 200</name>
+<id>1058872832</id>
+<gridsize>26</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>131</N_x00B0_>
+<name>Snetterton 300</name>
+<id>1508903068</id>
+<gridsize>26</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>132</N_x00B0_>
+<name>Sonoma Raceway GP</name>
+<id>-1454279631</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>133</N_x00B0_>
+<name>Sonoma Raceway National</name>
+<id>-995202729</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>134</N_x00B0_>
+<name>Sonoma Raceway Short</name>
+<id>1035110721</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>135</N_x00B0_>
+<name>Sportsland SUGO</name>
+<id>-1024221192</id>
+<gridsize>26</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>136</N_x00B0_>
+<name>Summerton International</name>
+<id>-44748320</id>
+<gridsize>28</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>137</N_x00B0_>
+<name>Summerton National</name>
+<id>1408845203</id>
+<gridsize>28</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>138</N_x00B0_>
+<name>Summerton Sprint</name>
+<id>-1605913568</id>
+<gridsize>28</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>139</N_x00B0_>
+<name>Texas Motor Speedway</name>
+<id>1185954707</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>140</N_x00B0_>
+<name>Texas Motor Speedway Infield Course</name>
+<id>1719717729</id>
+<gridsize>20</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>141</N_x00B0_>
+<name>Texas Motor Speedway Road Course</name>
+<id>533066470</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>142</N_x00B0_>
+<name>Watkins Glen International GP</name>
+<id>-1785781495</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>143</N_x00B0_>
+<name>Watkins Glen International Short</name>
+<id>1590386668</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>144</N_x00B0_>
+<name>Wildcrest Rallycross</name>
+<id>1892852585</id>
+<gridsize>6</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>145</N_x00B0_>
+<name>Willow Springs Horse Thief Mile</name>
+<id>-1849531562</id>
+<gridsize>24</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>146</N_x00B0_>
+<name>Willow Springs International Raceway</name>
+<id>-103312908</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>147</N_x00B0_>
+<name>Zhuhai International Circuit</name>
+<id>1836888499</id>
+<gridsize>32</gridsize>
+</Tracks>
+<Tracks>
+<N_x00B0_>148</N_x00B0_>
+<name>Zolder</name>
+<id>-360711057</id>
+<gridsize>32</gridsize>
+</Tracks>
+</dataroot>
