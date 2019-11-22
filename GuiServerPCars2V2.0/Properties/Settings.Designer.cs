@@ -37609,10 +37609,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server1AntiGriefingCollisionsRace1 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1AntiGriefingCollisionsRace1 {
             get {
-                return ((string)(this["Server1AntiGriefingCollisionsRace1"]));
+                return ((bool)(this["Server1AntiGriefingCollisionsRace1"]));
             }
             set {
                 this["Server1AntiGriefingCollisionsRace1"] = value;
@@ -37621,10 +37621,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server1AntiGriefingCollisionsRace2 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1AntiGriefingCollisionsRace2 {
             get {
-                return ((string)(this["Server1AntiGriefingCollisionsRace2"]));
+                return ((bool)(this["Server1AntiGriefingCollisionsRace2"]));
             }
             set {
                 this["Server1AntiGriefingCollisionsRace2"] = value;
@@ -37633,10 +37633,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server1AntiGriefingCollisionsRace3 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1AntiGriefingCollisionsRace3 {
             get {
-                return ((string)(this["Server1AntiGriefingCollisionsRace3"]));
+                return ((bool)(this["Server1AntiGriefingCollisionsRace3"]));
             }
             set {
                 this["Server1AntiGriefingCollisionsRace3"] = value;
@@ -37645,10 +37645,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server1AntiGriefingCollisionsRace4 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1AntiGriefingCollisionsRace4 {
             get {
-                return ((string)(this["Server1AntiGriefingCollisionsRace4"]));
+                return ((bool)(this["Server1AntiGriefingCollisionsRace4"]));
             }
             set {
                 this["Server1AntiGriefingCollisionsRace4"] = value;
@@ -37657,10 +37657,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server1AntiGriefingCollisionsRace5 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1AntiGriefingCollisionsRace5 {
             get {
-                return ((string)(this["Server1AntiGriefingCollisionsRace5"]));
+                return ((bool)(this["Server1AntiGriefingCollisionsRace5"]));
             }
             set {
                 this["Server1AntiGriefingCollisionsRace5"] = value;
@@ -37669,10 +37669,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server1AntiGriefingCollisionsRace6 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1AntiGriefingCollisionsRace6 {
             get {
-                return ((string)(this["Server1AntiGriefingCollisionsRace6"]));
+                return ((bool)(this["Server1AntiGriefingCollisionsRace6"]));
             }
             set {
                 this["Server1AntiGriefingCollisionsRace6"] = value;
@@ -37681,10 +37681,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server1AntiGriefingCollisionsRace7 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1AntiGriefingCollisionsRace7 {
             get {
-                return ((string)(this["Server1AntiGriefingCollisionsRace7"]));
+                return ((bool)(this["Server1AntiGriefingCollisionsRace7"]));
             }
             set {
                 this["Server1AntiGriefingCollisionsRace7"] = value;
@@ -37693,10 +37693,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server1AntiGriefingCollisionsRace8 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1AntiGriefingCollisionsRace8 {
             get {
-                return ((string)(this["Server1AntiGriefingCollisionsRace8"]));
+                return ((bool)(this["Server1AntiGriefingCollisionsRace8"]));
             }
             set {
                 this["Server1AntiGriefingCollisionsRace8"] = value;
@@ -37705,10 +37705,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server2AntiGriefingCollisionsRace1 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2AntiGriefingCollisionsRace1 {
             get {
-                return ((string)(this["Server2AntiGriefingCollisionsRace1"]));
+                return ((bool)(this["Server2AntiGriefingCollisionsRace1"]));
             }
             set {
                 this["Server2AntiGriefingCollisionsRace1"] = value;
@@ -37717,10 +37717,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server2AntiGriefingCollisionsRace2 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2AntiGriefingCollisionsRace2 {
             get {
-                return ((string)(this["Server2AntiGriefingCollisionsRace2"]));
+                return ((bool)(this["Server2AntiGriefingCollisionsRace2"]));
             }
             set {
                 this["Server2AntiGriefingCollisionsRace2"] = value;
@@ -37729,10 +37729,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server2AntiGriefingCollisionsRace3 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2AntiGriefingCollisionsRace3 {
             get {
-                return ((string)(this["Server2AntiGriefingCollisionsRace3"]));
+                return ((bool)(this["Server2AntiGriefingCollisionsRace3"]));
             }
             set {
                 this["Server2AntiGriefingCollisionsRace3"] = value;
@@ -37741,10 +37741,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server2AntiGriefingCollisionsRace4 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2AntiGriefingCollisionsRace4 {
             get {
-                return ((string)(this["Server2AntiGriefingCollisionsRace4"]));
+                return ((bool)(this["Server2AntiGriefingCollisionsRace4"]));
             }
             set {
                 this["Server2AntiGriefingCollisionsRace4"] = value;
@@ -37753,10 +37753,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server2AntiGriefingCollisionsRace5 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2AntiGriefingCollisionsRace5 {
             get {
-                return ((string)(this["Server2AntiGriefingCollisionsRace5"]));
+                return ((bool)(this["Server2AntiGriefingCollisionsRace5"]));
             }
             set {
                 this["Server2AntiGriefingCollisionsRace5"] = value;
@@ -37765,10 +37765,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server2AntiGriefingCollisionsRace6 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2AntiGriefingCollisionsRace6 {
             get {
-                return ((string)(this["Server2AntiGriefingCollisionsRace6"]));
+                return ((bool)(this["Server2AntiGriefingCollisionsRace6"]));
             }
             set {
                 this["Server2AntiGriefingCollisionsRace6"] = value;
@@ -37777,10 +37777,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server2AntiGriefingCollisionsRace7 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2AntiGriefingCollisionsRace7 {
             get {
-                return ((string)(this["Server2AntiGriefingCollisionsRace7"]));
+                return ((bool)(this["Server2AntiGriefingCollisionsRace7"]));
             }
             set {
                 this["Server2AntiGriefingCollisionsRace7"] = value;
@@ -37789,10 +37789,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server2AntiGriefingCollisionsRace8 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2AntiGriefingCollisionsRace8 {
             get {
-                return ((string)(this["Server2AntiGriefingCollisionsRace8"]));
+                return ((bool)(this["Server2AntiGriefingCollisionsRace8"]));
             }
             set {
                 this["Server2AntiGriefingCollisionsRace8"] = value;
@@ -37801,10 +37801,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server3AntiGriefingCollisionsRace1 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3AntiGriefingCollisionsRace1 {
             get {
-                return ((string)(this["Server3AntiGriefingCollisionsRace1"]));
+                return ((bool)(this["Server3AntiGriefingCollisionsRace1"]));
             }
             set {
                 this["Server3AntiGriefingCollisionsRace1"] = value;
@@ -37813,10 +37813,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server3AntiGriefingCollisionsRace2 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3AntiGriefingCollisionsRace2 {
             get {
-                return ((string)(this["Server3AntiGriefingCollisionsRace2"]));
+                return ((bool)(this["Server3AntiGriefingCollisionsRace2"]));
             }
             set {
                 this["Server3AntiGriefingCollisionsRace2"] = value;
@@ -37825,10 +37825,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server3AntiGriefingCollisionsRace3 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3AntiGriefingCollisionsRace3 {
             get {
-                return ((string)(this["Server3AntiGriefingCollisionsRace3"]));
+                return ((bool)(this["Server3AntiGriefingCollisionsRace3"]));
             }
             set {
                 this["Server3AntiGriefingCollisionsRace3"] = value;
@@ -37837,10 +37837,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server3AntiGriefingCollisionsRace4 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3AntiGriefingCollisionsRace4 {
             get {
-                return ((string)(this["Server3AntiGriefingCollisionsRace4"]));
+                return ((bool)(this["Server3AntiGriefingCollisionsRace4"]));
             }
             set {
                 this["Server3AntiGriefingCollisionsRace4"] = value;
@@ -37849,10 +37849,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server3AntiGriefingCollisionsRace5 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3AntiGriefingCollisionsRace5 {
             get {
-                return ((string)(this["Server3AntiGriefingCollisionsRace5"]));
+                return ((bool)(this["Server3AntiGriefingCollisionsRace5"]));
             }
             set {
                 this["Server3AntiGriefingCollisionsRace5"] = value;
@@ -37861,10 +37861,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server3AntiGriefingCollisionsRace6 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3AntiGriefingCollisionsRace6 {
             get {
-                return ((string)(this["Server3AntiGriefingCollisionsRace6"]));
+                return ((bool)(this["Server3AntiGriefingCollisionsRace6"]));
             }
             set {
                 this["Server3AntiGriefingCollisionsRace6"] = value;
@@ -37873,10 +37873,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server3AntiGriefingCollisionsRace7 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3AntiGriefingCollisionsRace7 {
             get {
-                return ((string)(this["Server3AntiGriefingCollisionsRace7"]));
+                return ((bool)(this["Server3AntiGriefingCollisionsRace7"]));
             }
             set {
                 this["Server3AntiGriefingCollisionsRace7"] = value;
@@ -37885,10 +37885,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server3AntiGriefingCollisionsRace8 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3AntiGriefingCollisionsRace8 {
             get {
-                return ((string)(this["Server3AntiGriefingCollisionsRace8"]));
+                return ((bool)(this["Server3AntiGriefingCollisionsRace8"]));
             }
             set {
                 this["Server3AntiGriefingCollisionsRace8"] = value;
@@ -37897,10 +37897,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server4AntiGriefingCollisionsRace1 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4AntiGriefingCollisionsRace1 {
             get {
-                return ((string)(this["Server4AntiGriefingCollisionsRace1"]));
+                return ((bool)(this["Server4AntiGriefingCollisionsRace1"]));
             }
             set {
                 this["Server4AntiGriefingCollisionsRace1"] = value;
@@ -37909,10 +37909,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server4AntiGriefingCollisionsRace2 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4AntiGriefingCollisionsRace2 {
             get {
-                return ((string)(this["Server4AntiGriefingCollisionsRace2"]));
+                return ((bool)(this["Server4AntiGriefingCollisionsRace2"]));
             }
             set {
                 this["Server4AntiGriefingCollisionsRace2"] = value;
@@ -37921,10 +37921,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server4AntiGriefingCollisionsRace3 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4AntiGriefingCollisionsRace3 {
             get {
-                return ((string)(this["Server4AntiGriefingCollisionsRace3"]));
+                return ((bool)(this["Server4AntiGriefingCollisionsRace3"]));
             }
             set {
                 this["Server4AntiGriefingCollisionsRace3"] = value;
@@ -37933,10 +37933,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server4AntiGriefingCollisionsRace4 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4AntiGriefingCollisionsRace4 {
             get {
-                return ((string)(this["Server4AntiGriefingCollisionsRace4"]));
+                return ((bool)(this["Server4AntiGriefingCollisionsRace4"]));
             }
             set {
                 this["Server4AntiGriefingCollisionsRace4"] = value;
@@ -37945,10 +37945,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server4AntiGriefingCollisionsRace5 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4AntiGriefingCollisionsRace5 {
             get {
-                return ((string)(this["Server4AntiGriefingCollisionsRace5"]));
+                return ((bool)(this["Server4AntiGriefingCollisionsRace5"]));
             }
             set {
                 this["Server4AntiGriefingCollisionsRace5"] = value;
@@ -37957,10 +37957,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server4AntiGriefingCollisionsRace6 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4AntiGriefingCollisionsRace6 {
             get {
-                return ((string)(this["Server4AntiGriefingCollisionsRace6"]));
+                return ((bool)(this["Server4AntiGriefingCollisionsRace6"]));
             }
             set {
                 this["Server4AntiGriefingCollisionsRace6"] = value;
@@ -37969,10 +37969,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server4AntiGriefingCollisionsRace7 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4AntiGriefingCollisionsRace7 {
             get {
-                return ((string)(this["Server4AntiGriefingCollisionsRace7"]));
+                return ((bool)(this["Server4AntiGriefingCollisionsRace7"]));
             }
             set {
                 this["Server4AntiGriefingCollisionsRace7"] = value;
@@ -37981,10 +37981,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server4AntiGriefingCollisionsRace8 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4AntiGriefingCollisionsRace8 {
             get {
-                return ((string)(this["Server4AntiGriefingCollisionsRace8"]));
+                return ((bool)(this["Server4AntiGriefingCollisionsRace8"]));
             }
             set {
                 this["Server4AntiGriefingCollisionsRace8"] = value;
@@ -37993,10 +37993,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server5AntiGriefingCollisionsRace1 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5AntiGriefingCollisionsRace1 {
             get {
-                return ((string)(this["Server5AntiGriefingCollisionsRace1"]));
+                return ((bool)(this["Server5AntiGriefingCollisionsRace1"]));
             }
             set {
                 this["Server5AntiGriefingCollisionsRace1"] = value;
@@ -38005,10 +38005,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server5AntiGriefingCollisionsRace2 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5AntiGriefingCollisionsRace2 {
             get {
-                return ((string)(this["Server5AntiGriefingCollisionsRace2"]));
+                return ((bool)(this["Server5AntiGriefingCollisionsRace2"]));
             }
             set {
                 this["Server5AntiGriefingCollisionsRace2"] = value;
@@ -38017,10 +38017,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server5AntiGriefingCollisionsRace3 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5AntiGriefingCollisionsRace3 {
             get {
-                return ((string)(this["Server5AntiGriefingCollisionsRace3"]));
+                return ((bool)(this["Server5AntiGriefingCollisionsRace3"]));
             }
             set {
                 this["Server5AntiGriefingCollisionsRace3"] = value;
@@ -38029,10 +38029,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server5AntiGriefingCollisionsRace4 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5AntiGriefingCollisionsRace4 {
             get {
-                return ((string)(this["Server5AntiGriefingCollisionsRace4"]));
+                return ((bool)(this["Server5AntiGriefingCollisionsRace4"]));
             }
             set {
                 this["Server5AntiGriefingCollisionsRace4"] = value;
@@ -38041,10 +38041,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server5AntiGriefingCollisionsRace5 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5AntiGriefingCollisionsRace5 {
             get {
-                return ((string)(this["Server5AntiGriefingCollisionsRace5"]));
+                return ((bool)(this["Server5AntiGriefingCollisionsRace5"]));
             }
             set {
                 this["Server5AntiGriefingCollisionsRace5"] = value;
@@ -38053,10 +38053,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server5AntiGriefingCollisionsRace6 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5AntiGriefingCollisionsRace6 {
             get {
-                return ((string)(this["Server5AntiGriefingCollisionsRace6"]));
+                return ((bool)(this["Server5AntiGriefingCollisionsRace6"]));
             }
             set {
                 this["Server5AntiGriefingCollisionsRace6"] = value;
@@ -38065,10 +38065,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server5AntiGriefingCollisionsRace7 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5AntiGriefingCollisionsRace7 {
             get {
-                return ((string)(this["Server5AntiGriefingCollisionsRace7"]));
+                return ((bool)(this["Server5AntiGriefingCollisionsRace7"]));
             }
             set {
                 this["Server5AntiGriefingCollisionsRace7"] = value;
@@ -38077,10 +38077,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server5AntiGriefingCollisionsRace8 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5AntiGriefingCollisionsRace8 {
             get {
-                return ((string)(this["Server5AntiGriefingCollisionsRace8"]));
+                return ((bool)(this["Server5AntiGriefingCollisionsRace8"]));
             }
             set {
                 this["Server5AntiGriefingCollisionsRace8"] = value;
@@ -38089,10 +38089,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server6AntiGriefingCollisionsRace1 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6AntiGriefingCollisionsRace1 {
             get {
-                return ((string)(this["Server6AntiGriefingCollisionsRace1"]));
+                return ((bool)(this["Server6AntiGriefingCollisionsRace1"]));
             }
             set {
                 this["Server6AntiGriefingCollisionsRace1"] = value;
@@ -38101,10 +38101,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server6AntiGriefingCollisionsRace2 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6AntiGriefingCollisionsRace2 {
             get {
-                return ((string)(this["Server6AntiGriefingCollisionsRace2"]));
+                return ((bool)(this["Server6AntiGriefingCollisionsRace2"]));
             }
             set {
                 this["Server6AntiGriefingCollisionsRace2"] = value;
@@ -38113,10 +38113,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server6AntiGriefingCollisionsRace3 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6AntiGriefingCollisionsRace3 {
             get {
-                return ((string)(this["Server6AntiGriefingCollisionsRace3"]));
+                return ((bool)(this["Server6AntiGriefingCollisionsRace3"]));
             }
             set {
                 this["Server6AntiGriefingCollisionsRace3"] = value;
@@ -38125,10 +38125,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server6AntiGriefingCollisionsRace4 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6AntiGriefingCollisionsRace4 {
             get {
-                return ((string)(this["Server6AntiGriefingCollisionsRace4"]));
+                return ((bool)(this["Server6AntiGriefingCollisionsRace4"]));
             }
             set {
                 this["Server6AntiGriefingCollisionsRace4"] = value;
@@ -38137,10 +38137,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server6AntiGriefingCollisionsRace5 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6AntiGriefingCollisionsRace5 {
             get {
-                return ((string)(this["Server6AntiGriefingCollisionsRace5"]));
+                return ((bool)(this["Server6AntiGriefingCollisionsRace5"]));
             }
             set {
                 this["Server6AntiGriefingCollisionsRace5"] = value;
@@ -38149,10 +38149,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server6AntiGriefingCollisionsRace6 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6AntiGriefingCollisionsRace6 {
             get {
-                return ((string)(this["Server6AntiGriefingCollisionsRace6"]));
+                return ((bool)(this["Server6AntiGriefingCollisionsRace6"]));
             }
             set {
                 this["Server6AntiGriefingCollisionsRace6"] = value;
@@ -38161,10 +38161,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server6AntiGriefingCollisionsRace7 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6AntiGriefingCollisionsRace7 {
             get {
-                return ((string)(this["Server6AntiGriefingCollisionsRace7"]));
+                return ((bool)(this["Server6AntiGriefingCollisionsRace7"]));
             }
             set {
                 this["Server6AntiGriefingCollisionsRace7"] = value;
@@ -38173,10 +38173,10 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Server6AntiGriefingCollisionsRace8 {
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6AntiGriefingCollisionsRace8 {
             get {
-                return ((string)(this["Server6AntiGriefingCollisionsRace8"]));
+                return ((bool)(this["Server6AntiGriefingCollisionsRace8"]));
             }
             set {
                 this["Server6AntiGriefingCollisionsRace8"] = value;

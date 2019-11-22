@@ -687,6 +687,14 @@
             Form2.mainWindow.CheckBox_CustomSetupRace6.Checked = Properties.Settings.Default.Server1CustomSetupRace6;
             Form2.mainWindow.CheckBox_CustomSetupRace7.Checked = Properties.Settings.Default.Server1CustomSetupRace7;
             Form2.mainWindow.CheckBox_CustomSetupRace8.Checked = Properties.Settings.Default.Server1CustomSetupRace8;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace1.Checked = Properties.Settings.Default.Server1AntiGriefingCollisionsRace1;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace2.Checked = Properties.Settings.Default.Server1AntiGriefingCollisionsRace2;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace3.Checked = Properties.Settings.Default.Server1AntiGriefingCollisionsRace3;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace4.Checked = Properties.Settings.Default.Server1AntiGriefingCollisionsRace4;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace5.Checked = Properties.Settings.Default.Server1AntiGriefingCollisionsRace5;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace6.Checked = Properties.Settings.Default.Server1AntiGriefingCollisionsRace6;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace7.Checked = Properties.Settings.Default.Server1AntiGriefingCollisionsRace7;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace8.Checked = Properties.Settings.Default.Server1AntiGriefingCollisionsRace8;
 
 
         }
@@ -1192,6 +1200,14 @@
             Form2.mainWindow.CheckBox_CustomSetupRace6.Checked = Properties.Settings.Default.Server2CustomSetupRace6;
             Form2.mainWindow.CheckBox_CustomSetupRace7.Checked = Properties.Settings.Default.Server2CustomSetupRace7;
             Form2.mainWindow.CheckBox_CustomSetupRace8.Checked = Properties.Settings.Default.Server2CustomSetupRace8;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace1.Checked = Properties.Settings.Default.Server2AntiGriefingCollisionsRace1;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace2.Checked = Properties.Settings.Default.Server2AntiGriefingCollisionsRace2;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace3.Checked = Properties.Settings.Default.Server2AntiGriefingCollisionsRace3;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace4.Checked = Properties.Settings.Default.Server2AntiGriefingCollisionsRace4;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace5.Checked = Properties.Settings.Default.Server2AntiGriefingCollisionsRace5;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace6.Checked = Properties.Settings.Default.Server2AntiGriefingCollisionsRace6;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace7.Checked = Properties.Settings.Default.Server2AntiGriefingCollisionsRace7;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace8.Checked = Properties.Settings.Default.Server2AntiGriefingCollisionsRace8;
         }
 
         //Server 3 Race
@@ -1695,6 +1711,14 @@
             Form2.mainWindow.CheckBox_CustomSetupRace6.Checked = Properties.Settings.Default.Server3CustomSetupRace6;
             Form2.mainWindow.CheckBox_CustomSetupRace7.Checked = Properties.Settings.Default.Server3CustomSetupRace7;
             Form2.mainWindow.CheckBox_CustomSetupRace8.Checked = Properties.Settings.Default.Server3CustomSetupRace8;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace1.Checked = Properties.Settings.Default.Server3AntiGriefingCollisionsRace1;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace2.Checked = Properties.Settings.Default.Server3AntiGriefingCollisionsRace2;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace3.Checked = Properties.Settings.Default.Server3AntiGriefingCollisionsRace3;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace4.Checked = Properties.Settings.Default.Server3AntiGriefingCollisionsRace4;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace5.Checked = Properties.Settings.Default.Server3AntiGriefingCollisionsRace5;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace6.Checked = Properties.Settings.Default.Server3AntiGriefingCollisionsRace6;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace7.Checked = Properties.Settings.Default.Server3AntiGriefingCollisionsRace7;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace8.Checked = Properties.Settings.Default.Server3AntiGriefingCollisionsRace8;
         }
 
         //Server 4 Race
@@ -2198,6 +2222,14 @@
             Form2.mainWindow.CheckBox_CustomSetupRace6.Checked = Properties.Settings.Default.Server4CustomSetupRace6;
             Form2.mainWindow.CheckBox_CustomSetupRace7.Checked = Properties.Settings.Default.Server4CustomSetupRace7;
             Form2.mainWindow.CheckBox_CustomSetupRace8.Checked = Properties.Settings.Default.Server4CustomSetupRace8;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace1.Checked = Properties.Settings.Default.Server4AntiGriefingCollisionsRace1;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace2.Checked = Properties.Settings.Default.Server4AntiGriefingCollisionsRace2;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace3.Checked = Properties.Settings.Default.Server4AntiGriefingCollisionsRace3;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace4.Checked = Properties.Settings.Default.Server4AntiGriefingCollisionsRace4;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace5.Checked = Properties.Settings.Default.Server4AntiGriefingCollisionsRace5;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace6.Checked = Properties.Settings.Default.Server4AntiGriefingCollisionsRace6;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace7.Checked = Properties.Settings.Default.Server4AntiGriefingCollisionsRace7;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace8.Checked = Properties.Settings.Default.Server4AntiGriefingCollisionsRace8;
 
         }
 
@@ -2703,6 +2735,14 @@
             Form2.mainWindow.CheckBox_CustomSetupRace6.Checked = Properties.Settings.Default.Server5CustomSetupRace6;
             Form2.mainWindow.CheckBox_CustomSetupRace7.Checked = Properties.Settings.Default.Server5CustomSetupRace7;
             Form2.mainWindow.CheckBox_CustomSetupRace8.Checked = Properties.Settings.Default.Server5CustomSetupRace8;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace1.Checked = Properties.Settings.Default.Server5AntiGriefingCollisionsRace1;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace2.Checked = Properties.Settings.Default.Server5AntiGriefingCollisionsRace2;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace3.Checked = Properties.Settings.Default.Server5AntiGriefingCollisionsRace3;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace4.Checked = Properties.Settings.Default.Server5AntiGriefingCollisionsRace4;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace5.Checked = Properties.Settings.Default.Server5AntiGriefingCollisionsRace5;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace6.Checked = Properties.Settings.Default.Server5AntiGriefingCollisionsRace6;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace7.Checked = Properties.Settings.Default.Server5AntiGriefingCollisionsRace7;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace8.Checked = Properties.Settings.Default.Server5AntiGriefingCollisionsRace8;
         }
 
         //Server 6 Race
@@ -3207,6 +3247,14 @@
             Form2.mainWindow.CheckBox_CustomSetupRace6.Checked = Properties.Settings.Default.Server6CustomSetupRace6;
             Form2.mainWindow.CheckBox_CustomSetupRace7.Checked = Properties.Settings.Default.Server6CustomSetupRace7;
             Form2.mainWindow.CheckBox_CustomSetupRace8.Checked = Properties.Settings.Default.Server6CustomSetupRace8;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace1.Checked = Properties.Settings.Default.Server6AntiGriefingCollisionsRace1;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace2.Checked = Properties.Settings.Default.Server6AntiGriefingCollisionsRace2;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace3.Checked = Properties.Settings.Default.Server6AntiGriefingCollisionsRace3;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace4.Checked = Properties.Settings.Default.Server6AntiGriefingCollisionsRace4;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace5.Checked = Properties.Settings.Default.Server6AntiGriefingCollisionsRace5;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace6.Checked = Properties.Settings.Default.Server6AntiGriefingCollisionsRace6;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace7.Checked = Properties.Settings.Default.Server6AntiGriefingCollisionsRace7;
+            Form2.mainWindow.CheckBox_AntiGriefingCollisionsRace8.Checked = Properties.Settings.Default.Server6AntiGriefingCollisionsRace8;
 
         }
 
