@@ -78,20 +78,20 @@
             this.groupBox_Rules = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace1 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace1 = new System.Windows.Forms.CheckBox();
-            this.checkBox_pitStopErrors = new System.Windows.Forms.CheckBox();
+            this.CheckBox_pitStopErrorsRace1 = new System.Windows.Forms.CheckBox();
             this.TxtBox_RankRace1 = new System.Windows.Forms.TextBox();
-            this.checkBox_PitSpeedLimiter = new System.Windows.Forms.CheckBox();
+            this.CheckBox_PitSpeedLimiterRace1 = new System.Windows.Forms.CheckBox();
             this.CbBox_RankRace1 = new System.Windows.Forms.ComboBox();
-            this.checkBox_RaceDirector = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RaceDirectorRace1 = new System.Windows.Forms.CheckBox();
             this.CheckBox_WaitForRaceReadyRace1 = new System.Windows.Forms.CheckBox();
             this.CheckBox_MechanicalFailuresRace1 = new System.Windows.Forms.CheckBox();
-            this.checkBox_BROADCASTER = new System.Windows.Forms.CheckBox();
-            this.checkBox_RealisticAids = new System.Windows.Forms.CheckBox();
+            this.CheckBox_BroadCasterRace1 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RealisticAidsRace1 = new System.Windows.Forms.CheckBox();
             this.CheckBox_TcsAllowedRace1 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ScAllowedRace1 = new System.Windows.Forms.CheckBox();
             this.CbBox_PenaltyTimeRace1 = new System.Windows.Forms.ComboBox();
             this.CheckBox_CustomSetupRace1 = new System.Windows.Forms.CheckBox();
-            this.CheckBox_ForceManual = new System.Windows.Forms.CheckBox();
+            this.CheckBox_ForceManualRace1 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AbsAllowedRace1 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AntiGriefingCollisionsRace1 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ManualPitStopRace1 = new System.Windows.Forms.CheckBox();
@@ -158,6 +158,7 @@
             this.Lbl_DurationOfTraining1 = new System.Windows.Forms.Label();
             this.TxtBx_PracticeLengthRace1 = new System.Windows.Forms.TextBox();
             this.groupBox_Race1TracksAndCars = new System.Windows.Forms.GroupBox();
+            this.CheckBox_SameRules = new System.Windows.Forms.CheckBox();
             this.CheckBox_SameTrack = new System.Windows.Forms.CheckBox();
             this.CheckBox_SameCars = new System.Windows.Forms.CheckBox();
             this.CbBox_Race1Class4 = new System.Windows.Forms.ComboBox();
@@ -177,20 +178,20 @@
             this.groupBox9 = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace2 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace2 = new System.Windows.Forms.CheckBox();
-            this.checkBox4 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_pitStopErrorsRace2 = new System.Windows.Forms.CheckBox();
             this.TxtBox_RankRace2 = new System.Windows.Forms.TextBox();
-            this.checkBox5 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_PitSpeedLimiterRace2 = new System.Windows.Forms.CheckBox();
             this.CbBox_RankRace2 = new System.Windows.Forms.ComboBox();
-            this.checkBox6 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RaceDirectorRace2 = new System.Windows.Forms.CheckBox();
             this.CheckBox_WaitForRaceReadyRace2 = new System.Windows.Forms.CheckBox();
             this.CheckBox_MechanicalFailuresRace2 = new System.Windows.Forms.CheckBox();
-            this.checkBox9 = new System.Windows.Forms.CheckBox();
-            this.checkBox10 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_BroadCasterRace2 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RealisticAidsRace2 = new System.Windows.Forms.CheckBox();
             this.CheckBox_TcsAllowedRace2 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ScAllowedRace2 = new System.Windows.Forms.CheckBox();
             this.CbBox_PenaltyTimeRace2 = new System.Windows.Forms.ComboBox();
             this.CheckBox_CustomSetupRace2 = new System.Windows.Forms.CheckBox();
-            this.checkBox14 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_ForceManualRace2 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AbsAllowedRace2 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AntiGriefingCollisionsRace2 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ManualPitStopRace2 = new System.Windows.Forms.CheckBox();
@@ -274,20 +275,20 @@
             this.groupBox11 = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace3 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace3 = new System.Windows.Forms.CheckBox();
-            this.checkBox30 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_pitStopErrorsRace3 = new System.Windows.Forms.CheckBox();
             this.TxtBox_RankRace3 = new System.Windows.Forms.TextBox();
-            this.checkBox31 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_PitSpeedLimiterRace3 = new System.Windows.Forms.CheckBox();
             this.CbBox_RankRace3 = new System.Windows.Forms.ComboBox();
-            this.checkBox32 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RaceDirectorRace3 = new System.Windows.Forms.CheckBox();
             this.CheckBox_WaitForRaceReadyRace3 = new System.Windows.Forms.CheckBox();
             this.CheckBox_MechanicalFailuresRace3 = new System.Windows.Forms.CheckBox();
-            this.checkBox35 = new System.Windows.Forms.CheckBox();
-            this.checkBox36 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_BroadCasterRace3 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RealisticAidsRace3 = new System.Windows.Forms.CheckBox();
             this.CheckBox_TcsAllowedRace3 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ScAllowedRace3 = new System.Windows.Forms.CheckBox();
             this.CbBox_PenaltyTimeRace3 = new System.Windows.Forms.ComboBox();
             this.CheckBox_CustomSetupRace3 = new System.Windows.Forms.CheckBox();
-            this.checkBox40 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_ForceManualRace3 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AbsAllowedRace3 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AntiGriefingCollisionsRace3 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ManualPitStopRace3 = new System.Windows.Forms.CheckBox();
@@ -371,20 +372,20 @@
             this.groupBox13 = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace4 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace4 = new System.Windows.Forms.CheckBox();
-            this.checkBox56 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_pitStopErrorsRace4 = new System.Windows.Forms.CheckBox();
             this.TxtBox_RankRace4 = new System.Windows.Forms.TextBox();
-            this.checkBox57 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_PitSpeedLimiterRace4 = new System.Windows.Forms.CheckBox();
             this.CbBox_RankRace4 = new System.Windows.Forms.ComboBox();
-            this.checkBox58 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RaceDirectorRace4 = new System.Windows.Forms.CheckBox();
             this.CheckBox_WaitForRaceReadyRace4 = new System.Windows.Forms.CheckBox();
             this.CheckBox_MechanicalFailuresRace4 = new System.Windows.Forms.CheckBox();
-            this.checkBox61 = new System.Windows.Forms.CheckBox();
-            this.checkBox62 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_BroadCasterRace4 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RealisticAidsRace4 = new System.Windows.Forms.CheckBox();
             this.CheckBox_TcsAllowedRace4 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ScAllowedRace4 = new System.Windows.Forms.CheckBox();
             this.CbBox_PenaltyTimeRace4 = new System.Windows.Forms.ComboBox();
             this.CheckBox_CustomSetupRace4 = new System.Windows.Forms.CheckBox();
-            this.checkBox66 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_ForceManualRace4 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AbsAllowedRace4 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AntiGriefingCollisionsRace4 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ManualPitStopRace4 = new System.Windows.Forms.CheckBox();
@@ -468,20 +469,20 @@
             this.groupBox15 = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace5 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace5 = new System.Windows.Forms.CheckBox();
-            this.checkBox82 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_pitStopErrorsRace5 = new System.Windows.Forms.CheckBox();
             this.TxtBox_RankRace5 = new System.Windows.Forms.TextBox();
-            this.checkBox83 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_PitSpeedLimiterRace5 = new System.Windows.Forms.CheckBox();
             this.CbBox_RankRace5 = new System.Windows.Forms.ComboBox();
-            this.checkBox84 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RaceDirectorRace5 = new System.Windows.Forms.CheckBox();
             this.CheckBox_WaitForRaceReadyRace5 = new System.Windows.Forms.CheckBox();
             this.CheckBox_MechanicalFailuresRace5 = new System.Windows.Forms.CheckBox();
-            this.checkBox87 = new System.Windows.Forms.CheckBox();
-            this.checkBox88 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_BroadCasterRace5 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RealisticAidsRace5 = new System.Windows.Forms.CheckBox();
             this.CheckBox_TcsAllowedRace5 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ScAllowedRace5 = new System.Windows.Forms.CheckBox();
             this.CbBox_PenaltyTimeRace5 = new System.Windows.Forms.ComboBox();
             this.CheckBox_CustomSetupRace5 = new System.Windows.Forms.CheckBox();
-            this.checkBox92 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_ForceManualRace5 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AbsAllowedRace5 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AntiGriefingCollisionsRace5 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ManualPitStopRace5 = new System.Windows.Forms.CheckBox();
@@ -565,20 +566,20 @@
             this.groupBox17 = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace6 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace6 = new System.Windows.Forms.CheckBox();
-            this.checkBox108 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_pitStopErrorsRace6 = new System.Windows.Forms.CheckBox();
             this.TxtBox_RankRace6 = new System.Windows.Forms.TextBox();
-            this.checkBox109 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_PitSpeedLimiterRace6 = new System.Windows.Forms.CheckBox();
             this.CbBox_RankRace6 = new System.Windows.Forms.ComboBox();
-            this.checkBox110 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RaceDirectorRace6 = new System.Windows.Forms.CheckBox();
             this.CheckBox_WaitForRaceReadyRace6 = new System.Windows.Forms.CheckBox();
             this.CheckBox_MechanicalFailuresRace6 = new System.Windows.Forms.CheckBox();
-            this.checkBox113 = new System.Windows.Forms.CheckBox();
-            this.checkBox114 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_BroadCasterRace6 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RealisticAidsRace6 = new System.Windows.Forms.CheckBox();
             this.CheckBox_TcsAllowedRace6 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ScAllowedRace6 = new System.Windows.Forms.CheckBox();
             this.CbBox_PenaltyTimeRace6 = new System.Windows.Forms.ComboBox();
             this.CheckBox_CustomSetupRace6 = new System.Windows.Forms.CheckBox();
-            this.checkBox118 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_ForceManualRace6 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AbsAllowedRace6 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AntiGriefingCollisionsRace6 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ManualPitStopRace6 = new System.Windows.Forms.CheckBox();
@@ -662,20 +663,20 @@
             this.groupBox19 = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace7 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace7 = new System.Windows.Forms.CheckBox();
-            this.checkBox134 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_pitStopErrorsRace7 = new System.Windows.Forms.CheckBox();
             this.TxtBox_RankRace7 = new System.Windows.Forms.TextBox();
-            this.checkBox135 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_PitSpeedLimiterRace7 = new System.Windows.Forms.CheckBox();
             this.CbBox_RankRace7 = new System.Windows.Forms.ComboBox();
-            this.checkBox136 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RaceDirectorRace7 = new System.Windows.Forms.CheckBox();
             this.CheckBox_WaitForRaceReadyRace7 = new System.Windows.Forms.CheckBox();
             this.CheckBox_MechanicalFailuresRace7 = new System.Windows.Forms.CheckBox();
-            this.checkBox139 = new System.Windows.Forms.CheckBox();
-            this.checkBox140 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_BroadCasterRace7 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RealisticAidsRace7 = new System.Windows.Forms.CheckBox();
             this.CheckBox_TcsAllowedRace7 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ScAllowedRace7 = new System.Windows.Forms.CheckBox();
             this.CbBox_PenaltyTimeRace7 = new System.Windows.Forms.ComboBox();
             this.CheckBox_CustomSetupRace7 = new System.Windows.Forms.CheckBox();
-            this.checkBox144 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_ForceManualRace7 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AbsAllowedRace7 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AntiGriefingCollisionsRace7 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ManualPitStopRace7 = new System.Windows.Forms.CheckBox();
@@ -759,20 +760,20 @@
             this.groupBox21 = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace8 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace8 = new System.Windows.Forms.CheckBox();
-            this.checkBox160 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_pitStopErrorsRace8 = new System.Windows.Forms.CheckBox();
             this.TxtBox_RankRace8 = new System.Windows.Forms.TextBox();
-            this.checkBox161 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_PitSpeedLimiterRace8 = new System.Windows.Forms.CheckBox();
             this.CbBox_RankRace8 = new System.Windows.Forms.ComboBox();
-            this.checkBox162 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RaceDirectorRace8 = new System.Windows.Forms.CheckBox();
             this.CheckBox_WaitForRaceReadyRace8 = new System.Windows.Forms.CheckBox();
             this.CheckBox_MechanicalFailuresRace8 = new System.Windows.Forms.CheckBox();
-            this.checkBox165 = new System.Windows.Forms.CheckBox();
-            this.checkBox166 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_BroadCasterRace8 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_RealisticAidsRace8 = new System.Windows.Forms.CheckBox();
             this.CheckBox_TcsAllowedRace8 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ScAllowedRace8 = new System.Windows.Forms.CheckBox();
             this.CbBox_PenaltyTimeRace8 = new System.Windows.Forms.ComboBox();
             this.CheckBox_CustomSetupRace8 = new System.Windows.Forms.CheckBox();
-            this.checkBox170 = new System.Windows.Forms.CheckBox();
+            this.CheckBox_ForceManualRace8 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AbsAllowedRace8 = new System.Windows.Forms.CheckBox();
             this.CheckBox_AntiGriefingCollisionsRace8 = new System.Windows.Forms.CheckBox();
             this.CheckBox_ManualPitStopRace8 = new System.Windows.Forms.CheckBox();
@@ -1471,20 +1472,20 @@
             this.groupBox_Rules.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.groupBox_Rules.Controls.Add(this.CheckBox_PenaltiesRace1);
             this.groupBox_Rules.Controls.Add(this.CheckBox_RankRace1);
-            this.groupBox_Rules.Controls.Add(this.checkBox_pitStopErrors);
+            this.groupBox_Rules.Controls.Add(this.CheckBox_pitStopErrorsRace1);
             this.groupBox_Rules.Controls.Add(this.TxtBox_RankRace1);
-            this.groupBox_Rules.Controls.Add(this.checkBox_PitSpeedLimiter);
+            this.groupBox_Rules.Controls.Add(this.CheckBox_PitSpeedLimiterRace1);
             this.groupBox_Rules.Controls.Add(this.CbBox_RankRace1);
-            this.groupBox_Rules.Controls.Add(this.checkBox_RaceDirector);
+            this.groupBox_Rules.Controls.Add(this.CheckBox_RaceDirectorRace1);
             this.groupBox_Rules.Controls.Add(this.CheckBox_WaitForRaceReadyRace1);
             this.groupBox_Rules.Controls.Add(this.CheckBox_MechanicalFailuresRace1);
-            this.groupBox_Rules.Controls.Add(this.checkBox_BROADCASTER);
-            this.groupBox_Rules.Controls.Add(this.checkBox_RealisticAids);
+            this.groupBox_Rules.Controls.Add(this.CheckBox_BroadCasterRace1);
+            this.groupBox_Rules.Controls.Add(this.CheckBox_RealisticAidsRace1);
             this.groupBox_Rules.Controls.Add(this.CheckBox_TcsAllowedRace1);
             this.groupBox_Rules.Controls.Add(this.CheckBox_ScAllowedRace1);
             this.groupBox_Rules.Controls.Add(this.CbBox_PenaltyTimeRace1);
             this.groupBox_Rules.Controls.Add(this.CheckBox_CustomSetupRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_ForceManual);
+            this.groupBox_Rules.Controls.Add(this.CheckBox_ForceManualRace1);
             this.groupBox_Rules.Controls.Add(this.CheckBox_AbsAllowedRace1);
             this.groupBox_Rules.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace1);
             this.groupBox_Rules.Controls.Add(this.CheckBox_ManualPitStopRace1);
@@ -1537,15 +1538,15 @@
             this.CheckBox_RankRace1.UseVisualStyleBackColor = true;
             this.CheckBox_RankRace1.CheckedChanged += new System.EventHandler(this.CheckBox_RankRace1_CheckedChanged);
             // 
-            // checkBox_pitStopErrors
+            // CheckBox_pitStopErrorsRace1
             // 
-            this.checkBox_pitStopErrors.AutoSize = true;
-            this.checkBox_pitStopErrors.Location = new System.Drawing.Point(673, 160);
-            this.checkBox_pitStopErrors.Name = "checkBox_pitStopErrors";
-            this.checkBox_pitStopErrors.Size = new System.Drawing.Size(223, 17);
-            this.checkBox_pitStopErrors.TabIndex = 78;
-            this.checkBox_pitStopErrors.Text = "ERREURS AUTORISEES AUX STANDS";
-            this.checkBox_pitStopErrors.UseVisualStyleBackColor = true;
+            this.CheckBox_pitStopErrorsRace1.AutoSize = true;
+            this.CheckBox_pitStopErrorsRace1.Location = new System.Drawing.Point(673, 160);
+            this.CheckBox_pitStopErrorsRace1.Name = "CheckBox_pitStopErrorsRace1";
+            this.CheckBox_pitStopErrorsRace1.Size = new System.Drawing.Size(223, 17);
+            this.CheckBox_pitStopErrorsRace1.TabIndex = 78;
+            this.CheckBox_pitStopErrorsRace1.Text = "ERREURS AUTORISEES AUX STANDS";
+            this.CheckBox_pitStopErrorsRace1.UseVisualStyleBackColor = true;
             // 
             // TxtBox_RankRace1
             // 
@@ -1555,15 +1556,15 @@
             this.TxtBox_RankRace1.TabIndex = 54;
             this.TxtBox_RankRace1.Validating += new System.ComponentModel.CancelEventHandler(this.TxtBox_RankRace1_Validating);
             // 
-            // checkBox_PitSpeedLimiter
+            // CheckBox_PitSpeedLimiterRace1
             // 
-            this.checkBox_PitSpeedLimiter.AutoSize = true;
-            this.checkBox_PitSpeedLimiter.Location = new System.Drawing.Point(673, 140);
-            this.checkBox_PitSpeedLimiter.Name = "checkBox_PitSpeedLimiter";
-            this.checkBox_PitSpeedLimiter.Size = new System.Drawing.Size(190, 17);
-            this.checkBox_PitSpeedLimiter.TabIndex = 77;
-            this.checkBox_PitSpeedLimiter.Text = "LIMITEUR DE VITESSE STANDS";
-            this.checkBox_PitSpeedLimiter.UseVisualStyleBackColor = true;
+            this.CheckBox_PitSpeedLimiterRace1.AutoSize = true;
+            this.CheckBox_PitSpeedLimiterRace1.Location = new System.Drawing.Point(673, 140);
+            this.CheckBox_PitSpeedLimiterRace1.Name = "CheckBox_PitSpeedLimiterRace1";
+            this.CheckBox_PitSpeedLimiterRace1.Size = new System.Drawing.Size(190, 17);
+            this.CheckBox_PitSpeedLimiterRace1.TabIndex = 77;
+            this.CheckBox_PitSpeedLimiterRace1.Text = "LIMITEUR DE VITESSE STANDS";
+            this.CheckBox_PitSpeedLimiterRace1.UseVisualStyleBackColor = true;
             // 
             // CbBox_RankRace1
             // 
@@ -1582,15 +1583,15 @@
             this.CbBox_RankRace1.Size = new System.Drawing.Size(34, 21);
             this.CbBox_RankRace1.TabIndex = 53;
             // 
-            // checkBox_RaceDirector
+            // CheckBox_RaceDirectorRace1
             // 
-            this.checkBox_RaceDirector.AutoSize = true;
-            this.checkBox_RaceDirector.Location = new System.Drawing.Point(673, 120);
-            this.checkBox_RaceDirector.Name = "checkBox_RaceDirector";
-            this.checkBox_RaceDirector.Size = new System.Drawing.Size(155, 17);
-            this.checkBox_RaceDirector.TabIndex = 76;
-            this.checkBox_RaceDirector.Text = "DIRECTEUR DE COURSE";
-            this.checkBox_RaceDirector.UseVisualStyleBackColor = true;
+            this.CheckBox_RaceDirectorRace1.AutoSize = true;
+            this.CheckBox_RaceDirectorRace1.Location = new System.Drawing.Point(673, 120);
+            this.CheckBox_RaceDirectorRace1.Name = "CheckBox_RaceDirectorRace1";
+            this.CheckBox_RaceDirectorRace1.Size = new System.Drawing.Size(155, 17);
+            this.CheckBox_RaceDirectorRace1.TabIndex = 76;
+            this.CheckBox_RaceDirectorRace1.Text = "DIRECTEUR DE COURSE";
+            this.CheckBox_RaceDirectorRace1.UseVisualStyleBackColor = true;
             // 
             // CheckBox_WaitForRaceReadyRace1
             // 
@@ -1612,25 +1613,26 @@
             this.CheckBox_MechanicalFailuresRace1.Text = "PANNES MECANIQUES";
             this.CheckBox_MechanicalFailuresRace1.UseVisualStyleBackColor = true;
             // 
-            // checkBox_BROADCASTER
+            // CheckBox_BroadCasterRace1
             // 
-            this.checkBox_BROADCASTER.AutoSize = true;
-            this.checkBox_BROADCASTER.Location = new System.Drawing.Point(673, 100);
-            this.checkBox_BROADCASTER.Name = "checkBox_BROADCASTER";
-            this.checkBox_BROADCASTER.Size = new System.Drawing.Size(107, 17);
-            this.checkBox_BROADCASTER.TabIndex = 75;
-            this.checkBox_BROADCASTER.Text = "BROADCASTER";
-            this.checkBox_BROADCASTER.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace1.AutoSize = true;
+            this.CheckBox_BroadCasterRace1.Location = new System.Drawing.Point(673, 100);
+            this.CheckBox_BroadCasterRace1.Name = "CheckBox_BroadCasterRace1";
+            this.CheckBox_BroadCasterRace1.Size = new System.Drawing.Size(107, 17);
+            this.CheckBox_BroadCasterRace1.TabIndex = 75;
+            this.CheckBox_BroadCasterRace1.Text = "BROADCASTER";
+            this.CheckBox_BroadCasterRace1.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace1.CheckedChanged += new System.EventHandler(this.CheckBox_BroadCasterRace1_CheckedChanged);
             // 
-            // checkBox_RealisticAids
+            // CheckBox_RealisticAidsRace1
             // 
-            this.checkBox_RealisticAids.AutoSize = true;
-            this.checkBox_RealisticAids.Location = new System.Drawing.Point(673, 80);
-            this.checkBox_RealisticAids.Name = "checkBox_RealisticAids";
-            this.checkBox_RealisticAids.Size = new System.Drawing.Size(198, 17);
-            this.checkBox_RealisticAids.TabIndex = 74;
-            this.checkBox_RealisticAids.Text = "AIDES A LA CONDUITE REALISTE";
-            this.checkBox_RealisticAids.UseVisualStyleBackColor = true;
+            this.CheckBox_RealisticAidsRace1.AutoSize = true;
+            this.CheckBox_RealisticAidsRace1.Location = new System.Drawing.Point(673, 80);
+            this.CheckBox_RealisticAidsRace1.Name = "CheckBox_RealisticAidsRace1";
+            this.CheckBox_RealisticAidsRace1.Size = new System.Drawing.Size(198, 17);
+            this.CheckBox_RealisticAidsRace1.TabIndex = 74;
+            this.CheckBox_RealisticAidsRace1.Text = "AIDES A LA CONDUITE REALISTE";
+            this.CheckBox_RealisticAidsRace1.UseVisualStyleBackColor = true;
             // 
             // CheckBox_TcsAllowedRace1
             // 
@@ -1680,15 +1682,15 @@
             this.CheckBox_CustomSetupRace1.Text = "AUTORISER LE REGLAGE DU VEHICULE";
             this.CheckBox_CustomSetupRace1.UseVisualStyleBackColor = true;
             // 
-            // CheckBox_ForceManual
+            // CheckBox_ForceManualRace1
             // 
-            this.CheckBox_ForceManual.AutoSize = true;
-            this.CheckBox_ForceManual.Location = new System.Drawing.Point(673, 60);
-            this.CheckBox_ForceManual.Name = "CheckBox_ForceManual";
-            this.CheckBox_ForceManual.Size = new System.Drawing.Size(158, 17);
-            this.CheckBox_ForceManual.TabIndex = 73;
-            this.CheckBox_ForceManual.Text = "FORCE BOITE MANUELLE";
-            this.CheckBox_ForceManual.UseVisualStyleBackColor = true;
+            this.CheckBox_ForceManualRace1.AutoSize = true;
+            this.CheckBox_ForceManualRace1.Location = new System.Drawing.Point(673, 60);
+            this.CheckBox_ForceManualRace1.Name = "CheckBox_ForceManualRace1";
+            this.CheckBox_ForceManualRace1.Size = new System.Drawing.Size(158, 17);
+            this.CheckBox_ForceManualRace1.TabIndex = 73;
+            this.CheckBox_ForceManualRace1.Text = "FORCE BOITE MANUELLE";
+            this.CheckBox_ForceManualRace1.UseVisualStyleBackColor = true;
             // 
             // CheckBox_AbsAllowedRace1
             // 
@@ -1903,16 +1905,12 @@
             this.CbBox_DamageTypeRace1.DisplayMember = "Traduction";
             this.CbBox_DamageTypeRace1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_DamageTypeRace1.FormattingEnabled = true;
-            this.CbBox_DamageTypeRace1.Items.AddRange(new object[] {
-            "Non",
-            "Visuel Uniquement",
-            "Impact sur les performances",
-            "Complet"});
             this.CbBox_DamageTypeRace1.Location = new System.Drawing.Point(103, 17);
             this.CbBox_DamageTypeRace1.Name = "CbBox_DamageTypeRace1";
             this.CbBox_DamageTypeRace1.Size = new System.Drawing.Size(139, 21);
             this.CbBox_DamageTypeRace1.TabIndex = 46;
             this.CbBox_DamageTypeRace1.ValueMember = "name";
+            this.CbBox_DamageTypeRace1.SelectedIndexChanged += new System.EventHandler(this.CbBox_DamageTypeRace1_SelectedIndexChanged);
             // 
             // label112
             // 
@@ -2713,6 +2711,7 @@
             // 
             // groupBox_Race1TracksAndCars
             // 
+            this.groupBox_Race1TracksAndCars.Controls.Add(this.CheckBox_SameRules);
             this.groupBox_Race1TracksAndCars.Controls.Add(this.CheckBox_SameTrack);
             this.groupBox_Race1TracksAndCars.Controls.Add(this.CheckBox_SameCars);
             this.groupBox_Race1TracksAndCars.Controls.Add(this.CbBox_Race1Class4);
@@ -2732,6 +2731,19 @@
             this.groupBox_Race1TracksAndCars.Size = new System.Drawing.Size(281, 458);
             this.groupBox_Race1TracksAndCars.TabIndex = 47;
             this.groupBox_Race1TracksAndCars.TabStop = false;
+            // 
+            // CheckBox_SameRules
+            // 
+            this.CheckBox_SameRules.AutoSize = true;
+            this.CheckBox_SameRules.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CheckBox_SameRules.ForeColor = System.Drawing.Color.Red;
+            this.CheckBox_SameRules.Location = new System.Drawing.Point(17, 409);
+            this.CheckBox_SameRules.Name = "CheckBox_SameRules";
+            this.CheckBox_SameRules.Size = new System.Drawing.Size(239, 17);
+            this.CheckBox_SameRules.TabIndex = 88;
+            this.CheckBox_SameRules.Text = "Mêmes règles pour toutes les courses";
+            this.CheckBox_SameRules.UseVisualStyleBackColor = true;
+            this.CheckBox_SameRules.CheckedChanged += new System.EventHandler(this.CheckBox_SameRules_CheckedChanged);
             // 
             // CheckBox_SameTrack
             // 
@@ -3403,20 +3415,20 @@
             this.groupBox9.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.groupBox9.Controls.Add(this.CheckBox_PenaltiesRace2);
             this.groupBox9.Controls.Add(this.CheckBox_RankRace2);
-            this.groupBox9.Controls.Add(this.checkBox4);
+            this.groupBox9.Controls.Add(this.CheckBox_pitStopErrorsRace2);
             this.groupBox9.Controls.Add(this.TxtBox_RankRace2);
-            this.groupBox9.Controls.Add(this.checkBox5);
+            this.groupBox9.Controls.Add(this.CheckBox_PitSpeedLimiterRace2);
             this.groupBox9.Controls.Add(this.CbBox_RankRace2);
-            this.groupBox9.Controls.Add(this.checkBox6);
+            this.groupBox9.Controls.Add(this.CheckBox_RaceDirectorRace2);
             this.groupBox9.Controls.Add(this.CheckBox_WaitForRaceReadyRace2);
             this.groupBox9.Controls.Add(this.CheckBox_MechanicalFailuresRace2);
-            this.groupBox9.Controls.Add(this.checkBox9);
-            this.groupBox9.Controls.Add(this.checkBox10);
+            this.groupBox9.Controls.Add(this.CheckBox_BroadCasterRace2);
+            this.groupBox9.Controls.Add(this.CheckBox_RealisticAidsRace2);
             this.groupBox9.Controls.Add(this.CheckBox_TcsAllowedRace2);
             this.groupBox9.Controls.Add(this.CheckBox_ScAllowedRace2);
             this.groupBox9.Controls.Add(this.CbBox_PenaltyTimeRace2);
             this.groupBox9.Controls.Add(this.CheckBox_CustomSetupRace2);
-            this.groupBox9.Controls.Add(this.checkBox14);
+            this.groupBox9.Controls.Add(this.CheckBox_ForceManualRace2);
             this.groupBox9.Controls.Add(this.CheckBox_AbsAllowedRace2);
             this.groupBox9.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace2);
             this.groupBox9.Controls.Add(this.CheckBox_ManualPitStopRace2);
@@ -3469,15 +3481,15 @@
             this.CheckBox_RankRace2.UseVisualStyleBackColor = true;
             this.CheckBox_RankRace2.CheckedChanged += new System.EventHandler(this.CheckBox_RankRace2_CheckedChanged);
             // 
-            // checkBox4
+            // CheckBox_pitStopErrorsRace2
             // 
-            this.checkBox4.AutoSize = true;
-            this.checkBox4.Location = new System.Drawing.Point(673, 160);
-            this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(223, 17);
-            this.checkBox4.TabIndex = 78;
-            this.checkBox4.Text = "ERREURS AUTORISEES AUX STANDS";
-            this.checkBox4.UseVisualStyleBackColor = true;
+            this.CheckBox_pitStopErrorsRace2.AutoSize = true;
+            this.CheckBox_pitStopErrorsRace2.Location = new System.Drawing.Point(673, 160);
+            this.CheckBox_pitStopErrorsRace2.Name = "CheckBox_pitStopErrorsRace2";
+            this.CheckBox_pitStopErrorsRace2.Size = new System.Drawing.Size(223, 17);
+            this.CheckBox_pitStopErrorsRace2.TabIndex = 78;
+            this.CheckBox_pitStopErrorsRace2.Text = "ERREURS AUTORISEES AUX STANDS";
+            this.CheckBox_pitStopErrorsRace2.UseVisualStyleBackColor = true;
             // 
             // TxtBox_RankRace2
             // 
@@ -3487,15 +3499,15 @@
             this.TxtBox_RankRace2.TabIndex = 54;
             this.TxtBox_RankRace2.Validating += new System.ComponentModel.CancelEventHandler(this.TxtBox_RankRace2_Validating);
             // 
-            // checkBox5
+            // CheckBox_PitSpeedLimiterRace2
             // 
-            this.checkBox5.AutoSize = true;
-            this.checkBox5.Location = new System.Drawing.Point(673, 140);
-            this.checkBox5.Name = "checkBox5";
-            this.checkBox5.Size = new System.Drawing.Size(190, 17);
-            this.checkBox5.TabIndex = 77;
-            this.checkBox5.Text = "LIMITEUR DE VITESSE STANDS";
-            this.checkBox5.UseVisualStyleBackColor = true;
+            this.CheckBox_PitSpeedLimiterRace2.AutoSize = true;
+            this.CheckBox_PitSpeedLimiterRace2.Location = new System.Drawing.Point(673, 140);
+            this.CheckBox_PitSpeedLimiterRace2.Name = "CheckBox_PitSpeedLimiterRace2";
+            this.CheckBox_PitSpeedLimiterRace2.Size = new System.Drawing.Size(190, 17);
+            this.CheckBox_PitSpeedLimiterRace2.TabIndex = 77;
+            this.CheckBox_PitSpeedLimiterRace2.Text = "LIMITEUR DE VITESSE STANDS";
+            this.CheckBox_PitSpeedLimiterRace2.UseVisualStyleBackColor = true;
             // 
             // CbBox_RankRace2
             // 
@@ -3514,15 +3526,15 @@
             this.CbBox_RankRace2.Size = new System.Drawing.Size(34, 21);
             this.CbBox_RankRace2.TabIndex = 53;
             // 
-            // checkBox6
+            // CheckBox_RaceDirectorRace2
             // 
-            this.checkBox6.AutoSize = true;
-            this.checkBox6.Location = new System.Drawing.Point(673, 120);
-            this.checkBox6.Name = "checkBox6";
-            this.checkBox6.Size = new System.Drawing.Size(155, 17);
-            this.checkBox6.TabIndex = 76;
-            this.checkBox6.Text = "DIRECTEUR DE COURSE";
-            this.checkBox6.UseVisualStyleBackColor = true;
+            this.CheckBox_RaceDirectorRace2.AutoSize = true;
+            this.CheckBox_RaceDirectorRace2.Location = new System.Drawing.Point(673, 120);
+            this.CheckBox_RaceDirectorRace2.Name = "CheckBox_RaceDirectorRace2";
+            this.CheckBox_RaceDirectorRace2.Size = new System.Drawing.Size(155, 17);
+            this.CheckBox_RaceDirectorRace2.TabIndex = 76;
+            this.CheckBox_RaceDirectorRace2.Text = "DIRECTEUR DE COURSE";
+            this.CheckBox_RaceDirectorRace2.UseVisualStyleBackColor = true;
             // 
             // CheckBox_WaitForRaceReadyRace2
             // 
@@ -3544,25 +3556,26 @@
             this.CheckBox_MechanicalFailuresRace2.Text = "PANNES MECANIQUES";
             this.CheckBox_MechanicalFailuresRace2.UseVisualStyleBackColor = true;
             // 
-            // checkBox9
+            // CheckBox_BroadCasterRace2
             // 
-            this.checkBox9.AutoSize = true;
-            this.checkBox9.Location = new System.Drawing.Point(673, 100);
-            this.checkBox9.Name = "checkBox9";
-            this.checkBox9.Size = new System.Drawing.Size(107, 17);
-            this.checkBox9.TabIndex = 75;
-            this.checkBox9.Text = "BROADCASTER";
-            this.checkBox9.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace2.AutoSize = true;
+            this.CheckBox_BroadCasterRace2.Location = new System.Drawing.Point(673, 100);
+            this.CheckBox_BroadCasterRace2.Name = "CheckBox_BroadCasterRace2";
+            this.CheckBox_BroadCasterRace2.Size = new System.Drawing.Size(107, 17);
+            this.CheckBox_BroadCasterRace2.TabIndex = 75;
+            this.CheckBox_BroadCasterRace2.Text = "BROADCASTER";
+            this.CheckBox_BroadCasterRace2.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace2.CheckedChanged += new System.EventHandler(this.CheckBox_BroadCasterRace2_CheckedChanged);
             // 
-            // checkBox10
+            // CheckBox_RealisticAidsRace2
             // 
-            this.checkBox10.AutoSize = true;
-            this.checkBox10.Location = new System.Drawing.Point(673, 80);
-            this.checkBox10.Name = "checkBox10";
-            this.checkBox10.Size = new System.Drawing.Size(198, 17);
-            this.checkBox10.TabIndex = 74;
-            this.checkBox10.Text = "AIDES A LA CONDUITE REALISTE";
-            this.checkBox10.UseVisualStyleBackColor = true;
+            this.CheckBox_RealisticAidsRace2.AutoSize = true;
+            this.CheckBox_RealisticAidsRace2.Location = new System.Drawing.Point(673, 80);
+            this.CheckBox_RealisticAidsRace2.Name = "CheckBox_RealisticAidsRace2";
+            this.CheckBox_RealisticAidsRace2.Size = new System.Drawing.Size(198, 17);
+            this.CheckBox_RealisticAidsRace2.TabIndex = 74;
+            this.CheckBox_RealisticAidsRace2.Text = "AIDES A LA CONDUITE REALISTE";
+            this.CheckBox_RealisticAidsRace2.UseVisualStyleBackColor = true;
             // 
             // CheckBox_TcsAllowedRace2
             // 
@@ -3612,15 +3625,15 @@
             this.CheckBox_CustomSetupRace2.Text = "AUTORISER LE REGLAGE DU VEHICULE";
             this.CheckBox_CustomSetupRace2.UseVisualStyleBackColor = true;
             // 
-            // checkBox14
+            // CheckBox_ForceManualRace2
             // 
-            this.checkBox14.AutoSize = true;
-            this.checkBox14.Location = new System.Drawing.Point(673, 60);
-            this.checkBox14.Name = "checkBox14";
-            this.checkBox14.Size = new System.Drawing.Size(158, 17);
-            this.checkBox14.TabIndex = 73;
-            this.checkBox14.Text = "FORCE BOITE MANUELLE";
-            this.checkBox14.UseVisualStyleBackColor = true;
+            this.CheckBox_ForceManualRace2.AutoSize = true;
+            this.CheckBox_ForceManualRace2.Location = new System.Drawing.Point(673, 60);
+            this.CheckBox_ForceManualRace2.Name = "CheckBox_ForceManualRace2";
+            this.CheckBox_ForceManualRace2.Size = new System.Drawing.Size(158, 17);
+            this.CheckBox_ForceManualRace2.TabIndex = 73;
+            this.CheckBox_ForceManualRace2.Text = "FORCE BOITE MANUELLE";
+            this.CheckBox_ForceManualRace2.UseVisualStyleBackColor = true;
             // 
             // CheckBox_AbsAllowedRace2
             // 
@@ -5301,20 +5314,20 @@
             this.groupBox11.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.groupBox11.Controls.Add(this.CheckBox_PenaltiesRace3);
             this.groupBox11.Controls.Add(this.CheckBox_RankRace3);
-            this.groupBox11.Controls.Add(this.checkBox30);
+            this.groupBox11.Controls.Add(this.CheckBox_pitStopErrorsRace3);
             this.groupBox11.Controls.Add(this.TxtBox_RankRace3);
-            this.groupBox11.Controls.Add(this.checkBox31);
+            this.groupBox11.Controls.Add(this.CheckBox_PitSpeedLimiterRace3);
             this.groupBox11.Controls.Add(this.CbBox_RankRace3);
-            this.groupBox11.Controls.Add(this.checkBox32);
+            this.groupBox11.Controls.Add(this.CheckBox_RaceDirectorRace3);
             this.groupBox11.Controls.Add(this.CheckBox_WaitForRaceReadyRace3);
             this.groupBox11.Controls.Add(this.CheckBox_MechanicalFailuresRace3);
-            this.groupBox11.Controls.Add(this.checkBox35);
-            this.groupBox11.Controls.Add(this.checkBox36);
+            this.groupBox11.Controls.Add(this.CheckBox_BroadCasterRace3);
+            this.groupBox11.Controls.Add(this.CheckBox_RealisticAidsRace3);
             this.groupBox11.Controls.Add(this.CheckBox_TcsAllowedRace3);
             this.groupBox11.Controls.Add(this.CheckBox_ScAllowedRace3);
             this.groupBox11.Controls.Add(this.CbBox_PenaltyTimeRace3);
             this.groupBox11.Controls.Add(this.CheckBox_CustomSetupRace3);
-            this.groupBox11.Controls.Add(this.checkBox40);
+            this.groupBox11.Controls.Add(this.CheckBox_ForceManualRace3);
             this.groupBox11.Controls.Add(this.CheckBox_AbsAllowedRace3);
             this.groupBox11.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace3);
             this.groupBox11.Controls.Add(this.CheckBox_ManualPitStopRace3);
@@ -5367,15 +5380,15 @@
             this.CheckBox_RankRace3.UseVisualStyleBackColor = true;
             this.CheckBox_RankRace3.CheckedChanged += new System.EventHandler(this.CheckBox_RankRace3_CheckedChanged);
             // 
-            // checkBox30
+            // CheckBox_pitStopErrorsRace3
             // 
-            this.checkBox30.AutoSize = true;
-            this.checkBox30.Location = new System.Drawing.Point(673, 160);
-            this.checkBox30.Name = "checkBox30";
-            this.checkBox30.Size = new System.Drawing.Size(223, 17);
-            this.checkBox30.TabIndex = 78;
-            this.checkBox30.Text = "ERREURS AUTORISEES AUX STANDS";
-            this.checkBox30.UseVisualStyleBackColor = true;
+            this.CheckBox_pitStopErrorsRace3.AutoSize = true;
+            this.CheckBox_pitStopErrorsRace3.Location = new System.Drawing.Point(673, 160);
+            this.CheckBox_pitStopErrorsRace3.Name = "CheckBox_pitStopErrorsRace3";
+            this.CheckBox_pitStopErrorsRace3.Size = new System.Drawing.Size(223, 17);
+            this.CheckBox_pitStopErrorsRace3.TabIndex = 78;
+            this.CheckBox_pitStopErrorsRace3.Text = "ERREURS AUTORISEES AUX STANDS";
+            this.CheckBox_pitStopErrorsRace3.UseVisualStyleBackColor = true;
             // 
             // TxtBox_RankRace3
             // 
@@ -5385,15 +5398,15 @@
             this.TxtBox_RankRace3.TabIndex = 54;
             this.TxtBox_RankRace3.Validating += new System.ComponentModel.CancelEventHandler(this.TxtBox_RankRace3_Validating);
             // 
-            // checkBox31
+            // CheckBox_PitSpeedLimiterRace3
             // 
-            this.checkBox31.AutoSize = true;
-            this.checkBox31.Location = new System.Drawing.Point(673, 140);
-            this.checkBox31.Name = "checkBox31";
-            this.checkBox31.Size = new System.Drawing.Size(190, 17);
-            this.checkBox31.TabIndex = 77;
-            this.checkBox31.Text = "LIMITEUR DE VITESSE STANDS";
-            this.checkBox31.UseVisualStyleBackColor = true;
+            this.CheckBox_PitSpeedLimiterRace3.AutoSize = true;
+            this.CheckBox_PitSpeedLimiterRace3.Location = new System.Drawing.Point(673, 140);
+            this.CheckBox_PitSpeedLimiterRace3.Name = "CheckBox_PitSpeedLimiterRace3";
+            this.CheckBox_PitSpeedLimiterRace3.Size = new System.Drawing.Size(190, 17);
+            this.CheckBox_PitSpeedLimiterRace3.TabIndex = 77;
+            this.CheckBox_PitSpeedLimiterRace3.Text = "LIMITEUR DE VITESSE STANDS";
+            this.CheckBox_PitSpeedLimiterRace3.UseVisualStyleBackColor = true;
             // 
             // CbBox_RankRace3
             // 
@@ -5412,15 +5425,15 @@
             this.CbBox_RankRace3.Size = new System.Drawing.Size(34, 21);
             this.CbBox_RankRace3.TabIndex = 53;
             // 
-            // checkBox32
+            // CheckBox_RaceDirectorRace3
             // 
-            this.checkBox32.AutoSize = true;
-            this.checkBox32.Location = new System.Drawing.Point(673, 120);
-            this.checkBox32.Name = "checkBox32";
-            this.checkBox32.Size = new System.Drawing.Size(155, 17);
-            this.checkBox32.TabIndex = 76;
-            this.checkBox32.Text = "DIRECTEUR DE COURSE";
-            this.checkBox32.UseVisualStyleBackColor = true;
+            this.CheckBox_RaceDirectorRace3.AutoSize = true;
+            this.CheckBox_RaceDirectorRace3.Location = new System.Drawing.Point(673, 120);
+            this.CheckBox_RaceDirectorRace3.Name = "CheckBox_RaceDirectorRace3";
+            this.CheckBox_RaceDirectorRace3.Size = new System.Drawing.Size(155, 17);
+            this.CheckBox_RaceDirectorRace3.TabIndex = 76;
+            this.CheckBox_RaceDirectorRace3.Text = "DIRECTEUR DE COURSE";
+            this.CheckBox_RaceDirectorRace3.UseVisualStyleBackColor = true;
             // 
             // CheckBox_WaitForRaceReadyRace3
             // 
@@ -5442,25 +5455,26 @@
             this.CheckBox_MechanicalFailuresRace3.Text = "PANNES MECANIQUES";
             this.CheckBox_MechanicalFailuresRace3.UseVisualStyleBackColor = true;
             // 
-            // checkBox35
+            // CheckBox_BroadCasterRace3
             // 
-            this.checkBox35.AutoSize = true;
-            this.checkBox35.Location = new System.Drawing.Point(673, 100);
-            this.checkBox35.Name = "checkBox35";
-            this.checkBox35.Size = new System.Drawing.Size(107, 17);
-            this.checkBox35.TabIndex = 75;
-            this.checkBox35.Text = "BROADCASTER";
-            this.checkBox35.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace3.AutoSize = true;
+            this.CheckBox_BroadCasterRace3.Location = new System.Drawing.Point(673, 100);
+            this.CheckBox_BroadCasterRace3.Name = "CheckBox_BroadCasterRace3";
+            this.CheckBox_BroadCasterRace3.Size = new System.Drawing.Size(107, 17);
+            this.CheckBox_BroadCasterRace3.TabIndex = 75;
+            this.CheckBox_BroadCasterRace3.Text = "BROADCASTER";
+            this.CheckBox_BroadCasterRace3.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace3.CheckedChanged += new System.EventHandler(this.CheckBox_BroadCasterRace3_CheckedChanged);
             // 
-            // checkBox36
+            // CheckBox_RealisticAidsRace3
             // 
-            this.checkBox36.AutoSize = true;
-            this.checkBox36.Location = new System.Drawing.Point(673, 80);
-            this.checkBox36.Name = "checkBox36";
-            this.checkBox36.Size = new System.Drawing.Size(198, 17);
-            this.checkBox36.TabIndex = 74;
-            this.checkBox36.Text = "AIDES A LA CONDUITE REALISTE";
-            this.checkBox36.UseVisualStyleBackColor = true;
+            this.CheckBox_RealisticAidsRace3.AutoSize = true;
+            this.CheckBox_RealisticAidsRace3.Location = new System.Drawing.Point(673, 80);
+            this.CheckBox_RealisticAidsRace3.Name = "CheckBox_RealisticAidsRace3";
+            this.CheckBox_RealisticAidsRace3.Size = new System.Drawing.Size(198, 17);
+            this.CheckBox_RealisticAidsRace3.TabIndex = 74;
+            this.CheckBox_RealisticAidsRace3.Text = "AIDES A LA CONDUITE REALISTE";
+            this.CheckBox_RealisticAidsRace3.UseVisualStyleBackColor = true;
             // 
             // CheckBox_TcsAllowedRace3
             // 
@@ -5510,15 +5524,15 @@
             this.CheckBox_CustomSetupRace3.Text = "AUTORISER LE REGLAGE DU VEHICULE";
             this.CheckBox_CustomSetupRace3.UseVisualStyleBackColor = true;
             // 
-            // checkBox40
+            // CheckBox_ForceManualRace3
             // 
-            this.checkBox40.AutoSize = true;
-            this.checkBox40.Location = new System.Drawing.Point(673, 60);
-            this.checkBox40.Name = "checkBox40";
-            this.checkBox40.Size = new System.Drawing.Size(158, 17);
-            this.checkBox40.TabIndex = 73;
-            this.checkBox40.Text = "FORCE BOITE MANUELLE";
-            this.checkBox40.UseVisualStyleBackColor = true;
+            this.CheckBox_ForceManualRace3.AutoSize = true;
+            this.CheckBox_ForceManualRace3.Location = new System.Drawing.Point(673, 60);
+            this.CheckBox_ForceManualRace3.Name = "CheckBox_ForceManualRace3";
+            this.CheckBox_ForceManualRace3.Size = new System.Drawing.Size(158, 17);
+            this.CheckBox_ForceManualRace3.TabIndex = 73;
+            this.CheckBox_ForceManualRace3.Text = "FORCE BOITE MANUELLE";
+            this.CheckBox_ForceManualRace3.UseVisualStyleBackColor = true;
             // 
             // CheckBox_AbsAllowedRace3
             // 
@@ -7199,20 +7213,20 @@
             this.groupBox13.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.groupBox13.Controls.Add(this.CheckBox_PenaltiesRace4);
             this.groupBox13.Controls.Add(this.CheckBox_RankRace4);
-            this.groupBox13.Controls.Add(this.checkBox56);
+            this.groupBox13.Controls.Add(this.CheckBox_pitStopErrorsRace4);
             this.groupBox13.Controls.Add(this.TxtBox_RankRace4);
-            this.groupBox13.Controls.Add(this.checkBox57);
+            this.groupBox13.Controls.Add(this.CheckBox_PitSpeedLimiterRace4);
             this.groupBox13.Controls.Add(this.CbBox_RankRace4);
-            this.groupBox13.Controls.Add(this.checkBox58);
+            this.groupBox13.Controls.Add(this.CheckBox_RaceDirectorRace4);
             this.groupBox13.Controls.Add(this.CheckBox_WaitForRaceReadyRace4);
             this.groupBox13.Controls.Add(this.CheckBox_MechanicalFailuresRace4);
-            this.groupBox13.Controls.Add(this.checkBox61);
-            this.groupBox13.Controls.Add(this.checkBox62);
+            this.groupBox13.Controls.Add(this.CheckBox_BroadCasterRace4);
+            this.groupBox13.Controls.Add(this.CheckBox_RealisticAidsRace4);
             this.groupBox13.Controls.Add(this.CheckBox_TcsAllowedRace4);
             this.groupBox13.Controls.Add(this.CheckBox_ScAllowedRace4);
             this.groupBox13.Controls.Add(this.CbBox_PenaltyTimeRace4);
             this.groupBox13.Controls.Add(this.CheckBox_CustomSetupRace4);
-            this.groupBox13.Controls.Add(this.checkBox66);
+            this.groupBox13.Controls.Add(this.CheckBox_ForceManualRace4);
             this.groupBox13.Controls.Add(this.CheckBox_AbsAllowedRace4);
             this.groupBox13.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace4);
             this.groupBox13.Controls.Add(this.CheckBox_ManualPitStopRace4);
@@ -7265,15 +7279,15 @@
             this.CheckBox_RankRace4.UseVisualStyleBackColor = true;
             this.CheckBox_RankRace4.CheckedChanged += new System.EventHandler(this.CheckBox_RankRace4_CheckedChanged);
             // 
-            // checkBox56
+            // CheckBox_pitStopErrorsRace4
             // 
-            this.checkBox56.AutoSize = true;
-            this.checkBox56.Location = new System.Drawing.Point(673, 160);
-            this.checkBox56.Name = "checkBox56";
-            this.checkBox56.Size = new System.Drawing.Size(223, 17);
-            this.checkBox56.TabIndex = 78;
-            this.checkBox56.Text = "ERREURS AUTORISEES AUX STANDS";
-            this.checkBox56.UseVisualStyleBackColor = true;
+            this.CheckBox_pitStopErrorsRace4.AutoSize = true;
+            this.CheckBox_pitStopErrorsRace4.Location = new System.Drawing.Point(673, 160);
+            this.CheckBox_pitStopErrorsRace4.Name = "CheckBox_pitStopErrorsRace4";
+            this.CheckBox_pitStopErrorsRace4.Size = new System.Drawing.Size(223, 17);
+            this.CheckBox_pitStopErrorsRace4.TabIndex = 78;
+            this.CheckBox_pitStopErrorsRace4.Text = "ERREURS AUTORISEES AUX STANDS";
+            this.CheckBox_pitStopErrorsRace4.UseVisualStyleBackColor = true;
             // 
             // TxtBox_RankRace4
             // 
@@ -7283,15 +7297,15 @@
             this.TxtBox_RankRace4.TabIndex = 54;
             this.TxtBox_RankRace4.Validating += new System.ComponentModel.CancelEventHandler(this.TxtBox_RankRace4_Validating);
             // 
-            // checkBox57
+            // CheckBox_PitSpeedLimiterRace4
             // 
-            this.checkBox57.AutoSize = true;
-            this.checkBox57.Location = new System.Drawing.Point(673, 140);
-            this.checkBox57.Name = "checkBox57";
-            this.checkBox57.Size = new System.Drawing.Size(190, 17);
-            this.checkBox57.TabIndex = 77;
-            this.checkBox57.Text = "LIMITEUR DE VITESSE STANDS";
-            this.checkBox57.UseVisualStyleBackColor = true;
+            this.CheckBox_PitSpeedLimiterRace4.AutoSize = true;
+            this.CheckBox_PitSpeedLimiterRace4.Location = new System.Drawing.Point(673, 140);
+            this.CheckBox_PitSpeedLimiterRace4.Name = "CheckBox_PitSpeedLimiterRace4";
+            this.CheckBox_PitSpeedLimiterRace4.Size = new System.Drawing.Size(190, 17);
+            this.CheckBox_PitSpeedLimiterRace4.TabIndex = 77;
+            this.CheckBox_PitSpeedLimiterRace4.Text = "LIMITEUR DE VITESSE STANDS";
+            this.CheckBox_PitSpeedLimiterRace4.UseVisualStyleBackColor = true;
             // 
             // CbBox_RankRace4
             // 
@@ -7310,15 +7324,15 @@
             this.CbBox_RankRace4.Size = new System.Drawing.Size(34, 21);
             this.CbBox_RankRace4.TabIndex = 53;
             // 
-            // checkBox58
+            // CheckBox_RaceDirectorRace4
             // 
-            this.checkBox58.AutoSize = true;
-            this.checkBox58.Location = new System.Drawing.Point(673, 120);
-            this.checkBox58.Name = "checkBox58";
-            this.checkBox58.Size = new System.Drawing.Size(155, 17);
-            this.checkBox58.TabIndex = 76;
-            this.checkBox58.Text = "DIRECTEUR DE COURSE";
-            this.checkBox58.UseVisualStyleBackColor = true;
+            this.CheckBox_RaceDirectorRace4.AutoSize = true;
+            this.CheckBox_RaceDirectorRace4.Location = new System.Drawing.Point(673, 120);
+            this.CheckBox_RaceDirectorRace4.Name = "CheckBox_RaceDirectorRace4";
+            this.CheckBox_RaceDirectorRace4.Size = new System.Drawing.Size(155, 17);
+            this.CheckBox_RaceDirectorRace4.TabIndex = 76;
+            this.CheckBox_RaceDirectorRace4.Text = "DIRECTEUR DE COURSE";
+            this.CheckBox_RaceDirectorRace4.UseVisualStyleBackColor = true;
             // 
             // CheckBox_WaitForRaceReadyRace4
             // 
@@ -7340,25 +7354,26 @@
             this.CheckBox_MechanicalFailuresRace4.Text = "PANNES MECANIQUES";
             this.CheckBox_MechanicalFailuresRace4.UseVisualStyleBackColor = true;
             // 
-            // checkBox61
+            // CheckBox_BroadCasterRace4
             // 
-            this.checkBox61.AutoSize = true;
-            this.checkBox61.Location = new System.Drawing.Point(673, 100);
-            this.checkBox61.Name = "checkBox61";
-            this.checkBox61.Size = new System.Drawing.Size(107, 17);
-            this.checkBox61.TabIndex = 75;
-            this.checkBox61.Text = "BROADCASTER";
-            this.checkBox61.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace4.AutoSize = true;
+            this.CheckBox_BroadCasterRace4.Location = new System.Drawing.Point(673, 100);
+            this.CheckBox_BroadCasterRace4.Name = "CheckBox_BroadCasterRace4";
+            this.CheckBox_BroadCasterRace4.Size = new System.Drawing.Size(107, 17);
+            this.CheckBox_BroadCasterRace4.TabIndex = 75;
+            this.CheckBox_BroadCasterRace4.Text = "BROADCASTER";
+            this.CheckBox_BroadCasterRace4.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace4.CheckedChanged += new System.EventHandler(this.CheckBox_BroadCasterRace4_CheckedChanged);
             // 
-            // checkBox62
+            // CheckBox_RealisticAidsRace4
             // 
-            this.checkBox62.AutoSize = true;
-            this.checkBox62.Location = new System.Drawing.Point(673, 80);
-            this.checkBox62.Name = "checkBox62";
-            this.checkBox62.Size = new System.Drawing.Size(198, 17);
-            this.checkBox62.TabIndex = 74;
-            this.checkBox62.Text = "AIDES A LA CONDUITE REALISTE";
-            this.checkBox62.UseVisualStyleBackColor = true;
+            this.CheckBox_RealisticAidsRace4.AutoSize = true;
+            this.CheckBox_RealisticAidsRace4.Location = new System.Drawing.Point(673, 80);
+            this.CheckBox_RealisticAidsRace4.Name = "CheckBox_RealisticAidsRace4";
+            this.CheckBox_RealisticAidsRace4.Size = new System.Drawing.Size(198, 17);
+            this.CheckBox_RealisticAidsRace4.TabIndex = 74;
+            this.CheckBox_RealisticAidsRace4.Text = "AIDES A LA CONDUITE REALISTE";
+            this.CheckBox_RealisticAidsRace4.UseVisualStyleBackColor = true;
             // 
             // CheckBox_TcsAllowedRace4
             // 
@@ -7408,15 +7423,15 @@
             this.CheckBox_CustomSetupRace4.Text = "AUTORISER LE REGLAGE DU VEHICULE";
             this.CheckBox_CustomSetupRace4.UseVisualStyleBackColor = true;
             // 
-            // checkBox66
+            // CheckBox_ForceManualRace4
             // 
-            this.checkBox66.AutoSize = true;
-            this.checkBox66.Location = new System.Drawing.Point(673, 60);
-            this.checkBox66.Name = "checkBox66";
-            this.checkBox66.Size = new System.Drawing.Size(158, 17);
-            this.checkBox66.TabIndex = 73;
-            this.checkBox66.Text = "FORCE BOITE MANUELLE";
-            this.checkBox66.UseVisualStyleBackColor = true;
+            this.CheckBox_ForceManualRace4.AutoSize = true;
+            this.CheckBox_ForceManualRace4.Location = new System.Drawing.Point(673, 60);
+            this.CheckBox_ForceManualRace4.Name = "CheckBox_ForceManualRace4";
+            this.CheckBox_ForceManualRace4.Size = new System.Drawing.Size(158, 17);
+            this.CheckBox_ForceManualRace4.TabIndex = 73;
+            this.CheckBox_ForceManualRace4.Text = "FORCE BOITE MANUELLE";
+            this.CheckBox_ForceManualRace4.UseVisualStyleBackColor = true;
             // 
             // CheckBox_AbsAllowedRace4
             // 
@@ -9097,20 +9112,20 @@
             this.groupBox15.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.groupBox15.Controls.Add(this.CheckBox_PenaltiesRace5);
             this.groupBox15.Controls.Add(this.CheckBox_RankRace5);
-            this.groupBox15.Controls.Add(this.checkBox82);
+            this.groupBox15.Controls.Add(this.CheckBox_pitStopErrorsRace5);
             this.groupBox15.Controls.Add(this.TxtBox_RankRace5);
-            this.groupBox15.Controls.Add(this.checkBox83);
+            this.groupBox15.Controls.Add(this.CheckBox_PitSpeedLimiterRace5);
             this.groupBox15.Controls.Add(this.CbBox_RankRace5);
-            this.groupBox15.Controls.Add(this.checkBox84);
+            this.groupBox15.Controls.Add(this.CheckBox_RaceDirectorRace5);
             this.groupBox15.Controls.Add(this.CheckBox_WaitForRaceReadyRace5);
             this.groupBox15.Controls.Add(this.CheckBox_MechanicalFailuresRace5);
-            this.groupBox15.Controls.Add(this.checkBox87);
-            this.groupBox15.Controls.Add(this.checkBox88);
+            this.groupBox15.Controls.Add(this.CheckBox_BroadCasterRace5);
+            this.groupBox15.Controls.Add(this.CheckBox_RealisticAidsRace5);
             this.groupBox15.Controls.Add(this.CheckBox_TcsAllowedRace5);
             this.groupBox15.Controls.Add(this.CheckBox_ScAllowedRace5);
             this.groupBox15.Controls.Add(this.CbBox_PenaltyTimeRace5);
             this.groupBox15.Controls.Add(this.CheckBox_CustomSetupRace5);
-            this.groupBox15.Controls.Add(this.checkBox92);
+            this.groupBox15.Controls.Add(this.CheckBox_ForceManualRace5);
             this.groupBox15.Controls.Add(this.CheckBox_AbsAllowedRace5);
             this.groupBox15.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace5);
             this.groupBox15.Controls.Add(this.CheckBox_ManualPitStopRace5);
@@ -9163,15 +9178,15 @@
             this.CheckBox_RankRace5.UseVisualStyleBackColor = true;
             this.CheckBox_RankRace5.CheckedChanged += new System.EventHandler(this.CheckBox_RankRace5_CheckedChanged);
             // 
-            // checkBox82
+            // CheckBox_pitStopErrorsRace5
             // 
-            this.checkBox82.AutoSize = true;
-            this.checkBox82.Location = new System.Drawing.Point(673, 160);
-            this.checkBox82.Name = "checkBox82";
-            this.checkBox82.Size = new System.Drawing.Size(223, 17);
-            this.checkBox82.TabIndex = 78;
-            this.checkBox82.Text = "ERREURS AUTORISEES AUX STANDS";
-            this.checkBox82.UseVisualStyleBackColor = true;
+            this.CheckBox_pitStopErrorsRace5.AutoSize = true;
+            this.CheckBox_pitStopErrorsRace5.Location = new System.Drawing.Point(673, 160);
+            this.CheckBox_pitStopErrorsRace5.Name = "CheckBox_pitStopErrorsRace5";
+            this.CheckBox_pitStopErrorsRace5.Size = new System.Drawing.Size(223, 17);
+            this.CheckBox_pitStopErrorsRace5.TabIndex = 78;
+            this.CheckBox_pitStopErrorsRace5.Text = "ERREURS AUTORISEES AUX STANDS";
+            this.CheckBox_pitStopErrorsRace5.UseVisualStyleBackColor = true;
             // 
             // TxtBox_RankRace5
             // 
@@ -9181,15 +9196,15 @@
             this.TxtBox_RankRace5.TabIndex = 54;
             this.TxtBox_RankRace5.Validating += new System.ComponentModel.CancelEventHandler(this.TxtBox_RankRace5_Validating);
             // 
-            // checkBox83
+            // CheckBox_PitSpeedLimiterRace5
             // 
-            this.checkBox83.AutoSize = true;
-            this.checkBox83.Location = new System.Drawing.Point(673, 140);
-            this.checkBox83.Name = "checkBox83";
-            this.checkBox83.Size = new System.Drawing.Size(190, 17);
-            this.checkBox83.TabIndex = 77;
-            this.checkBox83.Text = "LIMITEUR DE VITESSE STANDS";
-            this.checkBox83.UseVisualStyleBackColor = true;
+            this.CheckBox_PitSpeedLimiterRace5.AutoSize = true;
+            this.CheckBox_PitSpeedLimiterRace5.Location = new System.Drawing.Point(673, 140);
+            this.CheckBox_PitSpeedLimiterRace5.Name = "CheckBox_PitSpeedLimiterRace5";
+            this.CheckBox_PitSpeedLimiterRace5.Size = new System.Drawing.Size(190, 17);
+            this.CheckBox_PitSpeedLimiterRace5.TabIndex = 77;
+            this.CheckBox_PitSpeedLimiterRace5.Text = "LIMITEUR DE VITESSE STANDS";
+            this.CheckBox_PitSpeedLimiterRace5.UseVisualStyleBackColor = true;
             // 
             // CbBox_RankRace5
             // 
@@ -9208,15 +9223,15 @@
             this.CbBox_RankRace5.Size = new System.Drawing.Size(34, 21);
             this.CbBox_RankRace5.TabIndex = 53;
             // 
-            // checkBox84
+            // CheckBox_RaceDirectorRace5
             // 
-            this.checkBox84.AutoSize = true;
-            this.checkBox84.Location = new System.Drawing.Point(673, 120);
-            this.checkBox84.Name = "checkBox84";
-            this.checkBox84.Size = new System.Drawing.Size(155, 17);
-            this.checkBox84.TabIndex = 76;
-            this.checkBox84.Text = "DIRECTEUR DE COURSE";
-            this.checkBox84.UseVisualStyleBackColor = true;
+            this.CheckBox_RaceDirectorRace5.AutoSize = true;
+            this.CheckBox_RaceDirectorRace5.Location = new System.Drawing.Point(673, 120);
+            this.CheckBox_RaceDirectorRace5.Name = "CheckBox_RaceDirectorRace5";
+            this.CheckBox_RaceDirectorRace5.Size = new System.Drawing.Size(155, 17);
+            this.CheckBox_RaceDirectorRace5.TabIndex = 76;
+            this.CheckBox_RaceDirectorRace5.Text = "DIRECTEUR DE COURSE";
+            this.CheckBox_RaceDirectorRace5.UseVisualStyleBackColor = true;
             // 
             // CheckBox_WaitForRaceReadyRace5
             // 
@@ -9238,25 +9253,26 @@
             this.CheckBox_MechanicalFailuresRace5.Text = "PANNES MECANIQUES";
             this.CheckBox_MechanicalFailuresRace5.UseVisualStyleBackColor = true;
             // 
-            // checkBox87
+            // CheckBox_BroadCasterRace5
             // 
-            this.checkBox87.AutoSize = true;
-            this.checkBox87.Location = new System.Drawing.Point(673, 100);
-            this.checkBox87.Name = "checkBox87";
-            this.checkBox87.Size = new System.Drawing.Size(107, 17);
-            this.checkBox87.TabIndex = 75;
-            this.checkBox87.Text = "BROADCASTER";
-            this.checkBox87.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace5.AutoSize = true;
+            this.CheckBox_BroadCasterRace5.Location = new System.Drawing.Point(673, 100);
+            this.CheckBox_BroadCasterRace5.Name = "CheckBox_BroadCasterRace5";
+            this.CheckBox_BroadCasterRace5.Size = new System.Drawing.Size(107, 17);
+            this.CheckBox_BroadCasterRace5.TabIndex = 75;
+            this.CheckBox_BroadCasterRace5.Text = "BROADCASTER";
+            this.CheckBox_BroadCasterRace5.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace5.CheckedChanged += new System.EventHandler(this.CheckBox_BroadCasterRace5_CheckedChanged);
             // 
-            // checkBox88
+            // CheckBox_RealisticAidsRace5
             // 
-            this.checkBox88.AutoSize = true;
-            this.checkBox88.Location = new System.Drawing.Point(673, 80);
-            this.checkBox88.Name = "checkBox88";
-            this.checkBox88.Size = new System.Drawing.Size(198, 17);
-            this.checkBox88.TabIndex = 74;
-            this.checkBox88.Text = "AIDES A LA CONDUITE REALISTE";
-            this.checkBox88.UseVisualStyleBackColor = true;
+            this.CheckBox_RealisticAidsRace5.AutoSize = true;
+            this.CheckBox_RealisticAidsRace5.Location = new System.Drawing.Point(673, 80);
+            this.CheckBox_RealisticAidsRace5.Name = "CheckBox_RealisticAidsRace5";
+            this.CheckBox_RealisticAidsRace5.Size = new System.Drawing.Size(198, 17);
+            this.CheckBox_RealisticAidsRace5.TabIndex = 74;
+            this.CheckBox_RealisticAidsRace5.Text = "AIDES A LA CONDUITE REALISTE";
+            this.CheckBox_RealisticAidsRace5.UseVisualStyleBackColor = true;
             // 
             // CheckBox_TcsAllowedRace5
             // 
@@ -9306,15 +9322,15 @@
             this.CheckBox_CustomSetupRace5.Text = "AUTORISER LE REGLAGE DU VEHICULE";
             this.CheckBox_CustomSetupRace5.UseVisualStyleBackColor = true;
             // 
-            // checkBox92
+            // CheckBox_ForceManualRace5
             // 
-            this.checkBox92.AutoSize = true;
-            this.checkBox92.Location = new System.Drawing.Point(673, 60);
-            this.checkBox92.Name = "checkBox92";
-            this.checkBox92.Size = new System.Drawing.Size(158, 17);
-            this.checkBox92.TabIndex = 73;
-            this.checkBox92.Text = "FORCE BOITE MANUELLE";
-            this.checkBox92.UseVisualStyleBackColor = true;
+            this.CheckBox_ForceManualRace5.AutoSize = true;
+            this.CheckBox_ForceManualRace5.Location = new System.Drawing.Point(673, 60);
+            this.CheckBox_ForceManualRace5.Name = "CheckBox_ForceManualRace5";
+            this.CheckBox_ForceManualRace5.Size = new System.Drawing.Size(158, 17);
+            this.CheckBox_ForceManualRace5.TabIndex = 73;
+            this.CheckBox_ForceManualRace5.Text = "FORCE BOITE MANUELLE";
+            this.CheckBox_ForceManualRace5.UseVisualStyleBackColor = true;
             // 
             // CheckBox_AbsAllowedRace5
             // 
@@ -10995,20 +11011,20 @@
             this.groupBox17.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.groupBox17.Controls.Add(this.CheckBox_PenaltiesRace6);
             this.groupBox17.Controls.Add(this.CheckBox_RankRace6);
-            this.groupBox17.Controls.Add(this.checkBox108);
+            this.groupBox17.Controls.Add(this.CheckBox_pitStopErrorsRace6);
             this.groupBox17.Controls.Add(this.TxtBox_RankRace6);
-            this.groupBox17.Controls.Add(this.checkBox109);
+            this.groupBox17.Controls.Add(this.CheckBox_PitSpeedLimiterRace6);
             this.groupBox17.Controls.Add(this.CbBox_RankRace6);
-            this.groupBox17.Controls.Add(this.checkBox110);
+            this.groupBox17.Controls.Add(this.CheckBox_RaceDirectorRace6);
             this.groupBox17.Controls.Add(this.CheckBox_WaitForRaceReadyRace6);
             this.groupBox17.Controls.Add(this.CheckBox_MechanicalFailuresRace6);
-            this.groupBox17.Controls.Add(this.checkBox113);
-            this.groupBox17.Controls.Add(this.checkBox114);
+            this.groupBox17.Controls.Add(this.CheckBox_BroadCasterRace6);
+            this.groupBox17.Controls.Add(this.CheckBox_RealisticAidsRace6);
             this.groupBox17.Controls.Add(this.CheckBox_TcsAllowedRace6);
             this.groupBox17.Controls.Add(this.CheckBox_ScAllowedRace6);
             this.groupBox17.Controls.Add(this.CbBox_PenaltyTimeRace6);
             this.groupBox17.Controls.Add(this.CheckBox_CustomSetupRace6);
-            this.groupBox17.Controls.Add(this.checkBox118);
+            this.groupBox17.Controls.Add(this.CheckBox_ForceManualRace6);
             this.groupBox17.Controls.Add(this.CheckBox_AbsAllowedRace6);
             this.groupBox17.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace6);
             this.groupBox17.Controls.Add(this.CheckBox_ManualPitStopRace6);
@@ -11061,15 +11077,15 @@
             this.CheckBox_RankRace6.UseVisualStyleBackColor = true;
             this.CheckBox_RankRace6.CheckedChanged += new System.EventHandler(this.CheckBox_RankRace6_CheckedChanged);
             // 
-            // checkBox108
+            // CheckBox_pitStopErrorsRace6
             // 
-            this.checkBox108.AutoSize = true;
-            this.checkBox108.Location = new System.Drawing.Point(673, 160);
-            this.checkBox108.Name = "checkBox108";
-            this.checkBox108.Size = new System.Drawing.Size(223, 17);
-            this.checkBox108.TabIndex = 78;
-            this.checkBox108.Text = "ERREURS AUTORISEES AUX STANDS";
-            this.checkBox108.UseVisualStyleBackColor = true;
+            this.CheckBox_pitStopErrorsRace6.AutoSize = true;
+            this.CheckBox_pitStopErrorsRace6.Location = new System.Drawing.Point(673, 160);
+            this.CheckBox_pitStopErrorsRace6.Name = "CheckBox_pitStopErrorsRace6";
+            this.CheckBox_pitStopErrorsRace6.Size = new System.Drawing.Size(223, 17);
+            this.CheckBox_pitStopErrorsRace6.TabIndex = 78;
+            this.CheckBox_pitStopErrorsRace6.Text = "ERREURS AUTORISEES AUX STANDS";
+            this.CheckBox_pitStopErrorsRace6.UseVisualStyleBackColor = true;
             // 
             // TxtBox_RankRace6
             // 
@@ -11079,15 +11095,15 @@
             this.TxtBox_RankRace6.TabIndex = 54;
             this.TxtBox_RankRace6.Validating += new System.ComponentModel.CancelEventHandler(this.TxtBox_RankRace6_Validating);
             // 
-            // checkBox109
+            // CheckBox_PitSpeedLimiterRace6
             // 
-            this.checkBox109.AutoSize = true;
-            this.checkBox109.Location = new System.Drawing.Point(673, 140);
-            this.checkBox109.Name = "checkBox109";
-            this.checkBox109.Size = new System.Drawing.Size(190, 17);
-            this.checkBox109.TabIndex = 77;
-            this.checkBox109.Text = "LIMITEUR DE VITESSE STANDS";
-            this.checkBox109.UseVisualStyleBackColor = true;
+            this.CheckBox_PitSpeedLimiterRace6.AutoSize = true;
+            this.CheckBox_PitSpeedLimiterRace6.Location = new System.Drawing.Point(673, 140);
+            this.CheckBox_PitSpeedLimiterRace6.Name = "CheckBox_PitSpeedLimiterRace6";
+            this.CheckBox_PitSpeedLimiterRace6.Size = new System.Drawing.Size(190, 17);
+            this.CheckBox_PitSpeedLimiterRace6.TabIndex = 77;
+            this.CheckBox_PitSpeedLimiterRace6.Text = "LIMITEUR DE VITESSE STANDS";
+            this.CheckBox_PitSpeedLimiterRace6.UseVisualStyleBackColor = true;
             // 
             // CbBox_RankRace6
             // 
@@ -11106,15 +11122,15 @@
             this.CbBox_RankRace6.Size = new System.Drawing.Size(34, 21);
             this.CbBox_RankRace6.TabIndex = 53;
             // 
-            // checkBox110
+            // CheckBox_RaceDirectorRace6
             // 
-            this.checkBox110.AutoSize = true;
-            this.checkBox110.Location = new System.Drawing.Point(673, 120);
-            this.checkBox110.Name = "checkBox110";
-            this.checkBox110.Size = new System.Drawing.Size(155, 17);
-            this.checkBox110.TabIndex = 76;
-            this.checkBox110.Text = "DIRECTEUR DE COURSE";
-            this.checkBox110.UseVisualStyleBackColor = true;
+            this.CheckBox_RaceDirectorRace6.AutoSize = true;
+            this.CheckBox_RaceDirectorRace6.Location = new System.Drawing.Point(673, 120);
+            this.CheckBox_RaceDirectorRace6.Name = "CheckBox_RaceDirectorRace6";
+            this.CheckBox_RaceDirectorRace6.Size = new System.Drawing.Size(155, 17);
+            this.CheckBox_RaceDirectorRace6.TabIndex = 76;
+            this.CheckBox_RaceDirectorRace6.Text = "DIRECTEUR DE COURSE";
+            this.CheckBox_RaceDirectorRace6.UseVisualStyleBackColor = true;
             // 
             // CheckBox_WaitForRaceReadyRace6
             // 
@@ -11136,25 +11152,26 @@
             this.CheckBox_MechanicalFailuresRace6.Text = "PANNES MECANIQUES";
             this.CheckBox_MechanicalFailuresRace6.UseVisualStyleBackColor = true;
             // 
-            // checkBox113
+            // CheckBox_BroadCasterRace6
             // 
-            this.checkBox113.AutoSize = true;
-            this.checkBox113.Location = new System.Drawing.Point(673, 100);
-            this.checkBox113.Name = "checkBox113";
-            this.checkBox113.Size = new System.Drawing.Size(107, 17);
-            this.checkBox113.TabIndex = 75;
-            this.checkBox113.Text = "BROADCASTER";
-            this.checkBox113.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace6.AutoSize = true;
+            this.CheckBox_BroadCasterRace6.Location = new System.Drawing.Point(673, 100);
+            this.CheckBox_BroadCasterRace6.Name = "CheckBox_BroadCasterRace6";
+            this.CheckBox_BroadCasterRace6.Size = new System.Drawing.Size(107, 17);
+            this.CheckBox_BroadCasterRace6.TabIndex = 75;
+            this.CheckBox_BroadCasterRace6.Text = "BROADCASTER";
+            this.CheckBox_BroadCasterRace6.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace6.CheckedChanged += new System.EventHandler(this.CheckBox_BroadCasterRace6_CheckedChanged);
             // 
-            // checkBox114
+            // CheckBox_RealisticAidsRace6
             // 
-            this.checkBox114.AutoSize = true;
-            this.checkBox114.Location = new System.Drawing.Point(673, 80);
-            this.checkBox114.Name = "checkBox114";
-            this.checkBox114.Size = new System.Drawing.Size(198, 17);
-            this.checkBox114.TabIndex = 74;
-            this.checkBox114.Text = "AIDES A LA CONDUITE REALISTE";
-            this.checkBox114.UseVisualStyleBackColor = true;
+            this.CheckBox_RealisticAidsRace6.AutoSize = true;
+            this.CheckBox_RealisticAidsRace6.Location = new System.Drawing.Point(673, 80);
+            this.CheckBox_RealisticAidsRace6.Name = "CheckBox_RealisticAidsRace6";
+            this.CheckBox_RealisticAidsRace6.Size = new System.Drawing.Size(198, 17);
+            this.CheckBox_RealisticAidsRace6.TabIndex = 74;
+            this.CheckBox_RealisticAidsRace6.Text = "AIDES A LA CONDUITE REALISTE";
+            this.CheckBox_RealisticAidsRace6.UseVisualStyleBackColor = true;
             // 
             // CheckBox_TcsAllowedRace6
             // 
@@ -11204,15 +11221,15 @@
             this.CheckBox_CustomSetupRace6.Text = "AUTORISER LE REGLAGE DU VEHICULE";
             this.CheckBox_CustomSetupRace6.UseVisualStyleBackColor = true;
             // 
-            // checkBox118
+            // CheckBox_ForceManualRace6
             // 
-            this.checkBox118.AutoSize = true;
-            this.checkBox118.Location = new System.Drawing.Point(673, 60);
-            this.checkBox118.Name = "checkBox118";
-            this.checkBox118.Size = new System.Drawing.Size(158, 17);
-            this.checkBox118.TabIndex = 73;
-            this.checkBox118.Text = "FORCE BOITE MANUELLE";
-            this.checkBox118.UseVisualStyleBackColor = true;
+            this.CheckBox_ForceManualRace6.AutoSize = true;
+            this.CheckBox_ForceManualRace6.Location = new System.Drawing.Point(673, 60);
+            this.CheckBox_ForceManualRace6.Name = "CheckBox_ForceManualRace6";
+            this.CheckBox_ForceManualRace6.Size = new System.Drawing.Size(158, 17);
+            this.CheckBox_ForceManualRace6.TabIndex = 73;
+            this.CheckBox_ForceManualRace6.Text = "FORCE BOITE MANUELLE";
+            this.CheckBox_ForceManualRace6.UseVisualStyleBackColor = true;
             // 
             // CheckBox_AbsAllowedRace6
             // 
@@ -12893,20 +12910,20 @@
             this.groupBox19.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.groupBox19.Controls.Add(this.CheckBox_PenaltiesRace7);
             this.groupBox19.Controls.Add(this.CheckBox_RankRace7);
-            this.groupBox19.Controls.Add(this.checkBox134);
+            this.groupBox19.Controls.Add(this.CheckBox_pitStopErrorsRace7);
             this.groupBox19.Controls.Add(this.TxtBox_RankRace7);
-            this.groupBox19.Controls.Add(this.checkBox135);
+            this.groupBox19.Controls.Add(this.CheckBox_PitSpeedLimiterRace7);
             this.groupBox19.Controls.Add(this.CbBox_RankRace7);
-            this.groupBox19.Controls.Add(this.checkBox136);
+            this.groupBox19.Controls.Add(this.CheckBox_RaceDirectorRace7);
             this.groupBox19.Controls.Add(this.CheckBox_WaitForRaceReadyRace7);
             this.groupBox19.Controls.Add(this.CheckBox_MechanicalFailuresRace7);
-            this.groupBox19.Controls.Add(this.checkBox139);
-            this.groupBox19.Controls.Add(this.checkBox140);
+            this.groupBox19.Controls.Add(this.CheckBox_BroadCasterRace7);
+            this.groupBox19.Controls.Add(this.CheckBox_RealisticAidsRace7);
             this.groupBox19.Controls.Add(this.CheckBox_TcsAllowedRace7);
             this.groupBox19.Controls.Add(this.CheckBox_ScAllowedRace7);
             this.groupBox19.Controls.Add(this.CbBox_PenaltyTimeRace7);
             this.groupBox19.Controls.Add(this.CheckBox_CustomSetupRace7);
-            this.groupBox19.Controls.Add(this.checkBox144);
+            this.groupBox19.Controls.Add(this.CheckBox_ForceManualRace7);
             this.groupBox19.Controls.Add(this.CheckBox_AbsAllowedRace7);
             this.groupBox19.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace7);
             this.groupBox19.Controls.Add(this.CheckBox_ManualPitStopRace7);
@@ -12959,15 +12976,15 @@
             this.CheckBox_RankRace7.UseVisualStyleBackColor = true;
             this.CheckBox_RankRace7.CheckedChanged += new System.EventHandler(this.CheckBox_RankRace7_CheckedChanged);
             // 
-            // checkBox134
+            // CheckBox_pitStopErrorsRace7
             // 
-            this.checkBox134.AutoSize = true;
-            this.checkBox134.Location = new System.Drawing.Point(673, 160);
-            this.checkBox134.Name = "checkBox134";
-            this.checkBox134.Size = new System.Drawing.Size(223, 17);
-            this.checkBox134.TabIndex = 78;
-            this.checkBox134.Text = "ERREURS AUTORISEES AUX STANDS";
-            this.checkBox134.UseVisualStyleBackColor = true;
+            this.CheckBox_pitStopErrorsRace7.AutoSize = true;
+            this.CheckBox_pitStopErrorsRace7.Location = new System.Drawing.Point(673, 160);
+            this.CheckBox_pitStopErrorsRace7.Name = "CheckBox_pitStopErrorsRace7";
+            this.CheckBox_pitStopErrorsRace7.Size = new System.Drawing.Size(223, 17);
+            this.CheckBox_pitStopErrorsRace7.TabIndex = 78;
+            this.CheckBox_pitStopErrorsRace7.Text = "ERREURS AUTORISEES AUX STANDS";
+            this.CheckBox_pitStopErrorsRace7.UseVisualStyleBackColor = true;
             // 
             // TxtBox_RankRace7
             // 
@@ -12977,15 +12994,15 @@
             this.TxtBox_RankRace7.TabIndex = 54;
             this.TxtBox_RankRace7.Validating += new System.ComponentModel.CancelEventHandler(this.TxtBox_RankRace7_Validating);
             // 
-            // checkBox135
+            // CheckBox_PitSpeedLimiterRace7
             // 
-            this.checkBox135.AutoSize = true;
-            this.checkBox135.Location = new System.Drawing.Point(673, 140);
-            this.checkBox135.Name = "checkBox135";
-            this.checkBox135.Size = new System.Drawing.Size(190, 17);
-            this.checkBox135.TabIndex = 77;
-            this.checkBox135.Text = "LIMITEUR DE VITESSE STANDS";
-            this.checkBox135.UseVisualStyleBackColor = true;
+            this.CheckBox_PitSpeedLimiterRace7.AutoSize = true;
+            this.CheckBox_PitSpeedLimiterRace7.Location = new System.Drawing.Point(673, 140);
+            this.CheckBox_PitSpeedLimiterRace7.Name = "CheckBox_PitSpeedLimiterRace7";
+            this.CheckBox_PitSpeedLimiterRace7.Size = new System.Drawing.Size(190, 17);
+            this.CheckBox_PitSpeedLimiterRace7.TabIndex = 77;
+            this.CheckBox_PitSpeedLimiterRace7.Text = "LIMITEUR DE VITESSE STANDS";
+            this.CheckBox_PitSpeedLimiterRace7.UseVisualStyleBackColor = true;
             // 
             // CbBox_RankRace7
             // 
@@ -13004,15 +13021,15 @@
             this.CbBox_RankRace7.Size = new System.Drawing.Size(34, 21);
             this.CbBox_RankRace7.TabIndex = 53;
             // 
-            // checkBox136
+            // CheckBox_RaceDirectorRace7
             // 
-            this.checkBox136.AutoSize = true;
-            this.checkBox136.Location = new System.Drawing.Point(673, 120);
-            this.checkBox136.Name = "checkBox136";
-            this.checkBox136.Size = new System.Drawing.Size(155, 17);
-            this.checkBox136.TabIndex = 76;
-            this.checkBox136.Text = "DIRECTEUR DE COURSE";
-            this.checkBox136.UseVisualStyleBackColor = true;
+            this.CheckBox_RaceDirectorRace7.AutoSize = true;
+            this.CheckBox_RaceDirectorRace7.Location = new System.Drawing.Point(673, 120);
+            this.CheckBox_RaceDirectorRace7.Name = "CheckBox_RaceDirectorRace7";
+            this.CheckBox_RaceDirectorRace7.Size = new System.Drawing.Size(155, 17);
+            this.CheckBox_RaceDirectorRace7.TabIndex = 76;
+            this.CheckBox_RaceDirectorRace7.Text = "DIRECTEUR DE COURSE";
+            this.CheckBox_RaceDirectorRace7.UseVisualStyleBackColor = true;
             // 
             // CheckBox_WaitForRaceReadyRace7
             // 
@@ -13034,25 +13051,26 @@
             this.CheckBox_MechanicalFailuresRace7.Text = "PANNES MECANIQUES";
             this.CheckBox_MechanicalFailuresRace7.UseVisualStyleBackColor = true;
             // 
-            // checkBox139
+            // CheckBox_BroadCasterRace7
             // 
-            this.checkBox139.AutoSize = true;
-            this.checkBox139.Location = new System.Drawing.Point(673, 100);
-            this.checkBox139.Name = "checkBox139";
-            this.checkBox139.Size = new System.Drawing.Size(107, 17);
-            this.checkBox139.TabIndex = 75;
-            this.checkBox139.Text = "BROADCASTER";
-            this.checkBox139.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace7.AutoSize = true;
+            this.CheckBox_BroadCasterRace7.Location = new System.Drawing.Point(673, 100);
+            this.CheckBox_BroadCasterRace7.Name = "CheckBox_BroadCasterRace7";
+            this.CheckBox_BroadCasterRace7.Size = new System.Drawing.Size(107, 17);
+            this.CheckBox_BroadCasterRace7.TabIndex = 75;
+            this.CheckBox_BroadCasterRace7.Text = "BROADCASTER";
+            this.CheckBox_BroadCasterRace7.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace7.CheckedChanged += new System.EventHandler(this.CheckBox_BroadCasterRace7_CheckedChanged);
             // 
-            // checkBox140
+            // CheckBox_RealisticAidsRace7
             // 
-            this.checkBox140.AutoSize = true;
-            this.checkBox140.Location = new System.Drawing.Point(673, 80);
-            this.checkBox140.Name = "checkBox140";
-            this.checkBox140.Size = new System.Drawing.Size(198, 17);
-            this.checkBox140.TabIndex = 74;
-            this.checkBox140.Text = "AIDES A LA CONDUITE REALISTE";
-            this.checkBox140.UseVisualStyleBackColor = true;
+            this.CheckBox_RealisticAidsRace7.AutoSize = true;
+            this.CheckBox_RealisticAidsRace7.Location = new System.Drawing.Point(673, 80);
+            this.CheckBox_RealisticAidsRace7.Name = "CheckBox_RealisticAidsRace7";
+            this.CheckBox_RealisticAidsRace7.Size = new System.Drawing.Size(198, 17);
+            this.CheckBox_RealisticAidsRace7.TabIndex = 74;
+            this.CheckBox_RealisticAidsRace7.Text = "AIDES A LA CONDUITE REALISTE";
+            this.CheckBox_RealisticAidsRace7.UseVisualStyleBackColor = true;
             // 
             // CheckBox_TcsAllowedRace7
             // 
@@ -13102,15 +13120,15 @@
             this.CheckBox_CustomSetupRace7.Text = "AUTORISER LE REGLAGE DU VEHICULE";
             this.CheckBox_CustomSetupRace7.UseVisualStyleBackColor = true;
             // 
-            // checkBox144
+            // CheckBox_ForceManualRace7
             // 
-            this.checkBox144.AutoSize = true;
-            this.checkBox144.Location = new System.Drawing.Point(673, 60);
-            this.checkBox144.Name = "checkBox144";
-            this.checkBox144.Size = new System.Drawing.Size(158, 17);
-            this.checkBox144.TabIndex = 73;
-            this.checkBox144.Text = "FORCE BOITE MANUELLE";
-            this.checkBox144.UseVisualStyleBackColor = true;
+            this.CheckBox_ForceManualRace7.AutoSize = true;
+            this.CheckBox_ForceManualRace7.Location = new System.Drawing.Point(673, 60);
+            this.CheckBox_ForceManualRace7.Name = "CheckBox_ForceManualRace7";
+            this.CheckBox_ForceManualRace7.Size = new System.Drawing.Size(158, 17);
+            this.CheckBox_ForceManualRace7.TabIndex = 73;
+            this.CheckBox_ForceManualRace7.Text = "FORCE BOITE MANUELLE";
+            this.CheckBox_ForceManualRace7.UseVisualStyleBackColor = true;
             // 
             // CheckBox_AbsAllowedRace7
             // 
@@ -14791,20 +14809,20 @@
             this.groupBox21.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.groupBox21.Controls.Add(this.CheckBox_PenaltiesRace8);
             this.groupBox21.Controls.Add(this.CheckBox_RankRace8);
-            this.groupBox21.Controls.Add(this.checkBox160);
+            this.groupBox21.Controls.Add(this.CheckBox_pitStopErrorsRace8);
             this.groupBox21.Controls.Add(this.TxtBox_RankRace8);
-            this.groupBox21.Controls.Add(this.checkBox161);
+            this.groupBox21.Controls.Add(this.CheckBox_PitSpeedLimiterRace8);
             this.groupBox21.Controls.Add(this.CbBox_RankRace8);
-            this.groupBox21.Controls.Add(this.checkBox162);
+            this.groupBox21.Controls.Add(this.CheckBox_RaceDirectorRace8);
             this.groupBox21.Controls.Add(this.CheckBox_WaitForRaceReadyRace8);
             this.groupBox21.Controls.Add(this.CheckBox_MechanicalFailuresRace8);
-            this.groupBox21.Controls.Add(this.checkBox165);
-            this.groupBox21.Controls.Add(this.checkBox166);
+            this.groupBox21.Controls.Add(this.CheckBox_BroadCasterRace8);
+            this.groupBox21.Controls.Add(this.CheckBox_RealisticAidsRace8);
             this.groupBox21.Controls.Add(this.CheckBox_TcsAllowedRace8);
             this.groupBox21.Controls.Add(this.CheckBox_ScAllowedRace8);
             this.groupBox21.Controls.Add(this.CbBox_PenaltyTimeRace8);
             this.groupBox21.Controls.Add(this.CheckBox_CustomSetupRace8);
-            this.groupBox21.Controls.Add(this.checkBox170);
+            this.groupBox21.Controls.Add(this.CheckBox_ForceManualRace8);
             this.groupBox21.Controls.Add(this.CheckBox_AbsAllowedRace8);
             this.groupBox21.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace8);
             this.groupBox21.Controls.Add(this.CheckBox_ManualPitStopRace8);
@@ -14857,15 +14875,15 @@
             this.CheckBox_RankRace8.UseVisualStyleBackColor = true;
             this.CheckBox_RankRace8.CheckedChanged += new System.EventHandler(this.CheckBox_RankRace8_CheckedChanged);
             // 
-            // checkBox160
+            // CheckBox_pitStopErrorsRace8
             // 
-            this.checkBox160.AutoSize = true;
-            this.checkBox160.Location = new System.Drawing.Point(673, 160);
-            this.checkBox160.Name = "checkBox160";
-            this.checkBox160.Size = new System.Drawing.Size(223, 17);
-            this.checkBox160.TabIndex = 78;
-            this.checkBox160.Text = "ERREURS AUTORISEES AUX STANDS";
-            this.checkBox160.UseVisualStyleBackColor = true;
+            this.CheckBox_pitStopErrorsRace8.AutoSize = true;
+            this.CheckBox_pitStopErrorsRace8.Location = new System.Drawing.Point(673, 160);
+            this.CheckBox_pitStopErrorsRace8.Name = "CheckBox_pitStopErrorsRace8";
+            this.CheckBox_pitStopErrorsRace8.Size = new System.Drawing.Size(223, 17);
+            this.CheckBox_pitStopErrorsRace8.TabIndex = 78;
+            this.CheckBox_pitStopErrorsRace8.Text = "ERREURS AUTORISEES AUX STANDS";
+            this.CheckBox_pitStopErrorsRace8.UseVisualStyleBackColor = true;
             // 
             // TxtBox_RankRace8
             // 
@@ -14874,15 +14892,15 @@
             this.TxtBox_RankRace8.Size = new System.Drawing.Size(60, 20);
             this.TxtBox_RankRace8.TabIndex = 54;
             // 
-            // checkBox161
+            // CheckBox_PitSpeedLimiterRace8
             // 
-            this.checkBox161.AutoSize = true;
-            this.checkBox161.Location = new System.Drawing.Point(673, 140);
-            this.checkBox161.Name = "checkBox161";
-            this.checkBox161.Size = new System.Drawing.Size(190, 17);
-            this.checkBox161.TabIndex = 77;
-            this.checkBox161.Text = "LIMITEUR DE VITESSE STANDS";
-            this.checkBox161.UseVisualStyleBackColor = true;
+            this.CheckBox_PitSpeedLimiterRace8.AutoSize = true;
+            this.CheckBox_PitSpeedLimiterRace8.Location = new System.Drawing.Point(673, 140);
+            this.CheckBox_PitSpeedLimiterRace8.Name = "CheckBox_PitSpeedLimiterRace8";
+            this.CheckBox_PitSpeedLimiterRace8.Size = new System.Drawing.Size(190, 17);
+            this.CheckBox_PitSpeedLimiterRace8.TabIndex = 77;
+            this.CheckBox_PitSpeedLimiterRace8.Text = "LIMITEUR DE VITESSE STANDS";
+            this.CheckBox_PitSpeedLimiterRace8.UseVisualStyleBackColor = true;
             // 
             // CbBox_RankRace8
             // 
@@ -14901,15 +14919,15 @@
             this.CbBox_RankRace8.Size = new System.Drawing.Size(34, 21);
             this.CbBox_RankRace8.TabIndex = 53;
             // 
-            // checkBox162
+            // CheckBox_RaceDirectorRace8
             // 
-            this.checkBox162.AutoSize = true;
-            this.checkBox162.Location = new System.Drawing.Point(673, 120);
-            this.checkBox162.Name = "checkBox162";
-            this.checkBox162.Size = new System.Drawing.Size(155, 17);
-            this.checkBox162.TabIndex = 76;
-            this.checkBox162.Text = "DIRECTEUR DE COURSE";
-            this.checkBox162.UseVisualStyleBackColor = true;
+            this.CheckBox_RaceDirectorRace8.AutoSize = true;
+            this.CheckBox_RaceDirectorRace8.Location = new System.Drawing.Point(673, 120);
+            this.CheckBox_RaceDirectorRace8.Name = "CheckBox_RaceDirectorRace8";
+            this.CheckBox_RaceDirectorRace8.Size = new System.Drawing.Size(155, 17);
+            this.CheckBox_RaceDirectorRace8.TabIndex = 76;
+            this.CheckBox_RaceDirectorRace8.Text = "DIRECTEUR DE COURSE";
+            this.CheckBox_RaceDirectorRace8.UseVisualStyleBackColor = true;
             // 
             // CheckBox_WaitForRaceReadyRace8
             // 
@@ -14931,25 +14949,26 @@
             this.CheckBox_MechanicalFailuresRace8.Text = "PANNES MECANIQUES";
             this.CheckBox_MechanicalFailuresRace8.UseVisualStyleBackColor = true;
             // 
-            // checkBox165
+            // CheckBox_BroadCasterRace8
             // 
-            this.checkBox165.AutoSize = true;
-            this.checkBox165.Location = new System.Drawing.Point(673, 100);
-            this.checkBox165.Name = "checkBox165";
-            this.checkBox165.Size = new System.Drawing.Size(107, 17);
-            this.checkBox165.TabIndex = 75;
-            this.checkBox165.Text = "BROADCASTER";
-            this.checkBox165.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace8.AutoSize = true;
+            this.CheckBox_BroadCasterRace8.Location = new System.Drawing.Point(673, 100);
+            this.CheckBox_BroadCasterRace8.Name = "CheckBox_BroadCasterRace8";
+            this.CheckBox_BroadCasterRace8.Size = new System.Drawing.Size(107, 17);
+            this.CheckBox_BroadCasterRace8.TabIndex = 75;
+            this.CheckBox_BroadCasterRace8.Text = "BROADCASTER";
+            this.CheckBox_BroadCasterRace8.UseVisualStyleBackColor = true;
+            this.CheckBox_BroadCasterRace8.CheckedChanged += new System.EventHandler(this.CheckBox_BroadCasterRace8_CheckedChanged);
             // 
-            // checkBox166
+            // CheckBox_RealisticAidsRace8
             // 
-            this.checkBox166.AutoSize = true;
-            this.checkBox166.Location = new System.Drawing.Point(673, 80);
-            this.checkBox166.Name = "checkBox166";
-            this.checkBox166.Size = new System.Drawing.Size(198, 17);
-            this.checkBox166.TabIndex = 74;
-            this.checkBox166.Text = "AIDES A LA CONDUITE REALISTE";
-            this.checkBox166.UseVisualStyleBackColor = true;
+            this.CheckBox_RealisticAidsRace8.AutoSize = true;
+            this.CheckBox_RealisticAidsRace8.Location = new System.Drawing.Point(673, 80);
+            this.CheckBox_RealisticAidsRace8.Name = "CheckBox_RealisticAidsRace8";
+            this.CheckBox_RealisticAidsRace8.Size = new System.Drawing.Size(198, 17);
+            this.CheckBox_RealisticAidsRace8.TabIndex = 74;
+            this.CheckBox_RealisticAidsRace8.Text = "AIDES A LA CONDUITE REALISTE";
+            this.CheckBox_RealisticAidsRace8.UseVisualStyleBackColor = true;
             // 
             // CheckBox_TcsAllowedRace8
             // 
@@ -14999,15 +15018,15 @@
             this.CheckBox_CustomSetupRace8.Text = "AUTORISER LE REGLAGE DU VEHICULE";
             this.CheckBox_CustomSetupRace8.UseVisualStyleBackColor = true;
             // 
-            // checkBox170
+            // CheckBox_ForceManualRace8
             // 
-            this.checkBox170.AutoSize = true;
-            this.checkBox170.Location = new System.Drawing.Point(673, 60);
-            this.checkBox170.Name = "checkBox170";
-            this.checkBox170.Size = new System.Drawing.Size(158, 17);
-            this.checkBox170.TabIndex = 73;
-            this.checkBox170.Text = "FORCE BOITE MANUELLE";
-            this.checkBox170.UseVisualStyleBackColor = true;
+            this.CheckBox_ForceManualRace8.AutoSize = true;
+            this.CheckBox_ForceManualRace8.Location = new System.Drawing.Point(673, 60);
+            this.CheckBox_ForceManualRace8.Name = "CheckBox_ForceManualRace8";
+            this.CheckBox_ForceManualRace8.Size = new System.Drawing.Size(158, 17);
+            this.CheckBox_ForceManualRace8.TabIndex = 73;
+            this.CheckBox_ForceManualRace8.Text = "FORCE BOITE MANUELLE";
+            this.CheckBox_ForceManualRace8.UseVisualStyleBackColor = true;
             // 
             // CheckBox_AbsAllowedRace8
             // 
@@ -17429,20 +17448,20 @@
         public System.Windows.Forms.Label label106;
         public System.Windows.Forms.GroupBox groupBox_Rules;
         public System.Windows.Forms.CheckBox CheckBox_RankRace1;
-        public System.Windows.Forms.CheckBox checkBox_pitStopErrors;
+        public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace1;
         public System.Windows.Forms.TextBox TxtBox_RankRace1;
-        public System.Windows.Forms.CheckBox checkBox_PitSpeedLimiter;
+        public System.Windows.Forms.CheckBox CheckBox_PitSpeedLimiterRace1;
         public System.Windows.Forms.ComboBox CbBox_RankRace1;
-        public System.Windows.Forms.CheckBox checkBox_RaceDirector;
+        public System.Windows.Forms.CheckBox CheckBox_RaceDirectorRace1;
         public System.Windows.Forms.CheckBox CheckBox_WaitForRaceReadyRace1;
         public System.Windows.Forms.CheckBox CheckBox_MechanicalFailuresRace1;
-        public System.Windows.Forms.CheckBox checkBox_BROADCASTER;
-        public System.Windows.Forms.CheckBox checkBox_RealisticAids;
+        public System.Windows.Forms.CheckBox CheckBox_BroadCasterRace1;
+        public System.Windows.Forms.CheckBox CheckBox_RealisticAidsRace1;
         public System.Windows.Forms.CheckBox CheckBox_TcsAllowedRace1;
         public System.Windows.Forms.CheckBox CheckBox_ScAllowedRace1;
         public System.Windows.Forms.ComboBox CbBox_PenaltyTimeRace1;
         public System.Windows.Forms.CheckBox CheckBox_CustomSetupRace1;
-        public System.Windows.Forms.CheckBox CheckBox_ForceManual;
+        public System.Windows.Forms.CheckBox CheckBox_ForceManualRace1;
         public System.Windows.Forms.CheckBox CheckBox_AbsAllowedRace1;
         public System.Windows.Forms.CheckBox CheckBox_AntiGriefingCollisionsRace1;
         public System.Windows.Forms.CheckBox CheckBox_ManualPitStopRace1;
@@ -17466,20 +17485,20 @@
         public System.Windows.Forms.Label label112;
         public System.Windows.Forms.GroupBox groupBox9;
         public System.Windows.Forms.CheckBox CheckBox_RankRace2;
-        public System.Windows.Forms.CheckBox checkBox4;
+        public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace2;
         public System.Windows.Forms.TextBox TxtBox_RankRace2;
-        public System.Windows.Forms.CheckBox checkBox5;
+        public System.Windows.Forms.CheckBox CheckBox_PitSpeedLimiterRace2;
         public System.Windows.Forms.ComboBox CbBox_RankRace2;
-        public System.Windows.Forms.CheckBox checkBox6;
+        public System.Windows.Forms.CheckBox CheckBox_RaceDirectorRace2;
         public System.Windows.Forms.CheckBox CheckBox_WaitForRaceReadyRace2;
         public System.Windows.Forms.CheckBox CheckBox_MechanicalFailuresRace2;
-        public System.Windows.Forms.CheckBox checkBox9;
-        public System.Windows.Forms.CheckBox checkBox10;
+        public System.Windows.Forms.CheckBox CheckBox_BroadCasterRace2;
+        public System.Windows.Forms.CheckBox CheckBox_RealisticAidsRace2;
         public System.Windows.Forms.CheckBox CheckBox_TcsAllowedRace2;
         public System.Windows.Forms.CheckBox CheckBox_ScAllowedRace2;
         public System.Windows.Forms.ComboBox CbBox_PenaltyTimeRace2;
         public System.Windows.Forms.CheckBox CheckBox_CustomSetupRace2;
-        public System.Windows.Forms.CheckBox checkBox14;
+        public System.Windows.Forms.CheckBox CheckBox_ForceManualRace2;
         public System.Windows.Forms.CheckBox CheckBox_AbsAllowedRace2;
         public System.Windows.Forms.CheckBox CheckBox_AntiGriefingCollisionsRace2;
         public System.Windows.Forms.CheckBox CheckBox_ManualPitStopRace2;
@@ -17503,20 +17522,20 @@
         public System.Windows.Forms.Label label114;
         public System.Windows.Forms.GroupBox groupBox11;
         public System.Windows.Forms.CheckBox CheckBox_RankRace3;
-        public System.Windows.Forms.CheckBox checkBox30;
+        public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace3;
         public System.Windows.Forms.TextBox TxtBox_RankRace3;
-        public System.Windows.Forms.CheckBox checkBox31;
+        public System.Windows.Forms.CheckBox CheckBox_PitSpeedLimiterRace3;
         public System.Windows.Forms.ComboBox CbBox_RankRace3;
-        public System.Windows.Forms.CheckBox checkBox32;
+        public System.Windows.Forms.CheckBox CheckBox_RaceDirectorRace3;
         public System.Windows.Forms.CheckBox CheckBox_WaitForRaceReadyRace3;
         public System.Windows.Forms.CheckBox CheckBox_MechanicalFailuresRace3;
-        public System.Windows.Forms.CheckBox checkBox35;
-        public System.Windows.Forms.CheckBox checkBox36;
+        public System.Windows.Forms.CheckBox CheckBox_BroadCasterRace3;
+        public System.Windows.Forms.CheckBox CheckBox_RealisticAidsRace3;
         public System.Windows.Forms.CheckBox CheckBox_TcsAllowedRace3;
         public System.Windows.Forms.CheckBox CheckBox_ScAllowedRace3;
         public System.Windows.Forms.ComboBox CbBox_PenaltyTimeRace3;
         public System.Windows.Forms.CheckBox CheckBox_CustomSetupRace3;
-        public System.Windows.Forms.CheckBox checkBox40;
+        public System.Windows.Forms.CheckBox CheckBox_ForceManualRace3;
         public System.Windows.Forms.CheckBox CheckBox_AbsAllowedRace3;
         public System.Windows.Forms.CheckBox CheckBox_AntiGriefingCollisionsRace3;
         public System.Windows.Forms.CheckBox CheckBox_ManualPitStopRace3;
@@ -17540,20 +17559,20 @@
         public System.Windows.Forms.Label label118;
         public System.Windows.Forms.GroupBox groupBox13;
         public System.Windows.Forms.CheckBox CheckBox_RankRace4;
-        public System.Windows.Forms.CheckBox checkBox56;
+        public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace4;
         public System.Windows.Forms.TextBox TxtBox_RankRace4;
-        public System.Windows.Forms.CheckBox checkBox57;
+        public System.Windows.Forms.CheckBox CheckBox_PitSpeedLimiterRace4;
         public System.Windows.Forms.ComboBox CbBox_RankRace4;
-        public System.Windows.Forms.CheckBox checkBox58;
+        public System.Windows.Forms.CheckBox CheckBox_RaceDirectorRace4;
         public System.Windows.Forms.CheckBox CheckBox_WaitForRaceReadyRace4;
         public System.Windows.Forms.CheckBox CheckBox_MechanicalFailuresRace4;
-        public System.Windows.Forms.CheckBox checkBox61;
-        public System.Windows.Forms.CheckBox checkBox62;
+        public System.Windows.Forms.CheckBox CheckBox_BroadCasterRace4;
+        public System.Windows.Forms.CheckBox CheckBox_RealisticAidsRace4;
         public System.Windows.Forms.CheckBox CheckBox_TcsAllowedRace4;
         public System.Windows.Forms.CheckBox CheckBox_ScAllowedRace4;
         public System.Windows.Forms.ComboBox CbBox_PenaltyTimeRace4;
         public System.Windows.Forms.CheckBox CheckBox_CustomSetupRace4;
-        public System.Windows.Forms.CheckBox checkBox66;
+        public System.Windows.Forms.CheckBox CheckBox_ForceManualRace4;
         public System.Windows.Forms.CheckBox CheckBox_AbsAllowedRace4;
         public System.Windows.Forms.CheckBox CheckBox_AntiGriefingCollisionsRace4;
         public System.Windows.Forms.CheckBox CheckBox_ManualPitStopRace4;
@@ -17577,20 +17596,20 @@
         public System.Windows.Forms.Label label122;
         public System.Windows.Forms.GroupBox groupBox15;
         public System.Windows.Forms.CheckBox CheckBox_RankRace5;
-        public System.Windows.Forms.CheckBox checkBox82;
+        public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace5;
         public System.Windows.Forms.TextBox TxtBox_RankRace5;
-        public System.Windows.Forms.CheckBox checkBox83;
+        public System.Windows.Forms.CheckBox CheckBox_PitSpeedLimiterRace5;
         public System.Windows.Forms.ComboBox CbBox_RankRace5;
-        public System.Windows.Forms.CheckBox checkBox84;
+        public System.Windows.Forms.CheckBox CheckBox_RaceDirectorRace5;
         public System.Windows.Forms.CheckBox CheckBox_WaitForRaceReadyRace5;
         public System.Windows.Forms.CheckBox CheckBox_MechanicalFailuresRace5;
-        public System.Windows.Forms.CheckBox checkBox87;
-        public System.Windows.Forms.CheckBox checkBox88;
+        public System.Windows.Forms.CheckBox CheckBox_BroadCasterRace5;
+        public System.Windows.Forms.CheckBox CheckBox_RealisticAidsRace5;
         public System.Windows.Forms.CheckBox CheckBox_TcsAllowedRace5;
         public System.Windows.Forms.CheckBox CheckBox_ScAllowedRace5;
         public System.Windows.Forms.ComboBox CbBox_PenaltyTimeRace5;
         public System.Windows.Forms.CheckBox CheckBox_CustomSetupRace5;
-        public System.Windows.Forms.CheckBox checkBox92;
+        public System.Windows.Forms.CheckBox CheckBox_ForceManualRace5;
         public System.Windows.Forms.CheckBox CheckBox_AbsAllowedRace5;
         public System.Windows.Forms.CheckBox CheckBox_AntiGriefingCollisionsRace5;
         public System.Windows.Forms.CheckBox CheckBox_ManualPitStopRace5;
@@ -17614,20 +17633,20 @@
         public System.Windows.Forms.Label label126;
         public System.Windows.Forms.GroupBox groupBox17;
         public System.Windows.Forms.CheckBox CheckBox_RankRace6;
-        public System.Windows.Forms.CheckBox checkBox108;
+        public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace6;
         public System.Windows.Forms.TextBox TxtBox_RankRace6;
-        public System.Windows.Forms.CheckBox checkBox109;
+        public System.Windows.Forms.CheckBox CheckBox_PitSpeedLimiterRace6;
         public System.Windows.Forms.ComboBox CbBox_RankRace6;
-        public System.Windows.Forms.CheckBox checkBox110;
+        public System.Windows.Forms.CheckBox CheckBox_RaceDirectorRace6;
         public System.Windows.Forms.CheckBox CheckBox_WaitForRaceReadyRace6;
         public System.Windows.Forms.CheckBox CheckBox_MechanicalFailuresRace6;
-        public System.Windows.Forms.CheckBox checkBox113;
-        public System.Windows.Forms.CheckBox checkBox114;
+        public System.Windows.Forms.CheckBox CheckBox_BroadCasterRace6;
+        public System.Windows.Forms.CheckBox CheckBox_RealisticAidsRace6;
         public System.Windows.Forms.CheckBox CheckBox_TcsAllowedRace6;
         public System.Windows.Forms.CheckBox CheckBox_ScAllowedRace6;
         public System.Windows.Forms.ComboBox CbBox_PenaltyTimeRace6;
         public System.Windows.Forms.CheckBox CheckBox_CustomSetupRace6;
-        public System.Windows.Forms.CheckBox checkBox118;
+        public System.Windows.Forms.CheckBox CheckBox_ForceManualRace6;
         public System.Windows.Forms.CheckBox CheckBox_AbsAllowedRace6;
         public System.Windows.Forms.CheckBox CheckBox_AntiGriefingCollisionsRace6;
         public System.Windows.Forms.CheckBox CheckBox_ManualPitStopRace6;
@@ -17651,20 +17670,20 @@
         public System.Windows.Forms.Label label130;
         public System.Windows.Forms.GroupBox groupBox19;
         public System.Windows.Forms.CheckBox CheckBox_RankRace7;
-        public System.Windows.Forms.CheckBox checkBox134;
+        public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace7;
         public System.Windows.Forms.TextBox TxtBox_RankRace7;
-        public System.Windows.Forms.CheckBox checkBox135;
+        public System.Windows.Forms.CheckBox CheckBox_PitSpeedLimiterRace7;
         public System.Windows.Forms.ComboBox CbBox_RankRace7;
-        public System.Windows.Forms.CheckBox checkBox136;
+        public System.Windows.Forms.CheckBox CheckBox_RaceDirectorRace7;
         public System.Windows.Forms.CheckBox CheckBox_WaitForRaceReadyRace7;
         public System.Windows.Forms.CheckBox CheckBox_MechanicalFailuresRace7;
-        public System.Windows.Forms.CheckBox checkBox139;
-        public System.Windows.Forms.CheckBox checkBox140;
+        public System.Windows.Forms.CheckBox CheckBox_BroadCasterRace7;
+        public System.Windows.Forms.CheckBox CheckBox_RealisticAidsRace7;
         public System.Windows.Forms.CheckBox CheckBox_TcsAllowedRace7;
         public System.Windows.Forms.CheckBox CheckBox_ScAllowedRace7;
         public System.Windows.Forms.ComboBox CbBox_PenaltyTimeRace7;
         public System.Windows.Forms.CheckBox CheckBox_CustomSetupRace7;
-        public System.Windows.Forms.CheckBox checkBox144;
+        public System.Windows.Forms.CheckBox CheckBox_ForceManualRace7;
         public System.Windows.Forms.CheckBox CheckBox_AbsAllowedRace7;
         public System.Windows.Forms.CheckBox CheckBox_AntiGriefingCollisionsRace7;
         public System.Windows.Forms.CheckBox CheckBox_ManualPitStopRace7;
@@ -17688,20 +17707,20 @@
         public System.Windows.Forms.Label label134;
         public System.Windows.Forms.GroupBox groupBox21;
         public System.Windows.Forms.CheckBox CheckBox_RankRace8;
-        public System.Windows.Forms.CheckBox checkBox160;
+        public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace8;
         public System.Windows.Forms.TextBox TxtBox_RankRace8;
-        public System.Windows.Forms.CheckBox checkBox161;
+        public System.Windows.Forms.CheckBox CheckBox_PitSpeedLimiterRace8;
         public System.Windows.Forms.ComboBox CbBox_RankRace8;
-        public System.Windows.Forms.CheckBox checkBox162;
+        public System.Windows.Forms.CheckBox CheckBox_RaceDirectorRace8;
         public System.Windows.Forms.CheckBox CheckBox_WaitForRaceReadyRace8;
         public System.Windows.Forms.CheckBox CheckBox_MechanicalFailuresRace8;
-        public System.Windows.Forms.CheckBox checkBox165;
-        public System.Windows.Forms.CheckBox checkBox166;
+        public System.Windows.Forms.CheckBox CheckBox_BroadCasterRace8;
+        public System.Windows.Forms.CheckBox CheckBox_RealisticAidsRace8;
         public System.Windows.Forms.CheckBox CheckBox_TcsAllowedRace8;
         public System.Windows.Forms.CheckBox CheckBox_ScAllowedRace8;
         public System.Windows.Forms.ComboBox CbBox_PenaltyTimeRace8;
         public System.Windows.Forms.CheckBox CheckBox_CustomSetupRace8;
-        public System.Windows.Forms.CheckBox checkBox170;
+        public System.Windows.Forms.CheckBox CheckBox_ForceManualRace8;
         public System.Windows.Forms.CheckBox CheckBox_AbsAllowedRace8;
         public System.Windows.Forms.CheckBox CheckBox_AntiGriefingCollisionsRace8;
         public System.Windows.Forms.CheckBox CheckBox_ManualPitStopRace8;
@@ -17737,5 +17756,6 @@
         public System.Windows.Forms.CheckBox CheckBox_SameTrack;
         public System.Windows.Forms.CheckBox CheckBox_SameCars;
         public System.Windows.Forms.Timer timer1;
+        public System.Windows.Forms.CheckBox CheckBox_SameRules;
     }
 }

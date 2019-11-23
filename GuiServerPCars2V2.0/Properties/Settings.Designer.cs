@@ -38182,5 +38182,3461 @@ namespace GuiServerPCars2V2._0.Properties {
                 this["Server6AntiGriefingCollisionsRace8"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1ForceManualRace1 {
+            get {
+                return ((bool)(this["Server1ForceManualRace1"]));
+            }
+            set {
+                this["Server1ForceManualRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1ForceManualRace2 {
+            get {
+                return ((bool)(this["Server1ForceManualRace2"]));
+            }
+            set {
+                this["Server1ForceManualRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1ForceManualRace3 {
+            get {
+                return ((bool)(this["Server1ForceManualRace3"]));
+            }
+            set {
+                this["Server1ForceManualRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1ForceManualRace4 {
+            get {
+                return ((bool)(this["Server1ForceManualRace4"]));
+            }
+            set {
+                this["Server1ForceManualRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1ForceManualRace5 {
+            get {
+                return ((bool)(this["Server1ForceManualRace5"]));
+            }
+            set {
+                this["Server1ForceManualRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1ForceManualRace6 {
+            get {
+                return ((bool)(this["Server1ForceManualRace6"]));
+            }
+            set {
+                this["Server1ForceManualRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1ForceManualRace7 {
+            get {
+                return ((bool)(this["Server1ForceManualRace7"]));
+            }
+            set {
+                this["Server1ForceManualRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1ForceManualRace8 {
+            get {
+                return ((bool)(this["Server1ForceManualRace8"]));
+            }
+            set {
+                this["Server1ForceManualRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2ForceManualRace1 {
+            get {
+                return ((bool)(this["Server2ForceManualRace1"]));
+            }
+            set {
+                this["Server2ForceManualRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2ForceManualRace2 {
+            get {
+                return ((bool)(this["Server2ForceManualRace2"]));
+            }
+            set {
+                this["Server2ForceManualRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2ForceManualRace3 {
+            get {
+                return ((bool)(this["Server2ForceManualRace3"]));
+            }
+            set {
+                this["Server2ForceManualRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2ForceManualRace4 {
+            get {
+                return ((bool)(this["Server2ForceManualRace4"]));
+            }
+            set {
+                this["Server2ForceManualRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2ForceManualRace5 {
+            get {
+                return ((bool)(this["Server2ForceManualRace5"]));
+            }
+            set {
+                this["Server2ForceManualRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2ForceManualRace6 {
+            get {
+                return ((bool)(this["Server2ForceManualRace6"]));
+            }
+            set {
+                this["Server2ForceManualRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2ForceManualRace7 {
+            get {
+                return ((bool)(this["Server2ForceManualRace7"]));
+            }
+            set {
+                this["Server2ForceManualRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2ForceManualRace8 {
+            get {
+                return ((bool)(this["Server2ForceManualRace8"]));
+            }
+            set {
+                this["Server2ForceManualRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3ForceManualRace1 {
+            get {
+                return ((bool)(this["Server3ForceManualRace1"]));
+            }
+            set {
+                this["Server3ForceManualRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3ForceManualRace2 {
+            get {
+                return ((bool)(this["Server3ForceManualRace2"]));
+            }
+            set {
+                this["Server3ForceManualRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3ForceManualRace3 {
+            get {
+                return ((bool)(this["Server3ForceManualRace3"]));
+            }
+            set {
+                this["Server3ForceManualRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3ForceManualRace4 {
+            get {
+                return ((bool)(this["Server3ForceManualRace4"]));
+            }
+            set {
+                this["Server3ForceManualRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3ForceManualRace5 {
+            get {
+                return ((bool)(this["Server3ForceManualRace5"]));
+            }
+            set {
+                this["Server3ForceManualRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3ForceManualRace6 {
+            get {
+                return ((bool)(this["Server3ForceManualRace6"]));
+            }
+            set {
+                this["Server3ForceManualRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3ForceManualRace7 {
+            get {
+                return ((bool)(this["Server3ForceManualRace7"]));
+            }
+            set {
+                this["Server3ForceManualRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3ForceManualRace8 {
+            get {
+                return ((bool)(this["Server3ForceManualRace8"]));
+            }
+            set {
+                this["Server3ForceManualRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4ForceManualRace1 {
+            get {
+                return ((bool)(this["Server4ForceManualRace1"]));
+            }
+            set {
+                this["Server4ForceManualRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4ForceManualRace2 {
+            get {
+                return ((bool)(this["Server4ForceManualRace2"]));
+            }
+            set {
+                this["Server4ForceManualRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4ForceManualRace3 {
+            get {
+                return ((bool)(this["Server4ForceManualRace3"]));
+            }
+            set {
+                this["Server4ForceManualRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4ForceManualRace4 {
+            get {
+                return ((bool)(this["Server4ForceManualRace4"]));
+            }
+            set {
+                this["Server4ForceManualRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4ForceManualRace5 {
+            get {
+                return ((bool)(this["Server4ForceManualRace5"]));
+            }
+            set {
+                this["Server4ForceManualRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4ForceManualRace6 {
+            get {
+                return ((bool)(this["Server4ForceManualRace6"]));
+            }
+            set {
+                this["Server4ForceManualRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4ForceManualRace7 {
+            get {
+                return ((bool)(this["Server4ForceManualRace7"]));
+            }
+            set {
+                this["Server4ForceManualRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4ForceManualRace8 {
+            get {
+                return ((bool)(this["Server4ForceManualRace8"]));
+            }
+            set {
+                this["Server4ForceManualRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5ForceManualRace1 {
+            get {
+                return ((bool)(this["Server5ForceManualRace1"]));
+            }
+            set {
+                this["Server5ForceManualRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5ForceManualRace2 {
+            get {
+                return ((bool)(this["Server5ForceManualRace2"]));
+            }
+            set {
+                this["Server5ForceManualRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5ForceManualRace3 {
+            get {
+                return ((bool)(this["Server5ForceManualRace3"]));
+            }
+            set {
+                this["Server5ForceManualRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5ForceManualRace4 {
+            get {
+                return ((bool)(this["Server5ForceManualRace4"]));
+            }
+            set {
+                this["Server5ForceManualRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5ForceManualRace5 {
+            get {
+                return ((bool)(this["Server5ForceManualRace5"]));
+            }
+            set {
+                this["Server5ForceManualRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5ForceManualRace6 {
+            get {
+                return ((bool)(this["Server5ForceManualRace6"]));
+            }
+            set {
+                this["Server5ForceManualRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5ForceManualRace7 {
+            get {
+                return ((bool)(this["Server5ForceManualRace7"]));
+            }
+            set {
+                this["Server5ForceManualRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5ForceManualRace8 {
+            get {
+                return ((bool)(this["Server5ForceManualRace8"]));
+            }
+            set {
+                this["Server5ForceManualRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6ForceManualRace1 {
+            get {
+                return ((bool)(this["Server6ForceManualRace1"]));
+            }
+            set {
+                this["Server6ForceManualRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6ForceManualRace2 {
+            get {
+                return ((bool)(this["Server6ForceManualRace2"]));
+            }
+            set {
+                this["Server6ForceManualRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6ForceManualRace3 {
+            get {
+                return ((bool)(this["Server6ForceManualRace3"]));
+            }
+            set {
+                this["Server6ForceManualRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6ForceManualRace4 {
+            get {
+                return ((bool)(this["Server6ForceManualRace4"]));
+            }
+            set {
+                this["Server6ForceManualRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6ForceManualRace5 {
+            get {
+                return ((bool)(this["Server6ForceManualRace5"]));
+            }
+            set {
+                this["Server6ForceManualRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6ForceManualRace6 {
+            get {
+                return ((bool)(this["Server6ForceManualRace6"]));
+            }
+            set {
+                this["Server6ForceManualRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6ForceManualRace7 {
+            get {
+                return ((bool)(this["Server6ForceManualRace7"]));
+            }
+            set {
+                this["Server6ForceManualRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6ForceManualRace8 {
+            get {
+                return ((bool)(this["Server6ForceManualRace8"]));
+            }
+            set {
+                this["Server6ForceManualRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1RealisticAidsRace1 {
+            get {
+                return ((bool)(this["Server1RealisticAidsRace1"]));
+            }
+            set {
+                this["Server1RealisticAidsRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1RealisticAidsRace2 {
+            get {
+                return ((bool)(this["Server1RealisticAidsRace2"]));
+            }
+            set {
+                this["Server1RealisticAidsRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1RealisticAidsRace3 {
+            get {
+                return ((bool)(this["Server1RealisticAidsRace3"]));
+            }
+            set {
+                this["Server1RealisticAidsRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1RealisticAidsRace4 {
+            get {
+                return ((bool)(this["Server1RealisticAidsRace4"]));
+            }
+            set {
+                this["Server1RealisticAidsRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1RealisticAidsRace5 {
+            get {
+                return ((bool)(this["Server1RealisticAidsRace5"]));
+            }
+            set {
+                this["Server1RealisticAidsRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1RealisticAidsRace6 {
+            get {
+                return ((bool)(this["Server1RealisticAidsRace6"]));
+            }
+            set {
+                this["Server1RealisticAidsRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1RealisticAidsRace7 {
+            get {
+                return ((bool)(this["Server1RealisticAidsRace7"]));
+            }
+            set {
+                this["Server1RealisticAidsRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1RealisticAidsRace8 {
+            get {
+                return ((bool)(this["Server1RealisticAidsRace8"]));
+            }
+            set {
+                this["Server1RealisticAidsRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2RealisticAidsRace1 {
+            get {
+                return ((bool)(this["Server2RealisticAidsRace1"]));
+            }
+            set {
+                this["Server2RealisticAidsRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2RealisticAidsRace2 {
+            get {
+                return ((bool)(this["Server2RealisticAidsRace2"]));
+            }
+            set {
+                this["Server2RealisticAidsRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2RealisticAidsRace3 {
+            get {
+                return ((bool)(this["Server2RealisticAidsRace3"]));
+            }
+            set {
+                this["Server2RealisticAidsRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2RealisticAidsRace4 {
+            get {
+                return ((bool)(this["Server2RealisticAidsRace4"]));
+            }
+            set {
+                this["Server2RealisticAidsRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2RealisticAidsRace5 {
+            get {
+                return ((bool)(this["Server2RealisticAidsRace5"]));
+            }
+            set {
+                this["Server2RealisticAidsRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2RealisticAidsRace6 {
+            get {
+                return ((bool)(this["Server2RealisticAidsRace6"]));
+            }
+            set {
+                this["Server2RealisticAidsRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2RealisticAidsRace7 {
+            get {
+                return ((bool)(this["Server2RealisticAidsRace7"]));
+            }
+            set {
+                this["Server2RealisticAidsRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2RealisticAidsRace8 {
+            get {
+                return ((bool)(this["Server2RealisticAidsRace8"]));
+            }
+            set {
+                this["Server2RealisticAidsRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3RealisticAidsRace1 {
+            get {
+                return ((bool)(this["Server3RealisticAidsRace1"]));
+            }
+            set {
+                this["Server3RealisticAidsRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3RealisticAidsRace2 {
+            get {
+                return ((bool)(this["Server3RealisticAidsRace2"]));
+            }
+            set {
+                this["Server3RealisticAidsRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3RealisticAidsRace3 {
+            get {
+                return ((bool)(this["Server3RealisticAidsRace3"]));
+            }
+            set {
+                this["Server3RealisticAidsRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3RealisticAidsRace4 {
+            get {
+                return ((bool)(this["Server3RealisticAidsRace4"]));
+            }
+            set {
+                this["Server3RealisticAidsRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3RealisticAidsRace5 {
+            get {
+                return ((bool)(this["Server3RealisticAidsRace5"]));
+            }
+            set {
+                this["Server3RealisticAidsRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3RealisticAidsRace6 {
+            get {
+                return ((bool)(this["Server3RealisticAidsRace6"]));
+            }
+            set {
+                this["Server3RealisticAidsRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3RealisticAidsRace7 {
+            get {
+                return ((bool)(this["Server3RealisticAidsRace7"]));
+            }
+            set {
+                this["Server3RealisticAidsRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3RealisticAidsRace8 {
+            get {
+                return ((bool)(this["Server3RealisticAidsRace8"]));
+            }
+            set {
+                this["Server3RealisticAidsRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4RealisticAidsRace1 {
+            get {
+                return ((bool)(this["Server4RealisticAidsRace1"]));
+            }
+            set {
+                this["Server4RealisticAidsRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4RealisticAidsRace2 {
+            get {
+                return ((bool)(this["Server4RealisticAidsRace2"]));
+            }
+            set {
+                this["Server4RealisticAidsRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4RealisticAidsRace3 {
+            get {
+                return ((bool)(this["Server4RealisticAidsRace3"]));
+            }
+            set {
+                this["Server4RealisticAidsRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4RealisticAidsRace4 {
+            get {
+                return ((bool)(this["Server4RealisticAidsRace4"]));
+            }
+            set {
+                this["Server4RealisticAidsRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4RealisticAidsRace5 {
+            get {
+                return ((bool)(this["Server4RealisticAidsRace5"]));
+            }
+            set {
+                this["Server4RealisticAidsRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4RealisticAidsRace6 {
+            get {
+                return ((bool)(this["Server4RealisticAidsRace6"]));
+            }
+            set {
+                this["Server4RealisticAidsRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4RealisticAidsRace7 {
+            get {
+                return ((bool)(this["Server4RealisticAidsRace7"]));
+            }
+            set {
+                this["Server4RealisticAidsRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4RealisticAidsRace8 {
+            get {
+                return ((bool)(this["Server4RealisticAidsRace8"]));
+            }
+            set {
+                this["Server4RealisticAidsRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5RealisticAidsRace1 {
+            get {
+                return ((bool)(this["Server5RealisticAidsRace1"]));
+            }
+            set {
+                this["Server5RealisticAidsRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5RealisticAidsRace2 {
+            get {
+                return ((bool)(this["Server5RealisticAidsRace2"]));
+            }
+            set {
+                this["Server5RealisticAidsRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5RealisticAidsRace3 {
+            get {
+                return ((bool)(this["Server5RealisticAidsRace3"]));
+            }
+            set {
+                this["Server5RealisticAidsRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5RealisticAidsRace4 {
+            get {
+                return ((bool)(this["Server5RealisticAidsRace4"]));
+            }
+            set {
+                this["Server5RealisticAidsRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5RealisticAidsRace5 {
+            get {
+                return ((bool)(this["Server5RealisticAidsRace5"]));
+            }
+            set {
+                this["Server5RealisticAidsRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5RealisticAidsRace6 {
+            get {
+                return ((bool)(this["Server5RealisticAidsRace6"]));
+            }
+            set {
+                this["Server5RealisticAidsRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5RealisticAidsRace7 {
+            get {
+                return ((bool)(this["Server5RealisticAidsRace7"]));
+            }
+            set {
+                this["Server5RealisticAidsRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5RealisticAidsRace8 {
+            get {
+                return ((bool)(this["Server5RealisticAidsRace8"]));
+            }
+            set {
+                this["Server5RealisticAidsRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6RealisticAidsRace1 {
+            get {
+                return ((bool)(this["Server6RealisticAidsRace1"]));
+            }
+            set {
+                this["Server6RealisticAidsRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6RealisticAidsRace2 {
+            get {
+                return ((bool)(this["Server6RealisticAidsRace2"]));
+            }
+            set {
+                this["Server6RealisticAidsRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6RealisticAidsRace3 {
+            get {
+                return ((bool)(this["Server6RealisticAidsRace3"]));
+            }
+            set {
+                this["Server6RealisticAidsRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6RealisticAidsRace4 {
+            get {
+                return ((bool)(this["Server6RealisticAidsRace4"]));
+            }
+            set {
+                this["Server6RealisticAidsRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6RealisticAidsRace5 {
+            get {
+                return ((bool)(this["Server6RealisticAidsRace5"]));
+            }
+            set {
+                this["Server6RealisticAidsRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6RealisticAidsRace6 {
+            get {
+                return ((bool)(this["Server6RealisticAidsRace6"]));
+            }
+            set {
+                this["Server6RealisticAidsRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6RealisticAidsRace7 {
+            get {
+                return ((bool)(this["Server6RealisticAidsRace7"]));
+            }
+            set {
+                this["Server6RealisticAidsRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6RealisticAidsRace8 {
+            get {
+                return ((bool)(this["Server6RealisticAidsRace8"]));
+            }
+            set {
+                this["Server6RealisticAidsRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1BroadCasterRace1 {
+            get {
+                return ((bool)(this["Server1BroadCasterRace1"]));
+            }
+            set {
+                this["Server1BroadCasterRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1BroadCasterRace2 {
+            get {
+                return ((bool)(this["Server1BroadCasterRace2"]));
+            }
+            set {
+                this["Server1BroadCasterRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1BroadCasterRace3 {
+            get {
+                return ((bool)(this["Server1BroadCasterRace3"]));
+            }
+            set {
+                this["Server1BroadCasterRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1BroadCasterRace4 {
+            get {
+                return ((bool)(this["Server1BroadCasterRace4"]));
+            }
+            set {
+                this["Server1BroadCasterRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1BroadCasterRace5 {
+            get {
+                return ((bool)(this["Server1BroadCasterRace5"]));
+            }
+            set {
+                this["Server1BroadCasterRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1BroadCasterRace6 {
+            get {
+                return ((bool)(this["Server1BroadCasterRace6"]));
+            }
+            set {
+                this["Server1BroadCasterRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1BroadCasterRace7 {
+            get {
+                return ((bool)(this["Server1BroadCasterRace7"]));
+            }
+            set {
+                this["Server1BroadCasterRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1BroadCasterRace8 {
+            get {
+                return ((bool)(this["Server1BroadCasterRace8"]));
+            }
+            set {
+                this["Server1BroadCasterRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2BroadCasterRace1 {
+            get {
+                return ((bool)(this["Server2BroadCasterRace1"]));
+            }
+            set {
+                this["Server2BroadCasterRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2BroadCasterRace2 {
+            get {
+                return ((bool)(this["Server2BroadCasterRace2"]));
+            }
+            set {
+                this["Server2BroadCasterRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2BroadCasterRace3 {
+            get {
+                return ((bool)(this["Server2BroadCasterRace3"]));
+            }
+            set {
+                this["Server2BroadCasterRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2BroadCasterRace4 {
+            get {
+                return ((bool)(this["Server2BroadCasterRace4"]));
+            }
+            set {
+                this["Server2BroadCasterRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2BroadCasterRace5 {
+            get {
+                return ((bool)(this["Server2BroadCasterRace5"]));
+            }
+            set {
+                this["Server2BroadCasterRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2BroadCasterRace6 {
+            get {
+                return ((bool)(this["Server2BroadCasterRace6"]));
+            }
+            set {
+                this["Server2BroadCasterRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2BroadCasterRace7 {
+            get {
+                return ((bool)(this["Server2BroadCasterRace7"]));
+            }
+            set {
+                this["Server2BroadCasterRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2BroadCasterRace8 {
+            get {
+                return ((bool)(this["Server2BroadCasterRace8"]));
+            }
+            set {
+                this["Server2BroadCasterRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3BroadCasterRace1 {
+            get {
+                return ((bool)(this["Server3BroadCasterRace1"]));
+            }
+            set {
+                this["Server3BroadCasterRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3BroadCasterRace2 {
+            get {
+                return ((bool)(this["Server3BroadCasterRace2"]));
+            }
+            set {
+                this["Server3BroadCasterRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3BroadCasterRace3 {
+            get {
+                return ((bool)(this["Server3BroadCasterRace3"]));
+            }
+            set {
+                this["Server3BroadCasterRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3BroadCasterRace4 {
+            get {
+                return ((bool)(this["Server3BroadCasterRace4"]));
+            }
+            set {
+                this["Server3BroadCasterRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3BroadCasterRace5 {
+            get {
+                return ((bool)(this["Server3BroadCasterRace5"]));
+            }
+            set {
+                this["Server3BroadCasterRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3BroadCasterRace6 {
+            get {
+                return ((bool)(this["Server3BroadCasterRace6"]));
+            }
+            set {
+                this["Server3BroadCasterRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3BroadCasterRace7 {
+            get {
+                return ((bool)(this["Server3BroadCasterRace7"]));
+            }
+            set {
+                this["Server3BroadCasterRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3BroadCasterRace8 {
+            get {
+                return ((bool)(this["Server3BroadCasterRace8"]));
+            }
+            set {
+                this["Server3BroadCasterRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4BroadCasterRace1 {
+            get {
+                return ((bool)(this["Server4BroadCasterRace1"]));
+            }
+            set {
+                this["Server4BroadCasterRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4BroadCasterRace2 {
+            get {
+                return ((bool)(this["Server4BroadCasterRace2"]));
+            }
+            set {
+                this["Server4BroadCasterRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4BroadCasterRace3 {
+            get {
+                return ((bool)(this["Server4BroadCasterRace3"]));
+            }
+            set {
+                this["Server4BroadCasterRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4BroadCasterRace4 {
+            get {
+                return ((bool)(this["Server4BroadCasterRace4"]));
+            }
+            set {
+                this["Server4BroadCasterRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4BroadCasterRace5 {
+            get {
+                return ((bool)(this["Server4BroadCasterRace5"]));
+            }
+            set {
+                this["Server4BroadCasterRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4BroadCasterRace6 {
+            get {
+                return ((bool)(this["Server4BroadCasterRace6"]));
+            }
+            set {
+                this["Server4BroadCasterRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4BroadCasterRace7 {
+            get {
+                return ((bool)(this["Server4BroadCasterRace7"]));
+            }
+            set {
+                this["Server4BroadCasterRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4BroadCasterRace8 {
+            get {
+                return ((bool)(this["Server4BroadCasterRace8"]));
+            }
+            set {
+                this["Server4BroadCasterRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5BroadCasterRace1 {
+            get {
+                return ((bool)(this["Server5BroadCasterRace1"]));
+            }
+            set {
+                this["Server5BroadCasterRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5BroadCasterRace2 {
+            get {
+                return ((bool)(this["Server5BroadCasterRace2"]));
+            }
+            set {
+                this["Server5BroadCasterRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5BroadCasterRace3 {
+            get {
+                return ((bool)(this["Server5BroadCasterRace3"]));
+            }
+            set {
+                this["Server5BroadCasterRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5BroadCasterRace4 {
+            get {
+                return ((bool)(this["Server5BroadCasterRace4"]));
+            }
+            set {
+                this["Server5BroadCasterRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5BroadCasterRace5 {
+            get {
+                return ((bool)(this["Server5BroadCasterRace5"]));
+            }
+            set {
+                this["Server5BroadCasterRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5BroadCasterRace6 {
+            get {
+                return ((bool)(this["Server5BroadCasterRace6"]));
+            }
+            set {
+                this["Server5BroadCasterRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5BroadCasterRace7 {
+            get {
+                return ((bool)(this["Server5BroadCasterRace7"]));
+            }
+            set {
+                this["Server5BroadCasterRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5BroadCasterRace8 {
+            get {
+                return ((bool)(this["Server5BroadCasterRace8"]));
+            }
+            set {
+                this["Server5BroadCasterRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6BroadCasterRace1 {
+            get {
+                return ((bool)(this["Server6BroadCasterRace1"]));
+            }
+            set {
+                this["Server6BroadCasterRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6BroadCasterRace2 {
+            get {
+                return ((bool)(this["Server6BroadCasterRace2"]));
+            }
+            set {
+                this["Server6BroadCasterRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6BroadCasterRace3 {
+            get {
+                return ((bool)(this["Server6BroadCasterRace3"]));
+            }
+            set {
+                this["Server6BroadCasterRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6BroadCasterRace4 {
+            get {
+                return ((bool)(this["Server6BroadCasterRace4"]));
+            }
+            set {
+                this["Server6BroadCasterRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6BroadCasterRace5 {
+            get {
+                return ((bool)(this["Server6BroadCasterRace5"]));
+            }
+            set {
+                this["Server6BroadCasterRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6BroadCasterRace6 {
+            get {
+                return ((bool)(this["Server6BroadCasterRace6"]));
+            }
+            set {
+                this["Server6BroadCasterRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6BroadCasterRace7 {
+            get {
+                return ((bool)(this["Server6BroadCasterRace7"]));
+            }
+            set {
+                this["Server6BroadCasterRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6BroadCasterRace8 {
+            get {
+                return ((bool)(this["Server6BroadCasterRace8"]));
+            }
+            set {
+                this["Server6BroadCasterRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1RaceDirectorRace1 {
+            get {
+                return ((bool)(this["Server1RaceDirectorRace1"]));
+            }
+            set {
+                this["Server1RaceDirectorRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1RaceDirectorRace2 {
+            get {
+                return ((bool)(this["Server1RaceDirectorRace2"]));
+            }
+            set {
+                this["Server1RaceDirectorRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1RaceDirectorRace3 {
+            get {
+                return ((bool)(this["Server1RaceDirectorRace3"]));
+            }
+            set {
+                this["Server1RaceDirectorRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1RaceDirectorRace4 {
+            get {
+                return ((bool)(this["Server1RaceDirectorRace4"]));
+            }
+            set {
+                this["Server1RaceDirectorRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1RaceDirectorRace5 {
+            get {
+                return ((bool)(this["Server1RaceDirectorRace5"]));
+            }
+            set {
+                this["Server1RaceDirectorRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1RaceDirectorRace6 {
+            get {
+                return ((bool)(this["Server1RaceDirectorRace6"]));
+            }
+            set {
+                this["Server1RaceDirectorRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1RaceDirectorRace7 {
+            get {
+                return ((bool)(this["Server1RaceDirectorRace7"]));
+            }
+            set {
+                this["Server1RaceDirectorRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1RaceDirectorRace8 {
+            get {
+                return ((bool)(this["Server1RaceDirectorRace8"]));
+            }
+            set {
+                this["Server1RaceDirectorRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2RaceDirectorRace1 {
+            get {
+                return ((bool)(this["Server2RaceDirectorRace1"]));
+            }
+            set {
+                this["Server2RaceDirectorRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2RaceDirectorRace2 {
+            get {
+                return ((bool)(this["Server2RaceDirectorRace2"]));
+            }
+            set {
+                this["Server2RaceDirectorRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2RaceDirectorRace3 {
+            get {
+                return ((bool)(this["Server2RaceDirectorRace3"]));
+            }
+            set {
+                this["Server2RaceDirectorRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2RaceDirectorRace4 {
+            get {
+                return ((bool)(this["Server2RaceDirectorRace4"]));
+            }
+            set {
+                this["Server2RaceDirectorRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2RaceDirectorRace5 {
+            get {
+                return ((bool)(this["Server2RaceDirectorRace5"]));
+            }
+            set {
+                this["Server2RaceDirectorRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2RaceDirectorRace6 {
+            get {
+                return ((bool)(this["Server2RaceDirectorRace6"]));
+            }
+            set {
+                this["Server2RaceDirectorRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2RaceDirectorRace7 {
+            get {
+                return ((bool)(this["Server2RaceDirectorRace7"]));
+            }
+            set {
+                this["Server2RaceDirectorRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2RaceDirectorRace8 {
+            get {
+                return ((bool)(this["Server2RaceDirectorRace8"]));
+            }
+            set {
+                this["Server2RaceDirectorRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3RaceDirectorRace1 {
+            get {
+                return ((bool)(this["Server3RaceDirectorRace1"]));
+            }
+            set {
+                this["Server3RaceDirectorRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3RaceDirectorRace2 {
+            get {
+                return ((bool)(this["Server3RaceDirectorRace2"]));
+            }
+            set {
+                this["Server3RaceDirectorRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3RaceDirectorRace3 {
+            get {
+                return ((bool)(this["Server3RaceDirectorRace3"]));
+            }
+            set {
+                this["Server3RaceDirectorRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3RaceDirectorRace4 {
+            get {
+                return ((bool)(this["Server3RaceDirectorRace4"]));
+            }
+            set {
+                this["Server3RaceDirectorRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3RaceDirectorRace5 {
+            get {
+                return ((bool)(this["Server3RaceDirectorRace5"]));
+            }
+            set {
+                this["Server3RaceDirectorRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3RaceDirectorRace6 {
+            get {
+                return ((bool)(this["Server3RaceDirectorRace6"]));
+            }
+            set {
+                this["Server3RaceDirectorRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3RaceDirectorRace7 {
+            get {
+                return ((bool)(this["Server3RaceDirectorRace7"]));
+            }
+            set {
+                this["Server3RaceDirectorRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3RaceDirectorRace8 {
+            get {
+                return ((bool)(this["Server3RaceDirectorRace8"]));
+            }
+            set {
+                this["Server3RaceDirectorRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4RaceDirectorRace1 {
+            get {
+                return ((bool)(this["Server4RaceDirectorRace1"]));
+            }
+            set {
+                this["Server4RaceDirectorRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4RaceDirectorRace2 {
+            get {
+                return ((bool)(this["Server4RaceDirectorRace2"]));
+            }
+            set {
+                this["Server4RaceDirectorRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4RaceDirectorRace3 {
+            get {
+                return ((bool)(this["Server4RaceDirectorRace3"]));
+            }
+            set {
+                this["Server4RaceDirectorRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4RaceDirectorRace4 {
+            get {
+                return ((bool)(this["Server4RaceDirectorRace4"]));
+            }
+            set {
+                this["Server4RaceDirectorRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4RaceDirectorRace5 {
+            get {
+                return ((bool)(this["Server4RaceDirectorRace5"]));
+            }
+            set {
+                this["Server4RaceDirectorRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4RaceDirectorRace6 {
+            get {
+                return ((bool)(this["Server4RaceDirectorRace6"]));
+            }
+            set {
+                this["Server4RaceDirectorRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4RaceDirectorRace7 {
+            get {
+                return ((bool)(this["Server4RaceDirectorRace7"]));
+            }
+            set {
+                this["Server4RaceDirectorRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4RaceDirectorRace8 {
+            get {
+                return ((bool)(this["Server4RaceDirectorRace8"]));
+            }
+            set {
+                this["Server4RaceDirectorRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5RaceDirectorRace1 {
+            get {
+                return ((bool)(this["Server5RaceDirectorRace1"]));
+            }
+            set {
+                this["Server5RaceDirectorRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5RaceDirectorRace2 {
+            get {
+                return ((bool)(this["Server5RaceDirectorRace2"]));
+            }
+            set {
+                this["Server5RaceDirectorRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5RaceDirectorRace3 {
+            get {
+                return ((bool)(this["Server5RaceDirectorRace3"]));
+            }
+            set {
+                this["Server5RaceDirectorRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5RaceDirectorRace4 {
+            get {
+                return ((bool)(this["Server5RaceDirectorRace4"]));
+            }
+            set {
+                this["Server5RaceDirectorRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5RaceDirectorRace5 {
+            get {
+                return ((bool)(this["Server5RaceDirectorRace5"]));
+            }
+            set {
+                this["Server5RaceDirectorRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5RaceDirectorRace6 {
+            get {
+                return ((bool)(this["Server5RaceDirectorRace6"]));
+            }
+            set {
+                this["Server5RaceDirectorRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5RaceDirectorRace7 {
+            get {
+                return ((bool)(this["Server5RaceDirectorRace7"]));
+            }
+            set {
+                this["Server5RaceDirectorRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5RaceDirectorRace8 {
+            get {
+                return ((bool)(this["Server5RaceDirectorRace8"]));
+            }
+            set {
+                this["Server5RaceDirectorRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6RaceDirectorRace1 {
+            get {
+                return ((bool)(this["Server6RaceDirectorRace1"]));
+            }
+            set {
+                this["Server6RaceDirectorRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6RaceDirectorRace2 {
+            get {
+                return ((bool)(this["Server6RaceDirectorRace2"]));
+            }
+            set {
+                this["Server6RaceDirectorRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6RaceDirectorRace3 {
+            get {
+                return ((bool)(this["Server6RaceDirectorRace3"]));
+            }
+            set {
+                this["Server6RaceDirectorRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6RaceDirectorRace4 {
+            get {
+                return ((bool)(this["Server6RaceDirectorRace4"]));
+            }
+            set {
+                this["Server6RaceDirectorRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6RaceDirectorRace5 {
+            get {
+                return ((bool)(this["Server6RaceDirectorRace5"]));
+            }
+            set {
+                this["Server6RaceDirectorRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6RaceDirectorRace6 {
+            get {
+                return ((bool)(this["Server6RaceDirectorRace6"]));
+            }
+            set {
+                this["Server6RaceDirectorRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6RaceDirectorRace7 {
+            get {
+                return ((bool)(this["Server6RaceDirectorRace7"]));
+            }
+            set {
+                this["Server6RaceDirectorRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6RaceDirectorRace8 {
+            get {
+                return ((bool)(this["Server6RaceDirectorRace8"]));
+            }
+            set {
+                this["Server6RaceDirectorRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1PitSpeedLimiterRace1 {
+            get {
+                return ((bool)(this["Server1PitSpeedLimiterRace1"]));
+            }
+            set {
+                this["Server1PitSpeedLimiterRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1PitSpeedLimiterRace2 {
+            get {
+                return ((bool)(this["Server1PitSpeedLimiterRace2"]));
+            }
+            set {
+                this["Server1PitSpeedLimiterRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1PitSpeedLimiterRace3 {
+            get {
+                return ((bool)(this["Server1PitSpeedLimiterRace3"]));
+            }
+            set {
+                this["Server1PitSpeedLimiterRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1PitSpeedLimiterRace4 {
+            get {
+                return ((bool)(this["Server1PitSpeedLimiterRace4"]));
+            }
+            set {
+                this["Server1PitSpeedLimiterRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1PitSpeedLimiterRace5 {
+            get {
+                return ((bool)(this["Server1PitSpeedLimiterRace5"]));
+            }
+            set {
+                this["Server1PitSpeedLimiterRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1PitSpeedLimiterRace6 {
+            get {
+                return ((bool)(this["Server1PitSpeedLimiterRace6"]));
+            }
+            set {
+                this["Server1PitSpeedLimiterRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1PitSpeedLimiterRace7 {
+            get {
+                return ((bool)(this["Server1PitSpeedLimiterRace7"]));
+            }
+            set {
+                this["Server1PitSpeedLimiterRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server1PitSpeedLimiterRace8 {
+            get {
+                return ((bool)(this["Server1PitSpeedLimiterRace8"]));
+            }
+            set {
+                this["Server1PitSpeedLimiterRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2PitSpeedLimiterRace1 {
+            get {
+                return ((bool)(this["Server2PitSpeedLimiterRace1"]));
+            }
+            set {
+                this["Server2PitSpeedLimiterRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2PitSpeedLimiterRace2 {
+            get {
+                return ((bool)(this["Server2PitSpeedLimiterRace2"]));
+            }
+            set {
+                this["Server2PitSpeedLimiterRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2PitSpeedLimiterRace3 {
+            get {
+                return ((bool)(this["Server2PitSpeedLimiterRace3"]));
+            }
+            set {
+                this["Server2PitSpeedLimiterRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2PitSpeedLimiterRace4 {
+            get {
+                return ((bool)(this["Server2PitSpeedLimiterRace4"]));
+            }
+            set {
+                this["Server2PitSpeedLimiterRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2PitSpeedLimiterRace5 {
+            get {
+                return ((bool)(this["Server2PitSpeedLimiterRace5"]));
+            }
+            set {
+                this["Server2PitSpeedLimiterRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2PitSpeedLimiterRace6 {
+            get {
+                return ((bool)(this["Server2PitSpeedLimiterRace6"]));
+            }
+            set {
+                this["Server2PitSpeedLimiterRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2PitSpeedLimiterRace7 {
+            get {
+                return ((bool)(this["Server2PitSpeedLimiterRace7"]));
+            }
+            set {
+                this["Server2PitSpeedLimiterRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server2PitSpeedLimiterRace8 {
+            get {
+                return ((bool)(this["Server2PitSpeedLimiterRace8"]));
+            }
+            set {
+                this["Server2PitSpeedLimiterRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3PitSpeedLimiterRace1 {
+            get {
+                return ((bool)(this["Server3PitSpeedLimiterRace1"]));
+            }
+            set {
+                this["Server3PitSpeedLimiterRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3PitSpeedLimiterRace2 {
+            get {
+                return ((bool)(this["Server3PitSpeedLimiterRace2"]));
+            }
+            set {
+                this["Server3PitSpeedLimiterRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3PitSpeedLimiterRace3 {
+            get {
+                return ((bool)(this["Server3PitSpeedLimiterRace3"]));
+            }
+            set {
+                this["Server3PitSpeedLimiterRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3PitSpeedLimiterRace4 {
+            get {
+                return ((bool)(this["Server3PitSpeedLimiterRace4"]));
+            }
+            set {
+                this["Server3PitSpeedLimiterRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3PitSpeedLimiterRace5 {
+            get {
+                return ((bool)(this["Server3PitSpeedLimiterRace5"]));
+            }
+            set {
+                this["Server3PitSpeedLimiterRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3PitSpeedLimiterRace6 {
+            get {
+                return ((bool)(this["Server3PitSpeedLimiterRace6"]));
+            }
+            set {
+                this["Server3PitSpeedLimiterRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3PitSpeedLimiterRace7 {
+            get {
+                return ((bool)(this["Server3PitSpeedLimiterRace7"]));
+            }
+            set {
+                this["Server3PitSpeedLimiterRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server3PitSpeedLimiterRace8 {
+            get {
+                return ((bool)(this["Server3PitSpeedLimiterRace8"]));
+            }
+            set {
+                this["Server3PitSpeedLimiterRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4PitSpeedLimiterRace1 {
+            get {
+                return ((bool)(this["Server4PitSpeedLimiterRace1"]));
+            }
+            set {
+                this["Server4PitSpeedLimiterRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4PitSpeedLimiterRace2 {
+            get {
+                return ((bool)(this["Server4PitSpeedLimiterRace2"]));
+            }
+            set {
+                this["Server4PitSpeedLimiterRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4PitSpeedLimiterRace3 {
+            get {
+                return ((bool)(this["Server4PitSpeedLimiterRace3"]));
+            }
+            set {
+                this["Server4PitSpeedLimiterRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4PitSpeedLimiterRace4 {
+            get {
+                return ((bool)(this["Server4PitSpeedLimiterRace4"]));
+            }
+            set {
+                this["Server4PitSpeedLimiterRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4PitSpeedLimiterRace5 {
+            get {
+                return ((bool)(this["Server4PitSpeedLimiterRace5"]));
+            }
+            set {
+                this["Server4PitSpeedLimiterRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4PitSpeedLimiterRace6 {
+            get {
+                return ((bool)(this["Server4PitSpeedLimiterRace6"]));
+            }
+            set {
+                this["Server4PitSpeedLimiterRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4PitSpeedLimiterRace7 {
+            get {
+                return ((bool)(this["Server4PitSpeedLimiterRace7"]));
+            }
+            set {
+                this["Server4PitSpeedLimiterRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server4PitSpeedLimiterRace8 {
+            get {
+                return ((bool)(this["Server4PitSpeedLimiterRace8"]));
+            }
+            set {
+                this["Server4PitSpeedLimiterRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5PitSpeedLimiterRace1 {
+            get {
+                return ((bool)(this["Server5PitSpeedLimiterRace1"]));
+            }
+            set {
+                this["Server5PitSpeedLimiterRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5PitSpeedLimiterRace2 {
+            get {
+                return ((bool)(this["Server5PitSpeedLimiterRace2"]));
+            }
+            set {
+                this["Server5PitSpeedLimiterRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5PitSpeedLimiterRace3 {
+            get {
+                return ((bool)(this["Server5PitSpeedLimiterRace3"]));
+            }
+            set {
+                this["Server5PitSpeedLimiterRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5PitSpeedLimiterRace4 {
+            get {
+                return ((bool)(this["Server5PitSpeedLimiterRace4"]));
+            }
+            set {
+                this["Server5PitSpeedLimiterRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5PitSpeedLimiterRace5 {
+            get {
+                return ((bool)(this["Server5PitSpeedLimiterRace5"]));
+            }
+            set {
+                this["Server5PitSpeedLimiterRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5PitSpeedLimiterRace6 {
+            get {
+                return ((bool)(this["Server5PitSpeedLimiterRace6"]));
+            }
+            set {
+                this["Server5PitSpeedLimiterRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5PitSpeedLimiterRace7 {
+            get {
+                return ((bool)(this["Server5PitSpeedLimiterRace7"]));
+            }
+            set {
+                this["Server5PitSpeedLimiterRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server5PitSpeedLimiterRace8 {
+            get {
+                return ((bool)(this["Server5PitSpeedLimiterRace8"]));
+            }
+            set {
+                this["Server5PitSpeedLimiterRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6PitSpeedLimiterRace1 {
+            get {
+                return ((bool)(this["Server6PitSpeedLimiterRace1"]));
+            }
+            set {
+                this["Server6PitSpeedLimiterRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6PitSpeedLimiterRace2 {
+            get {
+                return ((bool)(this["Server6PitSpeedLimiterRace2"]));
+            }
+            set {
+                this["Server6PitSpeedLimiterRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6PitSpeedLimiterRace3 {
+            get {
+                return ((bool)(this["Server6PitSpeedLimiterRace3"]));
+            }
+            set {
+                this["Server6PitSpeedLimiterRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6PitSpeedLimiterRace4 {
+            get {
+                return ((bool)(this["Server6PitSpeedLimiterRace4"]));
+            }
+            set {
+                this["Server6PitSpeedLimiterRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6PitSpeedLimiterRace5 {
+            get {
+                return ((bool)(this["Server6PitSpeedLimiterRace5"]));
+            }
+            set {
+                this["Server6PitSpeedLimiterRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6PitSpeedLimiterRace6 {
+            get {
+                return ((bool)(this["Server6PitSpeedLimiterRace6"]));
+            }
+            set {
+                this["Server6PitSpeedLimiterRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6PitSpeedLimiterRace7 {
+            get {
+                return ((bool)(this["Server6PitSpeedLimiterRace7"]));
+            }
+            set {
+                this["Server6PitSpeedLimiterRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Server6PitSpeedLimiterRace8 {
+            get {
+                return ((bool)(this["Server6PitSpeedLimiterRace8"]));
+            }
+            set {
+                this["Server6PitSpeedLimiterRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1PitStopErrorsRace1 {
+            get {
+                return ((bool)(this["Server1PitStopErrorsRace1"]));
+            }
+            set {
+                this["Server1PitStopErrorsRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1PitStopErrorsRace2 {
+            get {
+                return ((bool)(this["Server1PitStopErrorsRace2"]));
+            }
+            set {
+                this["Server1PitStopErrorsRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1PitStopErrorsRace3 {
+            get {
+                return ((bool)(this["Server1PitStopErrorsRace3"]));
+            }
+            set {
+                this["Server1PitStopErrorsRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1PitStopErrorsRace4 {
+            get {
+                return ((bool)(this["Server1PitStopErrorsRace4"]));
+            }
+            set {
+                this["Server1PitStopErrorsRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1PitStopErrorsRace5 {
+            get {
+                return ((bool)(this["Server1PitStopErrorsRace5"]));
+            }
+            set {
+                this["Server1PitStopErrorsRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1PitStopErrorsRace6 {
+            get {
+                return ((bool)(this["Server1PitStopErrorsRace6"]));
+            }
+            set {
+                this["Server1PitStopErrorsRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1PitStopErrorsRace7 {
+            get {
+                return ((bool)(this["Server1PitStopErrorsRace7"]));
+            }
+            set {
+                this["Server1PitStopErrorsRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server1PitStopErrorsRace8 {
+            get {
+                return ((bool)(this["Server1PitStopErrorsRace8"]));
+            }
+            set {
+                this["Server1PitStopErrorsRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2PitStopErrorsRace1 {
+            get {
+                return ((bool)(this["Server2PitStopErrorsRace1"]));
+            }
+            set {
+                this["Server2PitStopErrorsRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2PitStopErrorsRace2 {
+            get {
+                return ((bool)(this["Server2PitStopErrorsRace2"]));
+            }
+            set {
+                this["Server2PitStopErrorsRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2PitStopErrorsRace3 {
+            get {
+                return ((bool)(this["Server2PitStopErrorsRace3"]));
+            }
+            set {
+                this["Server2PitStopErrorsRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2PitStopErrorsRace4 {
+            get {
+                return ((bool)(this["Server2PitStopErrorsRace4"]));
+            }
+            set {
+                this["Server2PitStopErrorsRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2PitStopErrorsRace5 {
+            get {
+                return ((bool)(this["Server2PitStopErrorsRace5"]));
+            }
+            set {
+                this["Server2PitStopErrorsRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2PitStopErrorsRace6 {
+            get {
+                return ((bool)(this["Server2PitStopErrorsRace6"]));
+            }
+            set {
+                this["Server2PitStopErrorsRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2PitStopErrorsRace7 {
+            get {
+                return ((bool)(this["Server2PitStopErrorsRace7"]));
+            }
+            set {
+                this["Server2PitStopErrorsRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server2PitStopErrorsRace8 {
+            get {
+                return ((bool)(this["Server2PitStopErrorsRace8"]));
+            }
+            set {
+                this["Server2PitStopErrorsRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3PitStopErrorsRace1 {
+            get {
+                return ((bool)(this["Server3PitStopErrorsRace1"]));
+            }
+            set {
+                this["Server3PitStopErrorsRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3PitStopErrorsRace2 {
+            get {
+                return ((bool)(this["Server3PitStopErrorsRace2"]));
+            }
+            set {
+                this["Server3PitStopErrorsRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3PitStopErrorsRace3 {
+            get {
+                return ((bool)(this["Server3PitStopErrorsRace3"]));
+            }
+            set {
+                this["Server3PitStopErrorsRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3PitStopErrorsRace4 {
+            get {
+                return ((bool)(this["Server3PitStopErrorsRace4"]));
+            }
+            set {
+                this["Server3PitStopErrorsRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3PitStopErrorsRace5 {
+            get {
+                return ((bool)(this["Server3PitStopErrorsRace5"]));
+            }
+            set {
+                this["Server3PitStopErrorsRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3PitStopErrorsRace6 {
+            get {
+                return ((bool)(this["Server3PitStopErrorsRace6"]));
+            }
+            set {
+                this["Server3PitStopErrorsRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3PitStopErrorsRace7 {
+            get {
+                return ((bool)(this["Server3PitStopErrorsRace7"]));
+            }
+            set {
+                this["Server3PitStopErrorsRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server3PitStopErrorsRace8 {
+            get {
+                return ((bool)(this["Server3PitStopErrorsRace8"]));
+            }
+            set {
+                this["Server3PitStopErrorsRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4PitStopErrorsRace1 {
+            get {
+                return ((bool)(this["Server4PitStopErrorsRace1"]));
+            }
+            set {
+                this["Server4PitStopErrorsRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4PitStopErrorsRace2 {
+            get {
+                return ((bool)(this["Server4PitStopErrorsRace2"]));
+            }
+            set {
+                this["Server4PitStopErrorsRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4PitStopErrorsRace3 {
+            get {
+                return ((bool)(this["Server4PitStopErrorsRace3"]));
+            }
+            set {
+                this["Server4PitStopErrorsRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4PitStopErrorsRace4 {
+            get {
+                return ((bool)(this["Server4PitStopErrorsRace4"]));
+            }
+            set {
+                this["Server4PitStopErrorsRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4PitStopErrorsRace5 {
+            get {
+                return ((bool)(this["Server4PitStopErrorsRace5"]));
+            }
+            set {
+                this["Server4PitStopErrorsRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4PitStopErrorsRace6 {
+            get {
+                return ((bool)(this["Server4PitStopErrorsRace6"]));
+            }
+            set {
+                this["Server4PitStopErrorsRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4PitStopErrorsRace7 {
+            get {
+                return ((bool)(this["Server4PitStopErrorsRace7"]));
+            }
+            set {
+                this["Server4PitStopErrorsRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server4PitStopErrorsRace8 {
+            get {
+                return ((bool)(this["Server4PitStopErrorsRace8"]));
+            }
+            set {
+                this["Server4PitStopErrorsRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5PitStopErrorsRace1 {
+            get {
+                return ((bool)(this["Server5PitStopErrorsRace1"]));
+            }
+            set {
+                this["Server5PitStopErrorsRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5PitStopErrorsRace2 {
+            get {
+                return ((bool)(this["Server5PitStopErrorsRace2"]));
+            }
+            set {
+                this["Server5PitStopErrorsRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5PitStopErrorsRace3 {
+            get {
+                return ((bool)(this["Server5PitStopErrorsRace3"]));
+            }
+            set {
+                this["Server5PitStopErrorsRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5PitStopErrorsRace4 {
+            get {
+                return ((bool)(this["Server5PitStopErrorsRace4"]));
+            }
+            set {
+                this["Server5PitStopErrorsRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5PitStopErrorsRace5 {
+            get {
+                return ((bool)(this["Server5PitStopErrorsRace5"]));
+            }
+            set {
+                this["Server5PitStopErrorsRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5PitStopErrorsRace6 {
+            get {
+                return ((bool)(this["Server5PitStopErrorsRace6"]));
+            }
+            set {
+                this["Server5PitStopErrorsRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5PitStopErrorsRace7 {
+            get {
+                return ((bool)(this["Server5PitStopErrorsRace7"]));
+            }
+            set {
+                this["Server5PitStopErrorsRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server5PitStopErrorsRace8 {
+            get {
+                return ((bool)(this["Server5PitStopErrorsRace8"]));
+            }
+            set {
+                this["Server5PitStopErrorsRace8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6PitStopErrorsRace1 {
+            get {
+                return ((bool)(this["Server6PitStopErrorsRace1"]));
+            }
+            set {
+                this["Server6PitStopErrorsRace1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6PitStopErrorsRace2 {
+            get {
+                return ((bool)(this["Server6PitStopErrorsRace2"]));
+            }
+            set {
+                this["Server6PitStopErrorsRace2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6PitStopErrorsRace3 {
+            get {
+                return ((bool)(this["Server6PitStopErrorsRace3"]));
+            }
+            set {
+                this["Server6PitStopErrorsRace3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6PitStopErrorsRace4 {
+            get {
+                return ((bool)(this["Server6PitStopErrorsRace4"]));
+            }
+            set {
+                this["Server6PitStopErrorsRace4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6PitStopErrorsRace5 {
+            get {
+                return ((bool)(this["Server6PitStopErrorsRace5"]));
+            }
+            set {
+                this["Server6PitStopErrorsRace5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6PitStopErrorsRace6 {
+            get {
+                return ((bool)(this["Server6PitStopErrorsRace6"]));
+            }
+            set {
+                this["Server6PitStopErrorsRace6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6PitStopErrorsRace7 {
+            get {
+                return ((bool)(this["Server6PitStopErrorsRace7"]));
+            }
+            set {
+                this["Server6PitStopErrorsRace7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Server6PitStopErrorsRace8 {
+            get {
+                return ((bool)(this["Server6PitStopErrorsRace8"]));
+            }
+            set {
+                this["Server6PitStopErrorsRace8"] = value;
+            }
+        }
     }
 }

@@ -11,6 +11,7 @@ namespace GuiServerPCars2V2._0
     class ValuesControl
     {
         readonly TrackList trackList = new TrackList();
+        readonly DamagesList damagesList = new DamagesList();
         readonly NumberOfRotate numberOfRotate = new NumberOfRotate();
 
         // Checking the ip empty field allowed
@@ -95,6 +96,8 @@ namespace GuiServerPCars2V2._0
 
         }
 
+        // Fill All ComboBox
+
         public void FillAllCbBox()
         {
             trackList.FillCbBoxRace1();
@@ -105,7 +108,16 @@ namespace GuiServerPCars2V2._0
             trackList.FillCbBoxRace6();
             trackList.FillCbBoxRace7();
             trackList.FillCbBoxRace8();
+            damagesList.FillCbBoxDamage1();
+            
 
+        }
+
+        public void DamagesValuesRace1()
+        {
+            int i;
+            i = Form2.mainWindow.CbBox_DamageTypeRace1.SelectedIndex;
+            Form2.mainWindow.damage1 = damagesList.damages1[i].Name;
         }
 
         public void TracksValuesRace1()
@@ -209,5 +221,7 @@ namespace GuiServerPCars2V2._0
                 Form2.value = "100";
             }
         }
+
+       
     }
 }

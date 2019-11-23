@@ -107,7 +107,7 @@ namespace GuiServerPCars2V2._0
 
             }
 
-            var streamFileCfg = new StreamWriter(new FileStream(fileCfg, FileMode.Truncate));
+            var streamFileCfg = new StreamWriter(new FileStream(fileCfg, FileMode.OpenOrCreate));
             string cfg = "logLevel : \"" + Form2.mainWindow.CbBox_LogLevel.Text + "\"" + "\r\n" +
                 "eventsLogSize :" + Form2.mainWindow.TxtBx_LogSize.Text + "\r\n" +
                 "name : " + "\"" + Form2.mainWindow.TxtBx_Name.Text + "\"" + "\r\n" +

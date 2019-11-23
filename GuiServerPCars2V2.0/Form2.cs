@@ -85,6 +85,8 @@ namespace GuiServerPCars2V2._0
         public int Class4R7;
         public int Class4R8;
 
+        public string damage1;
+
 
         readonly ValuesControl valueControl = new ValuesControl();
         readonly NumberOfRotate numberOfRotate = new NumberOfRotate();
@@ -1455,10 +1457,82 @@ namespace GuiServerPCars2V2._0
             TxtBox_RankRace8.Text = value;
         }
 
-
-
         // End of section Rank
 
 
+        // Section Broadcaster if the checkbox is activated that of the race director must be
+        private void CheckBox_BroadCasterRace1_CheckedChanged(object sender, EventArgs e)
+        {
+            if(CheckBox_BroadCasterRace1.Checked)
+            {
+                CheckBox_RaceDirectorRace1.Checked = true;
+            }
+        }
+
+        private void CheckBox_BroadCasterRace2_CheckedChanged(object sender, EventArgs e)
+        {
+            if (CheckBox_BroadCasterRace2.Checked)
+            {
+                CheckBox_RaceDirectorRace2.Checked = true;
+            }
+        }
+
+        private void CheckBox_BroadCasterRace3_CheckedChanged(object sender, EventArgs e)
+        {
+            if (CheckBox_BroadCasterRace3.Checked)
+            {
+                CheckBox_RaceDirectorRace3.Checked = true;
+            }
+        }
+
+        private void CheckBox_BroadCasterRace4_CheckedChanged(object sender, EventArgs e)
+        {
+            if (CheckBox_BroadCasterRace4.Checked)
+            {
+                CheckBox_RaceDirectorRace4.Checked = true;
+            }
+        }
+
+        private void CheckBox_BroadCasterRace5_CheckedChanged(object sender, EventArgs e)
+        {
+            if (CheckBox_BroadCasterRace5.Checked)
+            {
+                CheckBox_RaceDirectorRace5.Checked = true;
+            }
+        }
+
+        private void CheckBox_BroadCasterRace6_CheckedChanged(object sender, EventArgs e)
+        {
+            if (CheckBox_BroadCasterRace6.Checked)
+            {
+                CheckBox_RaceDirectorRace6.Checked = true;
+            }
+        }
+
+        private void CheckBox_BroadCasterRace7_CheckedChanged(object sender, EventArgs e)
+        {
+            if (CheckBox_BroadCasterRace7.Checked)
+            {
+                CheckBox_RaceDirectorRace7.Checked = true;
+            }
+        }
+
+        private void CheckBox_BroadCasterRace8_CheckedChanged(object sender, EventArgs e)
+        {
+            if (CheckBox_BroadCasterRace8.Checked)
+            {
+                CheckBox_RaceDirectorRace8.Checked = true;
+            }
+        }
+        //End of section Broadcaster
+        private void CheckBox_SameRules_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void CbBox_DamageTypeRace1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.DamagesValuesRace1();
+        }
     }
 }
