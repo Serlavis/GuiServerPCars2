@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GuiServerPCars2V2._0
 {
-    class Damages
+    class Rules
     {
         public string Name { get; set; }
         public string Trad { get; set; }

@@ -49,8 +49,9 @@
     <Compile Include="CreateCfgFile.cs" />
     <Compile Include="CreateOfServerFiles.cs" />
     <Compile Include="CreateRotateFile.cs" />
-    <Compile Include="Damages.cs" />
-    <Compile Include="DamagesList.cs" />
+    <Compile Include="Flags.cs" />
+    <Compile Include="Rules.cs" />
+    <Compile Include="RulesList.cs" />
     <Compile Include="Form3.cs">
       <SubType>Form</SubType>
     </Compile>

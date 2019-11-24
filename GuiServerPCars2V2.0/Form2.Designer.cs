@@ -1828,14 +1828,12 @@
             this.CbBox_AllowedViewsRace1.DisplayMember = "Traduction";
             this.CbBox_AllowedViewsRace1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_AllowedViewsRace1.FormattingEnabled = true;
-            this.CbBox_AllowedViewsRace1.Items.AddRange(new object[] {
-            "Toutes",
-            "Cockpit"});
             this.CbBox_AllowedViewsRace1.Location = new System.Drawing.Point(103, 100);
             this.CbBox_AllowedViewsRace1.Name = "CbBox_AllowedViewsRace1";
             this.CbBox_AllowedViewsRace1.Size = new System.Drawing.Size(139, 21);
             this.CbBox_AllowedViewsRace1.TabIndex = 49;
             this.CbBox_AllowedViewsRace1.ValueMember = "name";
+            this.CbBox_AllowedViewsRace1.SelectedIndexChanged += new System.EventHandler(this.CbBox_AllowedViewsRace1_SelectedIndexChanged);
             // 
             // label108
             // 
@@ -1851,15 +1849,12 @@
             this.CbBox_FuelUsageRace1.DisplayMember = "Traduction";
             this.CbBox_FuelUsageRace1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_FuelUsageRace1.FormattingEnabled = true;
-            this.CbBox_FuelUsageRace1.Items.AddRange(new object[] {
-            "Normale",
-            "Lente",
-            "Non"});
             this.CbBox_FuelUsageRace1.Location = new System.Drawing.Point(103, 73);
             this.CbBox_FuelUsageRace1.Name = "CbBox_FuelUsageRace1";
             this.CbBox_FuelUsageRace1.Size = new System.Drawing.Size(139, 21);
             this.CbBox_FuelUsageRace1.TabIndex = 48;
             this.CbBox_FuelUsageRace1.ValueMember = "name";
+            this.CbBox_FuelUsageRace1.SelectedIndexChanged += new System.EventHandler(this.CbBox_FuelUsageRace1_SelectedIndexChanged);
             // 
             // label110
             // 
@@ -1875,21 +1870,12 @@
             this.CbBox_TireWearRace1.DisplayMember = "Traduction";
             this.CbBox_TireWearRace1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_TireWearRace1.FormattingEnabled = true;
-            this.CbBox_TireWearRace1.Items.AddRange(new object[] {
-            "X7",
-            "X6",
-            "X5",
-            "X4",
-            "X3",
-            "X2",
-            "Normal",
-            "Lent",
-            "Non"});
             this.CbBox_TireWearRace1.Location = new System.Drawing.Point(103, 45);
             this.CbBox_TireWearRace1.Name = "CbBox_TireWearRace1";
             this.CbBox_TireWearRace1.Size = new System.Drawing.Size(139, 21);
             this.CbBox_TireWearRace1.TabIndex = 47;
             this.CbBox_TireWearRace1.ValueMember = "name";
+            this.CbBox_TireWearRace1.SelectedIndexChanged += new System.EventHandler(this.CbBox_TireWearRace1_SelectedIndexChanged);
             // 
             // label111
             // 
@@ -1943,30 +1929,12 @@
             this.CbBox_RaceWeatherSlot4Race1.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot4Race1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot4Race1.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot4Race1.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot4Race1.Location = new System.Drawing.Point(54, 150);
             this.CbBox_RaceWeatherSlot4Race1.Name = "CbBox_RaceWeatherSlot4Race1";
             this.CbBox_RaceWeatherSlot4Race1.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot4Race1.TabIndex = 57;
             this.CbBox_RaceWeatherSlot4Race1.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot4Race1.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot4Race1_SelectedIndexChanged);
             // 
             // label9
             // 
@@ -1997,30 +1965,12 @@
             this.CbBox_RaceWeatherSlot3Race1.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot3Race1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot3Race1.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot3Race1.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot3Race1.Location = new System.Drawing.Point(54, 124);
             this.CbBox_RaceWeatherSlot3Race1.Name = "CbBox_RaceWeatherSlot3Race1";
             this.CbBox_RaceWeatherSlot3Race1.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot3Race1.TabIndex = 56;
             this.CbBox_RaceWeatherSlot3Race1.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot3Race1.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot3Race1_SelectedIndexChanged);
             // 
             // CbBox_SpeedRaceWeatherRace1
             // 
@@ -2049,60 +1999,24 @@
             this.CbBox_RaceWeatherSlot1Race1.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot1Race1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot1Race1.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot1Race1.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot1Race1.Location = new System.Drawing.Point(53, 72);
             this.CbBox_RaceWeatherSlot1Race1.Name = "CbBox_RaceWeatherSlot1Race1";
             this.CbBox_RaceWeatherSlot1Race1.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot1Race1.TabIndex = 30;
             this.CbBox_RaceWeatherSlot1Race1.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot1Race1.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot1Race1_SelectedIndexChanged);
             // 
             // CbBox_RaceWeatherSlot2Race1
             // 
             this.CbBox_RaceWeatherSlot2Race1.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot2Race1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot2Race1.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot2Race1.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot2Race1.Location = new System.Drawing.Point(54, 98);
             this.CbBox_RaceWeatherSlot2Race1.Name = "CbBox_RaceWeatherSlot2Race1";
             this.CbBox_RaceWeatherSlot2Race1.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot2Race1.TabIndex = 55;
             this.CbBox_RaceWeatherSlot2Race1.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot2Race1.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot2Race1_SelectedIndexChanged);
             // 
             // label13
             // 
@@ -2135,30 +2049,12 @@
             this.CbBox_QualifWeatherSlot4Race1.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot4Race1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot4Race1.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot4Race1.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot4Race1.Location = new System.Drawing.Point(54, 150);
             this.CbBox_QualifWeatherSlot4Race1.Name = "CbBox_QualifWeatherSlot4Race1";
             this.CbBox_QualifWeatherSlot4Race1.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot4Race1.TabIndex = 57;
             this.CbBox_QualifWeatherSlot4Race1.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot4Race1.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot4Race1_SelectedIndexChanged);
             // 
             // label3
             // 
@@ -2189,30 +2085,12 @@
             this.CbBox_QualifWeatherSlot3Race1.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot3Race1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot3Race1.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot3Race1.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot3Race1.Location = new System.Drawing.Point(54, 124);
             this.CbBox_QualifWeatherSlot3Race1.Name = "CbBox_QualifWeatherSlot3Race1";
             this.CbBox_QualifWeatherSlot3Race1.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot3Race1.TabIndex = 56;
             this.CbBox_QualifWeatherSlot3Race1.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot3Race1.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot3Race1_SelectedIndexChanged);
             // 
             // CbBox_SpeedQualifWeatherRace1
             // 
@@ -2241,60 +2119,24 @@
             this.CbBox_QualifWeatherSlot1Race1.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot1Race1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot1Race1.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot1Race1.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot1Race1.Location = new System.Drawing.Point(53, 72);
             this.CbBox_QualifWeatherSlot1Race1.Name = "CbBox_QualifWeatherSlot1Race1";
             this.CbBox_QualifWeatherSlot1Race1.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot1Race1.TabIndex = 30;
             this.CbBox_QualifWeatherSlot1Race1.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot1Race1.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot1Race1_SelectedIndexChanged);
             // 
             // CbBox_QualifWeatherSlot2Race1
             // 
             this.CbBox_QualifWeatherSlot2Race1.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot2Race1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot2Race1.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot2Race1.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot2Race1.Location = new System.Drawing.Point(54, 98);
             this.CbBox_QualifWeatherSlot2Race1.Name = "CbBox_QualifWeatherSlot2Race1";
             this.CbBox_QualifWeatherSlot2Race1.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot2Race1.TabIndex = 55;
             this.CbBox_QualifWeatherSlot2Race1.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot2Race1.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot2Race1_SelectedIndexChanged);
             // 
             // label8
             // 
@@ -2327,30 +2169,12 @@
             this.CbBox_PracticeWeatherSlot4Race1.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot4Race1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot4Race1.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot4Race1.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot4Race1.Location = new System.Drawing.Point(54, 150);
             this.CbBox_PracticeWeatherSlot4Race1.Name = "CbBox_PracticeWeatherSlot4Race1";
             this.CbBox_PracticeWeatherSlot4Race1.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot4Race1.TabIndex = 57;
             this.CbBox_PracticeWeatherSlot4Race1.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot4Race1.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot4Race1_SelectedIndexChanged);
             // 
             // label_PracticeWeatherSlots
             // 
@@ -2381,30 +2205,12 @@
             this.CbBox_PracticeWeatherSlot3Race1.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot3Race1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot3Race1.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot3Race1.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot3Race1.Location = new System.Drawing.Point(54, 124);
             this.CbBox_PracticeWeatherSlot3Race1.Name = "CbBox_PracticeWeatherSlot3Race1";
             this.CbBox_PracticeWeatherSlot3Race1.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot3Race1.TabIndex = 56;
             this.CbBox_PracticeWeatherSlot3Race1.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot3Race1.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot3Race1_SelectedIndexChanged);
             // 
             // CbBox_SpeedPratcticeWeatherRace1
             // 
@@ -2433,60 +2239,24 @@
             this.CbBox_PracticeWeatherSlot1Race1.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot1Race1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot1Race1.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot1Race1.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot1Race1.Location = new System.Drawing.Point(53, 72);
             this.CbBox_PracticeWeatherSlot1Race1.Name = "CbBox_PracticeWeatherSlot1Race1";
             this.CbBox_PracticeWeatherSlot1Race1.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot1Race1.TabIndex = 30;
             this.CbBox_PracticeWeatherSlot1Race1.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot1Race1.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot1Race1_SelectedIndexChanged);
             // 
             // CbBox_PracticeWeatherSlot2Race1
             // 
             this.CbBox_PracticeWeatherSlot2Race1.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot2Race1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot2Race1.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot2Race1.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot2Race1.Location = new System.Drawing.Point(54, 98);
             this.CbBox_PracticeWeatherSlot2Race1.Name = "CbBox_PracticeWeatherSlot2Race1";
             this.CbBox_PracticeWeatherSlot2Race1.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot2Race1.TabIndex = 55;
             this.CbBox_PracticeWeatherSlot2Race1.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot2Race1.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot2Race1_SelectedIndexChanged);
             // 
             // label39
             // 
@@ -3771,14 +3541,12 @@
             this.CbBox_AllowedViewsRace2.DisplayMember = "Traduction";
             this.CbBox_AllowedViewsRace2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_AllowedViewsRace2.FormattingEnabled = true;
-            this.CbBox_AllowedViewsRace2.Items.AddRange(new object[] {
-            "Toutes",
-            "Cockpit"});
             this.CbBox_AllowedViewsRace2.Location = new System.Drawing.Point(103, 100);
             this.CbBox_AllowedViewsRace2.Name = "CbBox_AllowedViewsRace2";
             this.CbBox_AllowedViewsRace2.Size = new System.Drawing.Size(139, 21);
             this.CbBox_AllowedViewsRace2.TabIndex = 49;
             this.CbBox_AllowedViewsRace2.ValueMember = "name";
+            this.CbBox_AllowedViewsRace2.SelectedIndexChanged += new System.EventHandler(this.CbBox_AllowedViewsRace2_SelectedIndexChanged);
             // 
             // label107
             // 
@@ -3794,15 +3562,12 @@
             this.CbBox_FuelUsageRace2.DisplayMember = "Traduction";
             this.CbBox_FuelUsageRace2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_FuelUsageRace2.FormattingEnabled = true;
-            this.CbBox_FuelUsageRace2.Items.AddRange(new object[] {
-            "Normale",
-            "Lente",
-            "Non"});
             this.CbBox_FuelUsageRace2.Location = new System.Drawing.Point(103, 73);
             this.CbBox_FuelUsageRace2.Name = "CbBox_FuelUsageRace2";
             this.CbBox_FuelUsageRace2.Size = new System.Drawing.Size(139, 21);
             this.CbBox_FuelUsageRace2.TabIndex = 48;
             this.CbBox_FuelUsageRace2.ValueMember = "name";
+            this.CbBox_FuelUsageRace2.SelectedIndexChanged += new System.EventHandler(this.CbBox_FuelUsageRace2_SelectedIndexChanged);
             // 
             // label109
             // 
@@ -3818,21 +3583,12 @@
             this.CbBox_TireWearRace2.DisplayMember = "Traduction";
             this.CbBox_TireWearRace2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_TireWearRace2.FormattingEnabled = true;
-            this.CbBox_TireWearRace2.Items.AddRange(new object[] {
-            "X7",
-            "X6",
-            "X5",
-            "X4",
-            "X3",
-            "X2",
-            "Normal",
-            "Lent",
-            "Non"});
             this.CbBox_TireWearRace2.Location = new System.Drawing.Point(103, 45);
             this.CbBox_TireWearRace2.Name = "CbBox_TireWearRace2";
             this.CbBox_TireWearRace2.Size = new System.Drawing.Size(139, 21);
             this.CbBox_TireWearRace2.TabIndex = 47;
             this.CbBox_TireWearRace2.ValueMember = "name";
+            this.CbBox_TireWearRace2.SelectedIndexChanged += new System.EventHandler(this.CbBox_TireWearRace2_SelectedIndexChanged);
             // 
             // label113
             // 
@@ -3848,16 +3604,12 @@
             this.CbBox_DamageTypeRace2.DisplayMember = "Traduction";
             this.CbBox_DamageTypeRace2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_DamageTypeRace2.FormattingEnabled = true;
-            this.CbBox_DamageTypeRace2.Items.AddRange(new object[] {
-            "Non",
-            "Visuel Uniquement",
-            "Impact sur les performances",
-            "Complet"});
             this.CbBox_DamageTypeRace2.Location = new System.Drawing.Point(103, 17);
             this.CbBox_DamageTypeRace2.Name = "CbBox_DamageTypeRace2";
             this.CbBox_DamageTypeRace2.Size = new System.Drawing.Size(139, 21);
             this.CbBox_DamageTypeRace2.TabIndex = 46;
             this.CbBox_DamageTypeRace2.ValueMember = "name";
+            this.CbBox_DamageTypeRace2.SelectedIndexChanged += new System.EventHandler(this.CbBox_DamageTypeRace2_SelectedIndexChanged);
             // 
             // label114
             // 
@@ -3890,25 +3642,6 @@
             this.CbBox_RaceWeatherSlot4Race2.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot4Race2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot4Race2.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot4Race2.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot4Race2.Location = new System.Drawing.Point(54, 150);
             this.CbBox_RaceWeatherSlot4Race2.Name = "CbBox_RaceWeatherSlot4Race2";
             this.CbBox_RaceWeatherSlot4Race2.Size = new System.Drawing.Size(121, 21);
@@ -3944,25 +3677,6 @@
             this.CbBox_RaceWeatherSlot3Race2.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot3Race2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot3Race2.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot3Race2.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot3Race2.Location = new System.Drawing.Point(54, 124);
             this.CbBox_RaceWeatherSlot3Race2.Name = "CbBox_RaceWeatherSlot3Race2";
             this.CbBox_RaceWeatherSlot3Race2.Size = new System.Drawing.Size(121, 21);
@@ -3996,25 +3710,6 @@
             this.CbBox_RaceWeatherSlot1Race2.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot1Race2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot1Race2.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot1Race2.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot1Race2.Location = new System.Drawing.Point(53, 72);
             this.CbBox_RaceWeatherSlot1Race2.Name = "CbBox_RaceWeatherSlot1Race2";
             this.CbBox_RaceWeatherSlot1Race2.Size = new System.Drawing.Size(121, 21);
@@ -4026,25 +3721,6 @@
             this.CbBox_RaceWeatherSlot2Race2.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot2Race2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot2Race2.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot2Race2.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot2Race2.Location = new System.Drawing.Point(54, 98);
             this.CbBox_RaceWeatherSlot2Race2.Name = "CbBox_RaceWeatherSlot2Race2";
             this.CbBox_RaceWeatherSlot2Race2.Size = new System.Drawing.Size(121, 21);
@@ -4082,25 +3758,6 @@
             this.CbBox_QualifWeatherSlot4Race2.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot4Race2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot4Race2.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot4Race2.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot4Race2.Location = new System.Drawing.Point(54, 150);
             this.CbBox_QualifWeatherSlot4Race2.Name = "CbBox_QualifWeatherSlot4Race2";
             this.CbBox_QualifWeatherSlot4Race2.Size = new System.Drawing.Size(121, 21);
@@ -4136,25 +3793,6 @@
             this.CbBox_QualifWeatherSlot3Race2.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot3Race2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot3Race2.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot3Race2.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot3Race2.Location = new System.Drawing.Point(54, 124);
             this.CbBox_QualifWeatherSlot3Race2.Name = "CbBox_QualifWeatherSlot3Race2";
             this.CbBox_QualifWeatherSlot3Race2.Size = new System.Drawing.Size(121, 21);
@@ -4188,25 +3826,6 @@
             this.CbBox_QualifWeatherSlot1Race2.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot1Race2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot1Race2.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot1Race2.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot1Race2.Location = new System.Drawing.Point(53, 72);
             this.CbBox_QualifWeatherSlot1Race2.Name = "CbBox_QualifWeatherSlot1Race2";
             this.CbBox_QualifWeatherSlot1Race2.Size = new System.Drawing.Size(121, 21);
@@ -4218,25 +3837,6 @@
             this.CbBox_QualifWeatherSlot2Race2.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot2Race2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot2Race2.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot2Race2.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot2Race2.Location = new System.Drawing.Point(54, 98);
             this.CbBox_QualifWeatherSlot2Race2.Name = "CbBox_QualifWeatherSlot2Race2";
             this.CbBox_QualifWeatherSlot2Race2.Size = new System.Drawing.Size(121, 21);
@@ -4274,25 +3874,6 @@
             this.CbBox_PracticeWeatherSlot4Race2.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot4Race2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot4Race2.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot4Race2.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot4Race2.Location = new System.Drawing.Point(54, 150);
             this.CbBox_PracticeWeatherSlot4Race2.Name = "CbBox_PracticeWeatherSlot4Race2";
             this.CbBox_PracticeWeatherSlot4Race2.Size = new System.Drawing.Size(121, 21);
@@ -4328,25 +3909,6 @@
             this.CbBox_PracticeWeatherSlot3Race2.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot3Race2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot3Race2.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot3Race2.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot3Race2.Location = new System.Drawing.Point(54, 124);
             this.CbBox_PracticeWeatherSlot3Race2.Name = "CbBox_PracticeWeatherSlot3Race2";
             this.CbBox_PracticeWeatherSlot3Race2.Size = new System.Drawing.Size(121, 21);
@@ -4380,25 +3942,6 @@
             this.CbBox_PracticeWeatherSlot1Race2.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot1Race2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot1Race2.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot1Race2.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot1Race2.Location = new System.Drawing.Point(53, 72);
             this.CbBox_PracticeWeatherSlot1Race2.Name = "CbBox_PracticeWeatherSlot1Race2";
             this.CbBox_PracticeWeatherSlot1Race2.Size = new System.Drawing.Size(121, 21);
@@ -4410,25 +3953,6 @@
             this.CbBox_PracticeWeatherSlot2Race2.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot2Race2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot2Race2.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot2Race2.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot2Race2.Location = new System.Drawing.Point(54, 98);
             this.CbBox_PracticeWeatherSlot2Race2.Name = "CbBox_PracticeWeatherSlot2Race2";
             this.CbBox_PracticeWeatherSlot2Race2.Size = new System.Drawing.Size(121, 21);
@@ -5670,14 +5194,12 @@
             this.CbBox_AllowedViewsRace3.DisplayMember = "Traduction";
             this.CbBox_AllowedViewsRace3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_AllowedViewsRace3.FormattingEnabled = true;
-            this.CbBox_AllowedViewsRace3.Items.AddRange(new object[] {
-            "Toutes",
-            "Cockpit"});
             this.CbBox_AllowedViewsRace3.Location = new System.Drawing.Point(103, 100);
             this.CbBox_AllowedViewsRace3.Name = "CbBox_AllowedViewsRace3";
             this.CbBox_AllowedViewsRace3.Size = new System.Drawing.Size(139, 21);
             this.CbBox_AllowedViewsRace3.TabIndex = 49;
             this.CbBox_AllowedViewsRace3.ValueMember = "name";
+            this.CbBox_AllowedViewsRace3.SelectedIndexChanged += new System.EventHandler(this.CbBox_AllowedViewsRace3_SelectedIndexChanged);
             // 
             // label115
             // 
@@ -5693,15 +5215,12 @@
             this.CbBox_FuelUsageRace3.DisplayMember = "Traduction";
             this.CbBox_FuelUsageRace3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_FuelUsageRace3.FormattingEnabled = true;
-            this.CbBox_FuelUsageRace3.Items.AddRange(new object[] {
-            "Normale",
-            "Lente",
-            "Non"});
             this.CbBox_FuelUsageRace3.Location = new System.Drawing.Point(103, 73);
             this.CbBox_FuelUsageRace3.Name = "CbBox_FuelUsageRace3";
             this.CbBox_FuelUsageRace3.Size = new System.Drawing.Size(139, 21);
             this.CbBox_FuelUsageRace3.TabIndex = 48;
             this.CbBox_FuelUsageRace3.ValueMember = "name";
+            this.CbBox_FuelUsageRace3.SelectedIndexChanged += new System.EventHandler(this.CbBox_FuelUsageRace3_SelectedIndexChanged);
             // 
             // label116
             // 
@@ -5717,21 +5236,12 @@
             this.CbBox_TireWearRace3.DisplayMember = "Traduction";
             this.CbBox_TireWearRace3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_TireWearRace3.FormattingEnabled = true;
-            this.CbBox_TireWearRace3.Items.AddRange(new object[] {
-            "X7",
-            "X6",
-            "X5",
-            "X4",
-            "X3",
-            "X2",
-            "Normal",
-            "Lent",
-            "Non"});
             this.CbBox_TireWearRace3.Location = new System.Drawing.Point(103, 45);
             this.CbBox_TireWearRace3.Name = "CbBox_TireWearRace3";
             this.CbBox_TireWearRace3.Size = new System.Drawing.Size(139, 21);
             this.CbBox_TireWearRace3.TabIndex = 47;
             this.CbBox_TireWearRace3.ValueMember = "name";
+            this.CbBox_TireWearRace3.SelectedIndexChanged += new System.EventHandler(this.CbBox_TireWearRace3_SelectedIndexChanged);
             // 
             // label117
             // 
@@ -5747,16 +5257,12 @@
             this.CbBox_DamageTypeRace3.DisplayMember = "Traduction";
             this.CbBox_DamageTypeRace3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_DamageTypeRace3.FormattingEnabled = true;
-            this.CbBox_DamageTypeRace3.Items.AddRange(new object[] {
-            "Non",
-            "Visuel Uniquement",
-            "Impact sur les performances",
-            "Complet"});
             this.CbBox_DamageTypeRace3.Location = new System.Drawing.Point(103, 17);
             this.CbBox_DamageTypeRace3.Name = "CbBox_DamageTypeRace3";
             this.CbBox_DamageTypeRace3.Size = new System.Drawing.Size(139, 21);
             this.CbBox_DamageTypeRace3.TabIndex = 46;
             this.CbBox_DamageTypeRace3.ValueMember = "name";
+            this.CbBox_DamageTypeRace3.SelectedIndexChanged += new System.EventHandler(this.CbBox_DamageTypeRace3_SelectedIndexChanged);
             // 
             // label118
             // 
@@ -5789,25 +5295,6 @@
             this.CbBox_RaceWeatherSlot4Race3.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot4Race3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot4Race3.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot4Race3.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot4Race3.Location = new System.Drawing.Point(54, 150);
             this.CbBox_RaceWeatherSlot4Race3.Name = "CbBox_RaceWeatherSlot4Race3";
             this.CbBox_RaceWeatherSlot4Race3.Size = new System.Drawing.Size(121, 21);
@@ -5843,25 +5330,6 @@
             this.CbBox_RaceWeatherSlot3Race3.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot3Race3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot3Race3.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot3Race3.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot3Race3.Location = new System.Drawing.Point(54, 124);
             this.CbBox_RaceWeatherSlot3Race3.Name = "CbBox_RaceWeatherSlot3Race3";
             this.CbBox_RaceWeatherSlot3Race3.Size = new System.Drawing.Size(121, 21);
@@ -5895,25 +5363,6 @@
             this.CbBox_RaceWeatherSlot1Race3.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot1Race3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot1Race3.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot1Race3.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot1Race3.Location = new System.Drawing.Point(53, 72);
             this.CbBox_RaceWeatherSlot1Race3.Name = "CbBox_RaceWeatherSlot1Race3";
             this.CbBox_RaceWeatherSlot1Race3.Size = new System.Drawing.Size(121, 21);
@@ -5925,25 +5374,6 @@
             this.CbBox_RaceWeatherSlot2Race3.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot2Race3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot2Race3.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot2Race3.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot2Race3.Location = new System.Drawing.Point(54, 98);
             this.CbBox_RaceWeatherSlot2Race3.Name = "CbBox_RaceWeatherSlot2Race3";
             this.CbBox_RaceWeatherSlot2Race3.Size = new System.Drawing.Size(121, 21);
@@ -5981,25 +5411,6 @@
             this.CbBox_QualifWeatherSlot4Race3.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot4Race3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot4Race3.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot4Race3.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot4Race3.Location = new System.Drawing.Point(54, 150);
             this.CbBox_QualifWeatherSlot4Race3.Name = "CbBox_QualifWeatherSlot4Race3";
             this.CbBox_QualifWeatherSlot4Race3.Size = new System.Drawing.Size(121, 21);
@@ -6035,25 +5446,6 @@
             this.CbBox_QualifWeatherSlot3Race3.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot3Race3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot3Race3.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot3Race3.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot3Race3.Location = new System.Drawing.Point(54, 124);
             this.CbBox_QualifWeatherSlot3Race3.Name = "CbBox_QualifWeatherSlot3Race3";
             this.CbBox_QualifWeatherSlot3Race3.Size = new System.Drawing.Size(121, 21);
@@ -6087,25 +5479,6 @@
             this.CbBox_QualifWeatherSlot1Race3.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot1Race3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot1Race3.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot1Race3.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot1Race3.Location = new System.Drawing.Point(53, 72);
             this.CbBox_QualifWeatherSlot1Race3.Name = "CbBox_QualifWeatherSlot1Race3";
             this.CbBox_QualifWeatherSlot1Race3.Size = new System.Drawing.Size(121, 21);
@@ -6117,25 +5490,6 @@
             this.CbBox_QualifWeatherSlot2Race3.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot2Race3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot2Race3.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot2Race3.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot2Race3.Location = new System.Drawing.Point(54, 98);
             this.CbBox_QualifWeatherSlot2Race3.Name = "CbBox_QualifWeatherSlot2Race3";
             this.CbBox_QualifWeatherSlot2Race3.Size = new System.Drawing.Size(121, 21);
@@ -6173,25 +5527,6 @@
             this.CbBox_PracticeWeatherSlot4Race3.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot4Race3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot4Race3.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot4Race3.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot4Race3.Location = new System.Drawing.Point(54, 150);
             this.CbBox_PracticeWeatherSlot4Race3.Name = "CbBox_PracticeWeatherSlot4Race3";
             this.CbBox_PracticeWeatherSlot4Race3.Size = new System.Drawing.Size(121, 21);
@@ -6227,25 +5562,6 @@
             this.CbBox_PracticeWeatherSlot3Race3.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot3Race3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot3Race3.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot3Race3.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot3Race3.Location = new System.Drawing.Point(54, 124);
             this.CbBox_PracticeWeatherSlot3Race3.Name = "CbBox_PracticeWeatherSlot3Race3";
             this.CbBox_PracticeWeatherSlot3Race3.Size = new System.Drawing.Size(121, 21);
@@ -6279,25 +5595,6 @@
             this.CbBox_PracticeWeatherSlot1Race3.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot1Race3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot1Race3.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot1Race3.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot1Race3.Location = new System.Drawing.Point(53, 72);
             this.CbBox_PracticeWeatherSlot1Race3.Name = "CbBox_PracticeWeatherSlot1Race3";
             this.CbBox_PracticeWeatherSlot1Race3.Size = new System.Drawing.Size(121, 21);
@@ -6309,25 +5606,6 @@
             this.CbBox_PracticeWeatherSlot2Race3.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot2Race3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot2Race3.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot2Race3.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot2Race3.Location = new System.Drawing.Point(54, 98);
             this.CbBox_PracticeWeatherSlot2Race3.Name = "CbBox_PracticeWeatherSlot2Race3";
             this.CbBox_PracticeWeatherSlot2Race3.Size = new System.Drawing.Size(121, 21);
@@ -7569,14 +6847,12 @@
             this.CbBox_AllowedViewsRace4.DisplayMember = "Traduction";
             this.CbBox_AllowedViewsRace4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_AllowedViewsRace4.FormattingEnabled = true;
-            this.CbBox_AllowedViewsRace4.Items.AddRange(new object[] {
-            "Toutes",
-            "Cockpit"});
             this.CbBox_AllowedViewsRace4.Location = new System.Drawing.Point(103, 100);
             this.CbBox_AllowedViewsRace4.Name = "CbBox_AllowedViewsRace4";
             this.CbBox_AllowedViewsRace4.Size = new System.Drawing.Size(139, 21);
             this.CbBox_AllowedViewsRace4.TabIndex = 49;
             this.CbBox_AllowedViewsRace4.ValueMember = "name";
+            this.CbBox_AllowedViewsRace4.SelectedIndexChanged += new System.EventHandler(this.CbBox_AllowedViewsRace4_SelectedIndexChanged);
             // 
             // label119
             // 
@@ -7592,15 +6868,12 @@
             this.CbBox_FuelUsageRace4.DisplayMember = "Traduction";
             this.CbBox_FuelUsageRace4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_FuelUsageRace4.FormattingEnabled = true;
-            this.CbBox_FuelUsageRace4.Items.AddRange(new object[] {
-            "Normale",
-            "Lente",
-            "Non"});
             this.CbBox_FuelUsageRace4.Location = new System.Drawing.Point(103, 73);
             this.CbBox_FuelUsageRace4.Name = "CbBox_FuelUsageRace4";
             this.CbBox_FuelUsageRace4.Size = new System.Drawing.Size(139, 21);
             this.CbBox_FuelUsageRace4.TabIndex = 48;
             this.CbBox_FuelUsageRace4.ValueMember = "name";
+            this.CbBox_FuelUsageRace4.SelectedIndexChanged += new System.EventHandler(this.CbBox_FuelUsageRace4_SelectedIndexChanged);
             // 
             // label120
             // 
@@ -7616,21 +6889,12 @@
             this.CbBox_TireWearRace4.DisplayMember = "Traduction";
             this.CbBox_TireWearRace4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_TireWearRace4.FormattingEnabled = true;
-            this.CbBox_TireWearRace4.Items.AddRange(new object[] {
-            "X7",
-            "X6",
-            "X5",
-            "X4",
-            "X3",
-            "X2",
-            "Normal",
-            "Lent",
-            "Non"});
             this.CbBox_TireWearRace4.Location = new System.Drawing.Point(103, 45);
             this.CbBox_TireWearRace4.Name = "CbBox_TireWearRace4";
             this.CbBox_TireWearRace4.Size = new System.Drawing.Size(139, 21);
             this.CbBox_TireWearRace4.TabIndex = 47;
             this.CbBox_TireWearRace4.ValueMember = "name";
+            this.CbBox_TireWearRace4.SelectedIndexChanged += new System.EventHandler(this.CbBox_TireWearRace4_SelectedIndexChanged);
             // 
             // label121
             // 
@@ -7646,16 +6910,12 @@
             this.CbBox_DamageTypeRace4.DisplayMember = "Traduction";
             this.CbBox_DamageTypeRace4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_DamageTypeRace4.FormattingEnabled = true;
-            this.CbBox_DamageTypeRace4.Items.AddRange(new object[] {
-            "Non",
-            "Visuel Uniquement",
-            "Impact sur les performances",
-            "Complet"});
             this.CbBox_DamageTypeRace4.Location = new System.Drawing.Point(103, 17);
             this.CbBox_DamageTypeRace4.Name = "CbBox_DamageTypeRace4";
             this.CbBox_DamageTypeRace4.Size = new System.Drawing.Size(139, 21);
             this.CbBox_DamageTypeRace4.TabIndex = 46;
             this.CbBox_DamageTypeRace4.ValueMember = "name";
+            this.CbBox_DamageTypeRace4.SelectedIndexChanged += new System.EventHandler(this.CbBox_DamageTypeRace4_SelectedIndexChanged);
             // 
             // label122
             // 
@@ -7688,25 +6948,6 @@
             this.CbBox_RaceWeatherSlot4Race4.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot4Race4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot4Race4.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot4Race4.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot4Race4.Location = new System.Drawing.Point(54, 150);
             this.CbBox_RaceWeatherSlot4Race4.Name = "CbBox_RaceWeatherSlot4Race4";
             this.CbBox_RaceWeatherSlot4Race4.Size = new System.Drawing.Size(121, 21);
@@ -7742,25 +6983,6 @@
             this.CbBox_RaceWeatherSlot3Race4.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot3Race4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot3Race4.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot3Race4.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot3Race4.Location = new System.Drawing.Point(54, 124);
             this.CbBox_RaceWeatherSlot3Race4.Name = "CbBox_RaceWeatherSlot3Race4";
             this.CbBox_RaceWeatherSlot3Race4.Size = new System.Drawing.Size(121, 21);
@@ -7794,25 +7016,6 @@
             this.CbBox_RaceWeatherSlot1Race4.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot1Race4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot1Race4.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot1Race4.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot1Race4.Location = new System.Drawing.Point(53, 72);
             this.CbBox_RaceWeatherSlot1Race4.Name = "CbBox_RaceWeatherSlot1Race4";
             this.CbBox_RaceWeatherSlot1Race4.Size = new System.Drawing.Size(121, 21);
@@ -7824,25 +7027,6 @@
             this.CbBox_RaceWeatherSlot2Race4.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot2Race4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot2Race4.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot2Race4.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot2Race4.Location = new System.Drawing.Point(54, 98);
             this.CbBox_RaceWeatherSlot2Race4.Name = "CbBox_RaceWeatherSlot2Race4";
             this.CbBox_RaceWeatherSlot2Race4.Size = new System.Drawing.Size(121, 21);
@@ -7880,25 +7064,6 @@
             this.CbBox_QualifWeatherSlot4Race4.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot4Race4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot4Race4.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot4Race4.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot4Race4.Location = new System.Drawing.Point(54, 150);
             this.CbBox_QualifWeatherSlot4Race4.Name = "CbBox_QualifWeatherSlot4Race4";
             this.CbBox_QualifWeatherSlot4Race4.Size = new System.Drawing.Size(121, 21);
@@ -7934,25 +7099,6 @@
             this.CbBox_QualifWeatherSlot3Race4.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot3Race4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot3Race4.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot3Race4.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot3Race4.Location = new System.Drawing.Point(54, 124);
             this.CbBox_QualifWeatherSlot3Race4.Name = "CbBox_QualifWeatherSlot3Race4";
             this.CbBox_QualifWeatherSlot3Race4.Size = new System.Drawing.Size(121, 21);
@@ -7986,25 +7132,6 @@
             this.CbBox_QualifWeatherSlot1Race4.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot1Race4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot1Race4.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot1Race4.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot1Race4.Location = new System.Drawing.Point(53, 72);
             this.CbBox_QualifWeatherSlot1Race4.Name = "CbBox_QualifWeatherSlot1Race4";
             this.CbBox_QualifWeatherSlot1Race4.Size = new System.Drawing.Size(121, 21);
@@ -8016,25 +7143,6 @@
             this.CbBox_QualifWeatherSlot2Race4.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot2Race4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot2Race4.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot2Race4.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot2Race4.Location = new System.Drawing.Point(54, 98);
             this.CbBox_QualifWeatherSlot2Race4.Name = "CbBox_QualifWeatherSlot2Race4";
             this.CbBox_QualifWeatherSlot2Race4.Size = new System.Drawing.Size(121, 21);
@@ -8072,25 +7180,6 @@
             this.CbBox_PracticeWeatherSlot4Race4.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot4Race4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot4Race4.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot4Race4.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot4Race4.Location = new System.Drawing.Point(54, 150);
             this.CbBox_PracticeWeatherSlot4Race4.Name = "CbBox_PracticeWeatherSlot4Race4";
             this.CbBox_PracticeWeatherSlot4Race4.Size = new System.Drawing.Size(121, 21);
@@ -8126,25 +7215,6 @@
             this.CbBox_PracticeWeatherSlot3Race4.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot3Race4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot3Race4.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot3Race4.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot3Race4.Location = new System.Drawing.Point(54, 124);
             this.CbBox_PracticeWeatherSlot3Race4.Name = "CbBox_PracticeWeatherSlot3Race4";
             this.CbBox_PracticeWeatherSlot3Race4.Size = new System.Drawing.Size(121, 21);
@@ -8178,25 +7248,6 @@
             this.CbBox_PracticeWeatherSlot1Race4.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot1Race4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot1Race4.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot1Race4.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot1Race4.Location = new System.Drawing.Point(53, 72);
             this.CbBox_PracticeWeatherSlot1Race4.Name = "CbBox_PracticeWeatherSlot1Race4";
             this.CbBox_PracticeWeatherSlot1Race4.Size = new System.Drawing.Size(121, 21);
@@ -8208,25 +7259,6 @@
             this.CbBox_PracticeWeatherSlot2Race4.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot2Race4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot2Race4.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot2Race4.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot2Race4.Location = new System.Drawing.Point(54, 98);
             this.CbBox_PracticeWeatherSlot2Race4.Name = "CbBox_PracticeWeatherSlot2Race4";
             this.CbBox_PracticeWeatherSlot2Race4.Size = new System.Drawing.Size(121, 21);
@@ -9468,14 +8500,12 @@
             this.CbBox_AllowedViewsRace5.DisplayMember = "Traduction";
             this.CbBox_AllowedViewsRace5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_AllowedViewsRace5.FormattingEnabled = true;
-            this.CbBox_AllowedViewsRace5.Items.AddRange(new object[] {
-            "Toutes",
-            "Cockpit"});
             this.CbBox_AllowedViewsRace5.Location = new System.Drawing.Point(103, 100);
             this.CbBox_AllowedViewsRace5.Name = "CbBox_AllowedViewsRace5";
             this.CbBox_AllowedViewsRace5.Size = new System.Drawing.Size(139, 21);
             this.CbBox_AllowedViewsRace5.TabIndex = 49;
             this.CbBox_AllowedViewsRace5.ValueMember = "name";
+            this.CbBox_AllowedViewsRace5.SelectedIndexChanged += new System.EventHandler(this.CbBox_AllowedViewsRace5_SelectedIndexChanged);
             // 
             // label123
             // 
@@ -9491,15 +8521,12 @@
             this.CbBox_FuelUsageRace5.DisplayMember = "Traduction";
             this.CbBox_FuelUsageRace5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_FuelUsageRace5.FormattingEnabled = true;
-            this.CbBox_FuelUsageRace5.Items.AddRange(new object[] {
-            "Normale",
-            "Lente",
-            "Non"});
             this.CbBox_FuelUsageRace5.Location = new System.Drawing.Point(103, 73);
             this.CbBox_FuelUsageRace5.Name = "CbBox_FuelUsageRace5";
             this.CbBox_FuelUsageRace5.Size = new System.Drawing.Size(139, 21);
             this.CbBox_FuelUsageRace5.TabIndex = 48;
             this.CbBox_FuelUsageRace5.ValueMember = "name";
+            this.CbBox_FuelUsageRace5.SelectedIndexChanged += new System.EventHandler(this.CbBox_FuelUsageRace5_SelectedIndexChanged);
             // 
             // label124
             // 
@@ -9515,21 +8542,12 @@
             this.CbBox_TireWearRace5.DisplayMember = "Traduction";
             this.CbBox_TireWearRace5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_TireWearRace5.FormattingEnabled = true;
-            this.CbBox_TireWearRace5.Items.AddRange(new object[] {
-            "X7",
-            "X6",
-            "X5",
-            "X4",
-            "X3",
-            "X2",
-            "Normal",
-            "Lent",
-            "Non"});
             this.CbBox_TireWearRace5.Location = new System.Drawing.Point(103, 45);
             this.CbBox_TireWearRace5.Name = "CbBox_TireWearRace5";
             this.CbBox_TireWearRace5.Size = new System.Drawing.Size(139, 21);
             this.CbBox_TireWearRace5.TabIndex = 47;
             this.CbBox_TireWearRace5.ValueMember = "name";
+            this.CbBox_TireWearRace5.SelectedIndexChanged += new System.EventHandler(this.CbBox_TireWearRace5_SelectedIndexChanged);
             // 
             // label125
             // 
@@ -9545,16 +8563,12 @@
             this.CbBox_DamageTypeRace5.DisplayMember = "Traduction";
             this.CbBox_DamageTypeRace5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_DamageTypeRace5.FormattingEnabled = true;
-            this.CbBox_DamageTypeRace5.Items.AddRange(new object[] {
-            "Non",
-            "Visuel Uniquement",
-            "Impact sur les performances",
-            "Complet"});
             this.CbBox_DamageTypeRace5.Location = new System.Drawing.Point(103, 17);
             this.CbBox_DamageTypeRace5.Name = "CbBox_DamageTypeRace5";
             this.CbBox_DamageTypeRace5.Size = new System.Drawing.Size(139, 21);
             this.CbBox_DamageTypeRace5.TabIndex = 46;
             this.CbBox_DamageTypeRace5.ValueMember = "name";
+            this.CbBox_DamageTypeRace5.SelectedIndexChanged += new System.EventHandler(this.CbBox_DamageTypeRace5_SelectedIndexChanged);
             // 
             // label126
             // 
@@ -9587,25 +8601,6 @@
             this.CbBox_RaceWeatherSlot4Race5.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot4Race5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot4Race5.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot4Race5.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot4Race5.Location = new System.Drawing.Point(54, 150);
             this.CbBox_RaceWeatherSlot4Race5.Name = "CbBox_RaceWeatherSlot4Race5";
             this.CbBox_RaceWeatherSlot4Race5.Size = new System.Drawing.Size(121, 21);
@@ -9641,25 +8636,6 @@
             this.CbBox_RaceWeatherSlot3Race5.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot3Race5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot3Race5.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot3Race5.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot3Race5.Location = new System.Drawing.Point(54, 124);
             this.CbBox_RaceWeatherSlot3Race5.Name = "CbBox_RaceWeatherSlot3Race5";
             this.CbBox_RaceWeatherSlot3Race5.Size = new System.Drawing.Size(121, 21);
@@ -9693,25 +8669,6 @@
             this.CbBox_RaceWeatherSlot1Race5.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot1Race5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot1Race5.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot1Race5.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot1Race5.Location = new System.Drawing.Point(53, 72);
             this.CbBox_RaceWeatherSlot1Race5.Name = "CbBox_RaceWeatherSlot1Race5";
             this.CbBox_RaceWeatherSlot1Race5.Size = new System.Drawing.Size(121, 21);
@@ -9723,25 +8680,6 @@
             this.CbBox_RaceWeatherSlot2Race5.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot2Race5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot2Race5.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot2Race5.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot2Race5.Location = new System.Drawing.Point(54, 98);
             this.CbBox_RaceWeatherSlot2Race5.Name = "CbBox_RaceWeatherSlot2Race5";
             this.CbBox_RaceWeatherSlot2Race5.Size = new System.Drawing.Size(121, 21);
@@ -9779,25 +8717,6 @@
             this.CbBox_QualifWeatherSlot4Race5.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot4Race5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot4Race5.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot4Race5.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot4Race5.Location = new System.Drawing.Point(54, 150);
             this.CbBox_QualifWeatherSlot4Race5.Name = "CbBox_QualifWeatherSlot4Race5";
             this.CbBox_QualifWeatherSlot4Race5.Size = new System.Drawing.Size(121, 21);
@@ -9833,25 +8752,6 @@
             this.CbBox_QualifWeatherSlot3Race5.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot3Race5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot3Race5.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot3Race5.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot3Race5.Location = new System.Drawing.Point(54, 124);
             this.CbBox_QualifWeatherSlot3Race5.Name = "CbBox_QualifWeatherSlot3Race5";
             this.CbBox_QualifWeatherSlot3Race5.Size = new System.Drawing.Size(121, 21);
@@ -9885,25 +8785,6 @@
             this.CbBox_QualifWeatherSlot1Race5.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot1Race5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot1Race5.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot1Race5.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot1Race5.Location = new System.Drawing.Point(53, 72);
             this.CbBox_QualifWeatherSlot1Race5.Name = "CbBox_QualifWeatherSlot1Race5";
             this.CbBox_QualifWeatherSlot1Race5.Size = new System.Drawing.Size(121, 21);
@@ -9915,25 +8796,6 @@
             this.CbBox_QualifWeatherSlot2Race5.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot2Race5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot2Race5.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot2Race5.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot2Race5.Location = new System.Drawing.Point(54, 98);
             this.CbBox_QualifWeatherSlot2Race5.Name = "CbBox_QualifWeatherSlot2Race5";
             this.CbBox_QualifWeatherSlot2Race5.Size = new System.Drawing.Size(121, 21);
@@ -9971,25 +8833,6 @@
             this.CbBox_PracticeWeatherSlot4Race5.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot4Race5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot4Race5.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot4Race5.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot4Race5.Location = new System.Drawing.Point(54, 150);
             this.CbBox_PracticeWeatherSlot4Race5.Name = "CbBox_PracticeWeatherSlot4Race5";
             this.CbBox_PracticeWeatherSlot4Race5.Size = new System.Drawing.Size(121, 21);
@@ -10025,25 +8868,6 @@
             this.CbBox_PracticeWeatherSlot3Race5.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot3Race5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot3Race5.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot3Race5.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot3Race5.Location = new System.Drawing.Point(54, 124);
             this.CbBox_PracticeWeatherSlot3Race5.Name = "CbBox_PracticeWeatherSlot3Race5";
             this.CbBox_PracticeWeatherSlot3Race5.Size = new System.Drawing.Size(121, 21);
@@ -10077,25 +8901,6 @@
             this.CbBox_PracticeWeatherSlot1Race5.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot1Race5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot1Race5.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot1Race5.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot1Race5.Location = new System.Drawing.Point(53, 72);
             this.CbBox_PracticeWeatherSlot1Race5.Name = "CbBox_PracticeWeatherSlot1Race5";
             this.CbBox_PracticeWeatherSlot1Race5.Size = new System.Drawing.Size(121, 21);
@@ -10107,25 +8912,6 @@
             this.CbBox_PracticeWeatherSlot2Race5.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot2Race5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot2Race5.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot2Race5.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot2Race5.Location = new System.Drawing.Point(54, 98);
             this.CbBox_PracticeWeatherSlot2Race5.Name = "CbBox_PracticeWeatherSlot2Race5";
             this.CbBox_PracticeWeatherSlot2Race5.Size = new System.Drawing.Size(121, 21);
@@ -11367,14 +10153,12 @@
             this.CbBox_AllowedViewsRace6.DisplayMember = "Traduction";
             this.CbBox_AllowedViewsRace6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_AllowedViewsRace6.FormattingEnabled = true;
-            this.CbBox_AllowedViewsRace6.Items.AddRange(new object[] {
-            "Toutes",
-            "Cockpit"});
             this.CbBox_AllowedViewsRace6.Location = new System.Drawing.Point(103, 100);
             this.CbBox_AllowedViewsRace6.Name = "CbBox_AllowedViewsRace6";
             this.CbBox_AllowedViewsRace6.Size = new System.Drawing.Size(139, 21);
             this.CbBox_AllowedViewsRace6.TabIndex = 49;
             this.CbBox_AllowedViewsRace6.ValueMember = "name";
+            this.CbBox_AllowedViewsRace6.SelectedIndexChanged += new System.EventHandler(this.CbBox_AllowedViewsRace6_SelectedIndexChanged);
             // 
             // label127
             // 
@@ -11390,15 +10174,12 @@
             this.CbBox_FuelUsageRace6.DisplayMember = "Traduction";
             this.CbBox_FuelUsageRace6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_FuelUsageRace6.FormattingEnabled = true;
-            this.CbBox_FuelUsageRace6.Items.AddRange(new object[] {
-            "Normale",
-            "Lente",
-            "Non"});
             this.CbBox_FuelUsageRace6.Location = new System.Drawing.Point(103, 73);
             this.CbBox_FuelUsageRace6.Name = "CbBox_FuelUsageRace6";
             this.CbBox_FuelUsageRace6.Size = new System.Drawing.Size(139, 21);
             this.CbBox_FuelUsageRace6.TabIndex = 48;
             this.CbBox_FuelUsageRace6.ValueMember = "name";
+            this.CbBox_FuelUsageRace6.SelectedIndexChanged += new System.EventHandler(this.CbBox_FuelUsageRace6_SelectedIndexChanged);
             // 
             // label128
             // 
@@ -11414,21 +10195,12 @@
             this.CbBox_TireWearRace6.DisplayMember = "Traduction";
             this.CbBox_TireWearRace6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_TireWearRace6.FormattingEnabled = true;
-            this.CbBox_TireWearRace6.Items.AddRange(new object[] {
-            "X7",
-            "X6",
-            "X5",
-            "X4",
-            "X3",
-            "X2",
-            "Normal",
-            "Lent",
-            "Non"});
             this.CbBox_TireWearRace6.Location = new System.Drawing.Point(103, 45);
             this.CbBox_TireWearRace6.Name = "CbBox_TireWearRace6";
             this.CbBox_TireWearRace6.Size = new System.Drawing.Size(139, 21);
             this.CbBox_TireWearRace6.TabIndex = 47;
             this.CbBox_TireWearRace6.ValueMember = "name";
+            this.CbBox_TireWearRace6.SelectedIndexChanged += new System.EventHandler(this.CbBox_TireWearRace6_SelectedIndexChanged);
             // 
             // label129
             // 
@@ -11444,16 +10216,12 @@
             this.CbBox_DamageTypeRace6.DisplayMember = "Traduction";
             this.CbBox_DamageTypeRace6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_DamageTypeRace6.FormattingEnabled = true;
-            this.CbBox_DamageTypeRace6.Items.AddRange(new object[] {
-            "Non",
-            "Visuel Uniquement",
-            "Impact sur les performances",
-            "Complet"});
             this.CbBox_DamageTypeRace6.Location = new System.Drawing.Point(103, 17);
             this.CbBox_DamageTypeRace6.Name = "CbBox_DamageTypeRace6";
             this.CbBox_DamageTypeRace6.Size = new System.Drawing.Size(139, 21);
             this.CbBox_DamageTypeRace6.TabIndex = 46;
             this.CbBox_DamageTypeRace6.ValueMember = "name";
+            this.CbBox_DamageTypeRace6.SelectedIndexChanged += new System.EventHandler(this.CbBox_DamageTypeRace6_SelectedIndexChanged);
             // 
             // label130
             // 
@@ -11486,25 +10254,6 @@
             this.CbBox_RaceWeatherSlot4Race6.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot4Race6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot4Race6.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot4Race6.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot4Race6.Location = new System.Drawing.Point(54, 150);
             this.CbBox_RaceWeatherSlot4Race6.Name = "CbBox_RaceWeatherSlot4Race6";
             this.CbBox_RaceWeatherSlot4Race6.Size = new System.Drawing.Size(121, 21);
@@ -11540,25 +10289,6 @@
             this.CbBox_RaceWeatherSlot3Race6.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot3Race6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot3Race6.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot3Race6.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot3Race6.Location = new System.Drawing.Point(54, 124);
             this.CbBox_RaceWeatherSlot3Race6.Name = "CbBox_RaceWeatherSlot3Race6";
             this.CbBox_RaceWeatherSlot3Race6.Size = new System.Drawing.Size(121, 21);
@@ -11592,25 +10322,6 @@
             this.CbBox_RaceWeatherSlot1Race6.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot1Race6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot1Race6.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot1Race6.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot1Race6.Location = new System.Drawing.Point(53, 72);
             this.CbBox_RaceWeatherSlot1Race6.Name = "CbBox_RaceWeatherSlot1Race6";
             this.CbBox_RaceWeatherSlot1Race6.Size = new System.Drawing.Size(121, 21);
@@ -11622,25 +10333,6 @@
             this.CbBox_RaceWeatherSlot2Race6.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot2Race6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot2Race6.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot2Race6.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot2Race6.Location = new System.Drawing.Point(54, 98);
             this.CbBox_RaceWeatherSlot2Race6.Name = "CbBox_RaceWeatherSlot2Race6";
             this.CbBox_RaceWeatherSlot2Race6.Size = new System.Drawing.Size(121, 21);
@@ -11678,25 +10370,6 @@
             this.CbBox_QualifWeatherSlot4Race6.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot4Race6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot4Race6.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot4Race6.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot4Race6.Location = new System.Drawing.Point(54, 150);
             this.CbBox_QualifWeatherSlot4Race6.Name = "CbBox_QualifWeatherSlot4Race6";
             this.CbBox_QualifWeatherSlot4Race6.Size = new System.Drawing.Size(121, 21);
@@ -11732,25 +10405,6 @@
             this.CbBox_QualifWeatherSlot3Race6.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot3Race6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot3Race6.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot3Race6.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot3Race6.Location = new System.Drawing.Point(54, 124);
             this.CbBox_QualifWeatherSlot3Race6.Name = "CbBox_QualifWeatherSlot3Race6";
             this.CbBox_QualifWeatherSlot3Race6.Size = new System.Drawing.Size(121, 21);
@@ -11784,25 +10438,6 @@
             this.CbBox_QualifWeatherSlot1Race6.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot1Race6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot1Race6.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot1Race6.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot1Race6.Location = new System.Drawing.Point(53, 72);
             this.CbBox_QualifWeatherSlot1Race6.Name = "CbBox_QualifWeatherSlot1Race6";
             this.CbBox_QualifWeatherSlot1Race6.Size = new System.Drawing.Size(121, 21);
@@ -11814,25 +10449,6 @@
             this.CbBox_QualifWeatherSlot2Race6.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot2Race6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot2Race6.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot2Race6.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot2Race6.Location = new System.Drawing.Point(54, 98);
             this.CbBox_QualifWeatherSlot2Race6.Name = "CbBox_QualifWeatherSlot2Race6";
             this.CbBox_QualifWeatherSlot2Race6.Size = new System.Drawing.Size(121, 21);
@@ -11870,25 +10486,6 @@
             this.CbBox_PracticeWeatherSlot4Race6.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot4Race6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot4Race6.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot4Race6.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot4Race6.Location = new System.Drawing.Point(54, 150);
             this.CbBox_PracticeWeatherSlot4Race6.Name = "CbBox_PracticeWeatherSlot4Race6";
             this.CbBox_PracticeWeatherSlot4Race6.Size = new System.Drawing.Size(121, 21);
@@ -11976,25 +10573,6 @@
             this.CbBox_PracticeWeatherSlot1Race6.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot1Race6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot1Race6.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot1Race6.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot1Race6.Location = new System.Drawing.Point(53, 72);
             this.CbBox_PracticeWeatherSlot1Race6.Name = "CbBox_PracticeWeatherSlot1Race6";
             this.CbBox_PracticeWeatherSlot1Race6.Size = new System.Drawing.Size(121, 21);
@@ -12006,25 +10584,6 @@
             this.CbBox_PracticeWeatherSlot2Race6.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot2Race6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot2Race6.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot2Race6.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot2Race6.Location = new System.Drawing.Point(54, 98);
             this.CbBox_PracticeWeatherSlot2Race6.Name = "CbBox_PracticeWeatherSlot2Race6";
             this.CbBox_PracticeWeatherSlot2Race6.Size = new System.Drawing.Size(121, 21);
@@ -13266,14 +11825,12 @@
             this.CbBox_AllowedViewsRace7.DisplayMember = "Traduction";
             this.CbBox_AllowedViewsRace7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_AllowedViewsRace7.FormattingEnabled = true;
-            this.CbBox_AllowedViewsRace7.Items.AddRange(new object[] {
-            "Toutes",
-            "Cockpit"});
             this.CbBox_AllowedViewsRace7.Location = new System.Drawing.Point(103, 100);
             this.CbBox_AllowedViewsRace7.Name = "CbBox_AllowedViewsRace7";
             this.CbBox_AllowedViewsRace7.Size = new System.Drawing.Size(139, 21);
             this.CbBox_AllowedViewsRace7.TabIndex = 49;
             this.CbBox_AllowedViewsRace7.ValueMember = "name";
+            this.CbBox_AllowedViewsRace7.SelectedIndexChanged += new System.EventHandler(this.CbBox_AllowedViewsRace7_SelectedIndexChanged);
             // 
             // label131
             // 
@@ -13289,15 +11846,12 @@
             this.CbBox_FuelUsageRace7.DisplayMember = "Traduction";
             this.CbBox_FuelUsageRace7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_FuelUsageRace7.FormattingEnabled = true;
-            this.CbBox_FuelUsageRace7.Items.AddRange(new object[] {
-            "Normale",
-            "Lente",
-            "Non"});
             this.CbBox_FuelUsageRace7.Location = new System.Drawing.Point(103, 73);
             this.CbBox_FuelUsageRace7.Name = "CbBox_FuelUsageRace7";
             this.CbBox_FuelUsageRace7.Size = new System.Drawing.Size(139, 21);
             this.CbBox_FuelUsageRace7.TabIndex = 48;
             this.CbBox_FuelUsageRace7.ValueMember = "name";
+            this.CbBox_FuelUsageRace7.SelectedIndexChanged += new System.EventHandler(this.CbBox_FuelUsageRace7_SelectedIndexChanged);
             // 
             // label132
             // 
@@ -13313,21 +11867,12 @@
             this.CbBox_TireWearRace7.DisplayMember = "Traduction";
             this.CbBox_TireWearRace7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_TireWearRace7.FormattingEnabled = true;
-            this.CbBox_TireWearRace7.Items.AddRange(new object[] {
-            "X7",
-            "X6",
-            "X5",
-            "X4",
-            "X3",
-            "X2",
-            "Normal",
-            "Lent",
-            "Non"});
             this.CbBox_TireWearRace7.Location = new System.Drawing.Point(103, 45);
             this.CbBox_TireWearRace7.Name = "CbBox_TireWearRace7";
             this.CbBox_TireWearRace7.Size = new System.Drawing.Size(139, 21);
             this.CbBox_TireWearRace7.TabIndex = 47;
             this.CbBox_TireWearRace7.ValueMember = "name";
+            this.CbBox_TireWearRace7.SelectedIndexChanged += new System.EventHandler(this.CbBox_TireWearRace7_SelectedIndexChanged);
             // 
             // label133
             // 
@@ -13343,16 +11888,12 @@
             this.CbBox_DamageTypeRace7.DisplayMember = "Traduction";
             this.CbBox_DamageTypeRace7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_DamageTypeRace7.FormattingEnabled = true;
-            this.CbBox_DamageTypeRace7.Items.AddRange(new object[] {
-            "Non",
-            "Visuel Uniquement",
-            "Impact sur les performances",
-            "Complet"});
             this.CbBox_DamageTypeRace7.Location = new System.Drawing.Point(103, 17);
             this.CbBox_DamageTypeRace7.Name = "CbBox_DamageTypeRace7";
             this.CbBox_DamageTypeRace7.Size = new System.Drawing.Size(139, 21);
             this.CbBox_DamageTypeRace7.TabIndex = 46;
             this.CbBox_DamageTypeRace7.ValueMember = "name";
+            this.CbBox_DamageTypeRace7.SelectedIndexChanged += new System.EventHandler(this.CbBox_DamageTypeRace7_SelectedIndexChanged);
             // 
             // label134
             // 
@@ -13385,25 +11926,6 @@
             this.CbBox_RaceWeatherSlot4Race7.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot4Race7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot4Race7.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot4Race7.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot4Race7.Location = new System.Drawing.Point(54, 150);
             this.CbBox_RaceWeatherSlot4Race7.Name = "CbBox_RaceWeatherSlot4Race7";
             this.CbBox_RaceWeatherSlot4Race7.Size = new System.Drawing.Size(121, 21);
@@ -13439,25 +11961,6 @@
             this.CbBox_RaceWeatherSlot3Race7.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot3Race7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot3Race7.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot3Race7.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot3Race7.Location = new System.Drawing.Point(54, 124);
             this.CbBox_RaceWeatherSlot3Race7.Name = "CbBox_RaceWeatherSlot3Race7";
             this.CbBox_RaceWeatherSlot3Race7.Size = new System.Drawing.Size(121, 21);
@@ -13491,25 +11994,6 @@
             this.CbBox_RaceWeatherSlot1Race7.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot1Race7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot1Race7.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot1Race7.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot1Race7.Location = new System.Drawing.Point(53, 72);
             this.CbBox_RaceWeatherSlot1Race7.Name = "CbBox_RaceWeatherSlot1Race7";
             this.CbBox_RaceWeatherSlot1Race7.Size = new System.Drawing.Size(121, 21);
@@ -13521,25 +12005,6 @@
             this.CbBox_RaceWeatherSlot2Race7.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot2Race7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot2Race7.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot2Race7.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot2Race7.Location = new System.Drawing.Point(54, 98);
             this.CbBox_RaceWeatherSlot2Race7.Name = "CbBox_RaceWeatherSlot2Race7";
             this.CbBox_RaceWeatherSlot2Race7.Size = new System.Drawing.Size(121, 21);
@@ -13577,25 +12042,6 @@
             this.CbBox_QualifWeatherSlot4Race7.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot4Race7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot4Race7.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot4Race7.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot4Race7.Location = new System.Drawing.Point(54, 150);
             this.CbBox_QualifWeatherSlot4Race7.Name = "CbBox_QualifWeatherSlot4Race7";
             this.CbBox_QualifWeatherSlot4Race7.Size = new System.Drawing.Size(121, 21);
@@ -13631,25 +12077,6 @@
             this.CbBox_QualifWeatherSlot3Race7.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot3Race7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot3Race7.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot3Race7.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot3Race7.Location = new System.Drawing.Point(54, 124);
             this.CbBox_QualifWeatherSlot3Race7.Name = "CbBox_QualifWeatherSlot3Race7";
             this.CbBox_QualifWeatherSlot3Race7.Size = new System.Drawing.Size(121, 21);
@@ -13683,25 +12110,6 @@
             this.CbBox_QualifWeatherSlot1Race7.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot1Race7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot1Race7.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot1Race7.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot1Race7.Location = new System.Drawing.Point(53, 72);
             this.CbBox_QualifWeatherSlot1Race7.Name = "CbBox_QualifWeatherSlot1Race7";
             this.CbBox_QualifWeatherSlot1Race7.Size = new System.Drawing.Size(121, 21);
@@ -13713,25 +12121,6 @@
             this.CbBox_QualifWeatherSlot2Race7.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot2Race7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot2Race7.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot2Race7.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot2Race7.Location = new System.Drawing.Point(54, 98);
             this.CbBox_QualifWeatherSlot2Race7.Name = "CbBox_QualifWeatherSlot2Race7";
             this.CbBox_QualifWeatherSlot2Race7.Size = new System.Drawing.Size(121, 21);
@@ -13769,25 +12158,6 @@
             this.CbBox_PracticeWeatherSlot4Race7.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot4Race7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot4Race7.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot4Race7.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot4Race7.Location = new System.Drawing.Point(54, 150);
             this.CbBox_PracticeWeatherSlot4Race7.Name = "CbBox_PracticeWeatherSlot4Race7";
             this.CbBox_PracticeWeatherSlot4Race7.Size = new System.Drawing.Size(121, 21);
@@ -13823,25 +12193,6 @@
             this.CbBox_PracticeWeatherSlot3Race7.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot3Race7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot3Race7.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot3Race7.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot3Race7.Location = new System.Drawing.Point(54, 124);
             this.CbBox_PracticeWeatherSlot3Race7.Name = "CbBox_PracticeWeatherSlot3Race7";
             this.CbBox_PracticeWeatherSlot3Race7.Size = new System.Drawing.Size(121, 21);
@@ -13875,25 +12226,6 @@
             this.CbBox_PracticeWeatherSlot1Race7.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot1Race7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot1Race7.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot1Race7.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot1Race7.Location = new System.Drawing.Point(53, 72);
             this.CbBox_PracticeWeatherSlot1Race7.Name = "CbBox_PracticeWeatherSlot1Race7";
             this.CbBox_PracticeWeatherSlot1Race7.Size = new System.Drawing.Size(121, 21);
@@ -13905,25 +12237,6 @@
             this.CbBox_PracticeWeatherSlot2Race7.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot2Race7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot2Race7.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot2Race7.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot2Race7.Location = new System.Drawing.Point(54, 98);
             this.CbBox_PracticeWeatherSlot2Race7.Name = "CbBox_PracticeWeatherSlot2Race7";
             this.CbBox_PracticeWeatherSlot2Race7.Size = new System.Drawing.Size(121, 21);
@@ -15164,14 +13477,12 @@
             this.CbBox_AllowedViewsRace8.DisplayMember = "Traduction";
             this.CbBox_AllowedViewsRace8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_AllowedViewsRace8.FormattingEnabled = true;
-            this.CbBox_AllowedViewsRace8.Items.AddRange(new object[] {
-            "Toutes",
-            "Cockpit"});
             this.CbBox_AllowedViewsRace8.Location = new System.Drawing.Point(103, 100);
             this.CbBox_AllowedViewsRace8.Name = "CbBox_AllowedViewsRace8";
             this.CbBox_AllowedViewsRace8.Size = new System.Drawing.Size(139, 21);
             this.CbBox_AllowedViewsRace8.TabIndex = 49;
             this.CbBox_AllowedViewsRace8.ValueMember = "name";
+            this.CbBox_AllowedViewsRace8.SelectedIndexChanged += new System.EventHandler(this.CbBox_AllowedViewsRace8_SelectedIndexChanged);
             // 
             // label135
             // 
@@ -15187,15 +13498,12 @@
             this.CbBox_FuelUsageRace8.DisplayMember = "Traduction";
             this.CbBox_FuelUsageRace8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_FuelUsageRace8.FormattingEnabled = true;
-            this.CbBox_FuelUsageRace8.Items.AddRange(new object[] {
-            "Normale",
-            "Lente",
-            "Non"});
             this.CbBox_FuelUsageRace8.Location = new System.Drawing.Point(103, 73);
             this.CbBox_FuelUsageRace8.Name = "CbBox_FuelUsageRace8";
             this.CbBox_FuelUsageRace8.Size = new System.Drawing.Size(139, 21);
             this.CbBox_FuelUsageRace8.TabIndex = 48;
             this.CbBox_FuelUsageRace8.ValueMember = "name";
+            this.CbBox_FuelUsageRace8.SelectedIndexChanged += new System.EventHandler(this.CbBox_FuelUsageRace8_SelectedIndexChanged);
             // 
             // label136
             // 
@@ -15211,21 +13519,12 @@
             this.CbBox_TireWearRace8.DisplayMember = "Traduction";
             this.CbBox_TireWearRace8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_TireWearRace8.FormattingEnabled = true;
-            this.CbBox_TireWearRace8.Items.AddRange(new object[] {
-            "X7",
-            "X6",
-            "X5",
-            "X4",
-            "X3",
-            "X2",
-            "Normal",
-            "Lent",
-            "Non"});
             this.CbBox_TireWearRace8.Location = new System.Drawing.Point(103, 45);
             this.CbBox_TireWearRace8.Name = "CbBox_TireWearRace8";
             this.CbBox_TireWearRace8.Size = new System.Drawing.Size(139, 21);
             this.CbBox_TireWearRace8.TabIndex = 47;
             this.CbBox_TireWearRace8.ValueMember = "name";
+            this.CbBox_TireWearRace8.SelectedIndexChanged += new System.EventHandler(this.CbBox_TireWearRace8_SelectedIndexChanged);
             // 
             // label137
             // 
@@ -15241,16 +13540,12 @@
             this.CbBox_DamageTypeRace8.DisplayMember = "Traduction";
             this.CbBox_DamageTypeRace8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_DamageTypeRace8.FormattingEnabled = true;
-            this.CbBox_DamageTypeRace8.Items.AddRange(new object[] {
-            "Non",
-            "Visuel Uniquement",
-            "Impact sur les performances",
-            "Complet"});
             this.CbBox_DamageTypeRace8.Location = new System.Drawing.Point(103, 17);
             this.CbBox_DamageTypeRace8.Name = "CbBox_DamageTypeRace8";
             this.CbBox_DamageTypeRace8.Size = new System.Drawing.Size(139, 21);
             this.CbBox_DamageTypeRace8.TabIndex = 46;
             this.CbBox_DamageTypeRace8.ValueMember = "name";
+            this.CbBox_DamageTypeRace8.SelectedIndexChanged += new System.EventHandler(this.CbBox_DamageTypeRace8_SelectedIndexChanged);
             // 
             // label138
             // 
@@ -15283,25 +13578,6 @@
             this.CbBox_RaceWeatherSlot4Race8.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot4Race8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot4Race8.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot4Race8.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot4Race8.Location = new System.Drawing.Point(54, 150);
             this.CbBox_RaceWeatherSlot4Race8.Name = "CbBox_RaceWeatherSlot4Race8";
             this.CbBox_RaceWeatherSlot4Race8.Size = new System.Drawing.Size(121, 21);
@@ -15337,25 +13613,6 @@
             this.CbBox_RaceWeatherSlot3Race8.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot3Race8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot3Race8.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot3Race8.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot3Race8.Location = new System.Drawing.Point(54, 124);
             this.CbBox_RaceWeatherSlot3Race8.Name = "CbBox_RaceWeatherSlot3Race8";
             this.CbBox_RaceWeatherSlot3Race8.Size = new System.Drawing.Size(121, 21);
@@ -15389,25 +13646,6 @@
             this.CbBox_RaceWeatherSlot1Race8.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot1Race8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot1Race8.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot1Race8.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot1Race8.Location = new System.Drawing.Point(53, 72);
             this.CbBox_RaceWeatherSlot1Race8.Name = "CbBox_RaceWeatherSlot1Race8";
             this.CbBox_RaceWeatherSlot1Race8.Size = new System.Drawing.Size(121, 21);
@@ -15419,25 +13657,6 @@
             this.CbBox_RaceWeatherSlot2Race8.DisplayMember = "Traduction";
             this.CbBox_RaceWeatherSlot2Race8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_RaceWeatherSlot2Race8.FormattingEnabled = true;
-            this.CbBox_RaceWeatherSlot2Race8.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_RaceWeatherSlot2Race8.Location = new System.Drawing.Point(54, 98);
             this.CbBox_RaceWeatherSlot2Race8.Name = "CbBox_RaceWeatherSlot2Race8";
             this.CbBox_RaceWeatherSlot2Race8.Size = new System.Drawing.Size(121, 21);
@@ -15475,25 +13694,6 @@
             this.CbBox_QualifWeatherSlot4Race8.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot4Race8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot4Race8.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot4Race8.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot4Race8.Location = new System.Drawing.Point(54, 150);
             this.CbBox_QualifWeatherSlot4Race8.Name = "CbBox_QualifWeatherSlot4Race8";
             this.CbBox_QualifWeatherSlot4Race8.Size = new System.Drawing.Size(121, 21);
@@ -15529,25 +13729,6 @@
             this.CbBox_QualifWeatherSlot3Race8.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot3Race8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot3Race8.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot3Race8.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot3Race8.Location = new System.Drawing.Point(54, 124);
             this.CbBox_QualifWeatherSlot3Race8.Name = "CbBox_QualifWeatherSlot3Race8";
             this.CbBox_QualifWeatherSlot3Race8.Size = new System.Drawing.Size(121, 21);
@@ -15581,25 +13762,6 @@
             this.CbBox_QualifWeatherSlot1Race8.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot1Race8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot1Race8.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot1Race8.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot1Race8.Location = new System.Drawing.Point(53, 72);
             this.CbBox_QualifWeatherSlot1Race8.Name = "CbBox_QualifWeatherSlot1Race8";
             this.CbBox_QualifWeatherSlot1Race8.Size = new System.Drawing.Size(121, 21);
@@ -15611,25 +13773,6 @@
             this.CbBox_QualifWeatherSlot2Race8.DisplayMember = "Traduction";
             this.CbBox_QualifWeatherSlot2Race8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_QualifWeatherSlot2Race8.FormattingEnabled = true;
-            this.CbBox_QualifWeatherSlot2Race8.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_QualifWeatherSlot2Race8.Location = new System.Drawing.Point(54, 98);
             this.CbBox_QualifWeatherSlot2Race8.Name = "CbBox_QualifWeatherSlot2Race8";
             this.CbBox_QualifWeatherSlot2Race8.Size = new System.Drawing.Size(121, 21);
@@ -15667,25 +13810,6 @@
             this.CbBox_PracticeWeatherSlot4Race8.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot4Race8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot4Race8.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot4Race8.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot4Race8.Location = new System.Drawing.Point(54, 150);
             this.CbBox_PracticeWeatherSlot4Race8.Name = "CbBox_PracticeWeatherSlot4Race8";
             this.CbBox_PracticeWeatherSlot4Race8.Size = new System.Drawing.Size(121, 21);
@@ -15721,25 +13845,6 @@
             this.CbBox_PracticeWeatherSlot3Race8.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot3Race8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot3Race8.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot3Race8.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot3Race8.Location = new System.Drawing.Point(54, 124);
             this.CbBox_PracticeWeatherSlot3Race8.Name = "CbBox_PracticeWeatherSlot3Race8";
             this.CbBox_PracticeWeatherSlot3Race8.Size = new System.Drawing.Size(121, 21);
@@ -15773,25 +13878,6 @@
             this.CbBox_PracticeWeatherSlot1Race8.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot1Race8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot1Race8.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot1Race8.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot1Race8.Location = new System.Drawing.Point(53, 72);
             this.CbBox_PracticeWeatherSlot1Race8.Name = "CbBox_PracticeWeatherSlot1Race8";
             this.CbBox_PracticeWeatherSlot1Race8.Size = new System.Drawing.Size(121, 21);
@@ -15803,25 +13889,6 @@
             this.CbBox_PracticeWeatherSlot2Race8.DisplayMember = "Traduction";
             this.CbBox_PracticeWeatherSlot2Race8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CbBox_PracticeWeatherSlot2Race8.FormattingEnabled = true;
-            this.CbBox_PracticeWeatherSlot2Race8.Items.AddRange(new object[] {
-            "Dégagé",
-            "Legerement nuageux",
-            "Moyennement nuageux",
-            "Fortement nuageux",
-            "Fortement nuageux",
-            "Pluie légère",
-            "Pluie légère",
-            "Tempête",
-            "Orage",
-            "Neige",
-            "Tempête de neige",
-            "Blizzard",
-            "Brouillard",
-            "Brouillard avec pluie",
-            "Brouillard épais",
-            "B. épais avec pluie",
-            "Brumeux",
-            "Aléatoire"});
             this.CbBox_PracticeWeatherSlot2Race8.Location = new System.Drawing.Point(54, 98);
             this.CbBox_PracticeWeatherSlot2Race8.Name = "CbBox_PracticeWeatherSlot2Race8";
             this.CbBox_PracticeWeatherSlot2Race8.Size = new System.Drawing.Size(121, 21);
