@@ -173,6 +173,98 @@ namespace GuiServerPCars2V2._0
             rulesList.FillCbBoxRaceWeatherSlot4Race7();
             rulesList.FillCbBoxRaceWeatherSlot4Race8();
 
+            PracticeWeatherSlot1Race2();
+            PracticeWeatherSlot2Race2();
+            PracticeWeatherSlot3Race2();
+            PracticeWeatherSlot4Race2();
+            QualifyWeatherSlot1Race2();
+            QualifyWeatherSlot2Race2();
+            QualifyWeatherSlot3Race2();
+            QualifyWeatherSlot4Race2();
+            RaceWeatherSlot1Race2();
+            RaceWeatherSlot2Race2();
+            RaceWeatherSlot3Race2();
+            RaceWeatherSlot4Race2();
+
+            PracticeWeatherSlot1Race3();
+            PracticeWeatherSlot2Race3();
+            PracticeWeatherSlot3Race3();
+            PracticeWeatherSlot4Race3();
+            QualifyWeatherSlot1Race3();
+            QualifyWeatherSlot2Race3();
+            QualifyWeatherSlot3Race3();
+            QualifyWeatherSlot4Race3();
+            RaceWeatherSlot1Race3();
+            RaceWeatherSlot2Race3();
+            RaceWeatherSlot3Race3();
+            RaceWeatherSlot4Race3();
+
+            PracticeWeatherSlot1Race4();
+            PracticeWeatherSlot2Race4();
+            PracticeWeatherSlot3Race4();
+            PracticeWeatherSlot4Race4();
+            QualifyWeatherSlot1Race4();
+            QualifyWeatherSlot2Race4();
+            QualifyWeatherSlot3Race4();
+            QualifyWeatherSlot4Race4();
+            RaceWeatherSlot1Race4();
+            RaceWeatherSlot2Race4();
+            RaceWeatherSlot3Race4();
+            RaceWeatherSlot4Race4();
+
+            PracticeWeatherSlot1Race5();
+            PracticeWeatherSlot2Race5();
+            PracticeWeatherSlot3Race5();
+            PracticeWeatherSlot4Race5();
+            QualifyWeatherSlot1Race5();
+            QualifyWeatherSlot2Race5();
+            QualifyWeatherSlot3Race5();
+            QualifyWeatherSlot4Race5();
+            RaceWeatherSlot1Race5();
+            RaceWeatherSlot2Race5();
+            RaceWeatherSlot3Race5();
+            RaceWeatherSlot4Race5();
+
+            PracticeWeatherSlot1Race6();
+            PracticeWeatherSlot2Race6();
+            PracticeWeatherSlot3Race6();
+            PracticeWeatherSlot4Race6();
+            QualifyWeatherSlot1Race6();
+            QualifyWeatherSlot2Race6();
+            QualifyWeatherSlot3Race6();
+            QualifyWeatherSlot4Race6();
+            RaceWeatherSlot1Race6();
+            RaceWeatherSlot2Race6();
+            RaceWeatherSlot3Race6();
+            RaceWeatherSlot4Race6();
+
+            PracticeWeatherSlot1Race7();
+            PracticeWeatherSlot2Race7();
+            PracticeWeatherSlot3Race7();
+            PracticeWeatherSlot4Race7();
+            QualifyWeatherSlot1Race7();
+            QualifyWeatherSlot2Race7();
+            QualifyWeatherSlot3Race7();
+            QualifyWeatherSlot4Race7();
+            RaceWeatherSlot1Race7();
+            RaceWeatherSlot2Race7();
+            RaceWeatherSlot3Race7();
+            RaceWeatherSlot4Race7();
+
+            PracticeWeatherSlot1Race8();
+            PracticeWeatherSlot2Race8();
+            PracticeWeatherSlot3Race8();
+            PracticeWeatherSlot4Race8();
+            QualifyWeatherSlot1Race8();
+            QualifyWeatherSlot2Race8();
+            QualifyWeatherSlot3Race8();
+            QualifyWeatherSlot4Race8();
+            RaceWeatherSlot1Race8();
+            RaceWeatherSlot2Race8();
+            RaceWeatherSlot3Race8();
+            RaceWeatherSlot4Race8();
+
+
         }
 
 

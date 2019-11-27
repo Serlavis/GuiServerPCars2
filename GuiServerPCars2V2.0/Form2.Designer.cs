@@ -75,7 +75,7 @@
             this.TabControl = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.GrpBox_Race1 = new System.Windows.Forms.GroupBox();
-            this.groupBox_Rules = new System.Windows.Forms.GroupBox();
+            this.GroupBox_RulesRace1 = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace1 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace1 = new System.Windows.Forms.CheckBox();
             this.CheckBox_pitStopErrorsRace1 = new System.Windows.Forms.CheckBox();
@@ -175,7 +175,7 @@
             this.RadioButton_Race1CarByClass = new System.Windows.Forms.RadioButton();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.GrpBox_Race2 = new System.Windows.Forms.GroupBox();
-            this.groupBox9 = new System.Windows.Forms.GroupBox();
+            this.GroupBox_RulesRace2 = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace2 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace2 = new System.Windows.Forms.CheckBox();
             this.CheckBox_pitStopErrorsRace2 = new System.Windows.Forms.CheckBox();
@@ -272,7 +272,7 @@
             this.CbBox_Race2Tracks = new System.Windows.Forms.ComboBox();
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.GrpBox_Race3 = new System.Windows.Forms.GroupBox();
-            this.groupBox11 = new System.Windows.Forms.GroupBox();
+            this.GroupBox_RulesRace3 = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace3 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace3 = new System.Windows.Forms.CheckBox();
             this.CheckBox_pitStopErrorsRace3 = new System.Windows.Forms.CheckBox();
@@ -369,7 +369,7 @@
             this.CbBox_Race3Tracks = new System.Windows.Forms.ComboBox();
             this.tabPage4 = new System.Windows.Forms.TabPage();
             this.GrpBox_Race4 = new System.Windows.Forms.GroupBox();
-            this.groupBox13 = new System.Windows.Forms.GroupBox();
+            this.GroupBox_RulesRace4 = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace4 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace4 = new System.Windows.Forms.CheckBox();
             this.CheckBox_pitStopErrorsRace4 = new System.Windows.Forms.CheckBox();
@@ -466,7 +466,7 @@
             this.CbBox_Race4Tracks = new System.Windows.Forms.ComboBox();
             this.tabPage5 = new System.Windows.Forms.TabPage();
             this.GrpBox_Race5 = new System.Windows.Forms.GroupBox();
-            this.groupBox15 = new System.Windows.Forms.GroupBox();
+            this.GroupBox_RulesRace5 = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace5 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace5 = new System.Windows.Forms.CheckBox();
             this.CheckBox_pitStopErrorsRace5 = new System.Windows.Forms.CheckBox();
@@ -563,7 +563,7 @@
             this.CbBox_Race5Tracks = new System.Windows.Forms.ComboBox();
             this.tabPage6 = new System.Windows.Forms.TabPage();
             this.GrpBox_Race6 = new System.Windows.Forms.GroupBox();
-            this.groupBox17 = new System.Windows.Forms.GroupBox();
+            this.GroupBox_RulesRace6 = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace6 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace6 = new System.Windows.Forms.CheckBox();
             this.CheckBox_pitStopErrorsRace6 = new System.Windows.Forms.CheckBox();
@@ -660,7 +660,7 @@
             this.CbBox_Race6Tracks = new System.Windows.Forms.ComboBox();
             this.tabPage7 = new System.Windows.Forms.TabPage();
             this.GrpBox_Race7 = new System.Windows.Forms.GroupBox();
-            this.groupBox19 = new System.Windows.Forms.GroupBox();
+            this.GroupBox_RulesRace7 = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace7 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace7 = new System.Windows.Forms.CheckBox();
             this.CheckBox_pitStopErrorsRace7 = new System.Windows.Forms.CheckBox();
@@ -757,7 +757,7 @@
             this.CbBox_Race7Tracks = new System.Windows.Forms.ComboBox();
             this.tabPage8 = new System.Windows.Forms.TabPage();
             this.GrpBox_Race8 = new System.Windows.Forms.GroupBox();
-            this.groupBox21 = new System.Windows.Forms.GroupBox();
+            this.GroupBox_RulesRace8 = new System.Windows.Forms.GroupBox();
             this.CheckBox_PenaltiesRace8 = new System.Windows.Forms.CheckBox();
             this.CheckBox_RankRace8 = new System.Windows.Forms.CheckBox();
             this.CheckBox_pitStopErrorsRace8 = new System.Windows.Forms.CheckBox();
@@ -864,7 +864,7 @@
             this.TabControl.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.GrpBox_Race1.SuspendLayout();
-            this.groupBox_Rules.SuspendLayout();
+            this.GroupBox_RulesRace1.SuspendLayout();
             this.GrpBox_WeatherRace1.SuspendLayout();
             this.GrpBox_QualifyWeatherRace1.SuspendLayout();
             this.GrpBox_PracticeWeatherRace1.SuspendLayout();
@@ -872,7 +872,7 @@
             this.groupBox_Race1TracksAndCars.SuspendLayout();
             this.tabPage2.SuspendLayout();
             this.GrpBox_Race2.SuspendLayout();
-            this.groupBox9.SuspendLayout();
+            this.GroupBox_RulesRace2.SuspendLayout();
             this.GrpBox_WeatherRace2.SuspendLayout();
             this.GrpBox_QualifyWeatherRace2.SuspendLayout();
             this.GrpBox_PracticeWeatherRace2.SuspendLayout();
@@ -880,7 +880,7 @@
             this.groupBox1.SuspendLayout();
             this.tabPage3.SuspendLayout();
             this.GrpBox_Race3.SuspendLayout();
-            this.groupBox11.SuspendLayout();
+            this.GroupBox_RulesRace3.SuspendLayout();
             this.GrpBox_WeatherRace3.SuspendLayout();
             this.GrpBox_QualifyWeatherRace3.SuspendLayout();
             this.GrpBox_PracticeWeatherRace3.SuspendLayout();
@@ -888,7 +888,7 @@
             this.groupBox2.SuspendLayout();
             this.tabPage4.SuspendLayout();
             this.GrpBox_Race4.SuspendLayout();
-            this.groupBox13.SuspendLayout();
+            this.GroupBox_RulesRace4.SuspendLayout();
             this.GrpBox_WeatherRace4.SuspendLayout();
             this.GrpBox_QualifyWeatherRace4.SuspendLayout();
             this.GrpBox_PracticeWeatherRace4.SuspendLayout();
@@ -896,7 +896,7 @@
             this.groupBox3.SuspendLayout();
             this.tabPage5.SuspendLayout();
             this.GrpBox_Race5.SuspendLayout();
-            this.groupBox15.SuspendLayout();
+            this.GroupBox_RulesRace5.SuspendLayout();
             this.GrpBox_WeatherRace5.SuspendLayout();
             this.GrpBox_QualifyWeatherRace5.SuspendLayout();
             this.GrpBox_PracticeWeatherRace5.SuspendLayout();
@@ -904,7 +904,7 @@
             this.groupBox4.SuspendLayout();
             this.tabPage6.SuspendLayout();
             this.GrpBox_Race6.SuspendLayout();
-            this.groupBox17.SuspendLayout();
+            this.GroupBox_RulesRace6.SuspendLayout();
             this.GrpBox_WeatherRace6.SuspendLayout();
             this.GrpBox_QualifyWeatherRace6.SuspendLayout();
             this.GrpBox_PracticeWeatherRace6.SuspendLayout();
@@ -912,7 +912,7 @@
             this.groupBox5.SuspendLayout();
             this.tabPage7.SuspendLayout();
             this.GrpBox_Race7.SuspendLayout();
-            this.groupBox19.SuspendLayout();
+            this.GroupBox_RulesRace7.SuspendLayout();
             this.GrpBox_WeatherRace7.SuspendLayout();
             this.GrpBox_QualifyWeatherRace7.SuspendLayout();
             this.GrpBox_PracticeWeatherRace7.SuspendLayout();
@@ -920,7 +920,7 @@
             this.groupBox6.SuspendLayout();
             this.tabPage8.SuspendLayout();
             this.GrpBox_Race8.SuspendLayout();
-            this.groupBox21.SuspendLayout();
+            this.GroupBox_RulesRace8.SuspendLayout();
             this.GrpBox_WeatherRace8.SuspendLayout();
             this.GrpBox_QualifyWeatherRace8.SuspendLayout();
             this.GrpBox_PracticeWeatherRace8.SuspendLayout();
@@ -1438,7 +1438,6 @@
             this.TabControl.SelectedIndex = 0;
             this.TabControl.Size = new System.Drawing.Size(1271, 493);
             this.TabControl.TabIndex = 149;
-            this.TabControl.Validating += new System.ComponentModel.CancelEventHandler(this.TabControl_Validating);
             // 
             // tabPage1
             // 
@@ -1455,7 +1454,7 @@
             // GrpBox_Race1
             // 
             this.GrpBox_Race1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.GrpBox_Race1.Controls.Add(this.groupBox_Rules);
+            this.GrpBox_Race1.Controls.Add(this.GroupBox_RulesRace1);
             this.GrpBox_Race1.Controls.Add(this.GrpBox_WeatherRace1);
             this.GrpBox_Race1.Controls.Add(this.GrpBox_QualifyWeatherRace1);
             this.GrpBox_Race1.Controls.Add(this.GrpBox_PracticeWeatherRace1);
@@ -1467,52 +1466,52 @@
             this.GrpBox_Race1.TabStop = false;
             this.GrpBox_Race1.Text = "Jour de course";
             // 
-            // groupBox_Rules
+            // GroupBox_RulesRace1
             // 
-            this.groupBox_Rules.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.groupBox_Rules.Controls.Add(this.CheckBox_PenaltiesRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_RankRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_pitStopErrorsRace1);
-            this.groupBox_Rules.Controls.Add(this.TxtBox_RankRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_PitSpeedLimiterRace1);
-            this.groupBox_Rules.Controls.Add(this.CbBox_RankRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_RaceDirectorRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_WaitForRaceReadyRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_MechanicalFailuresRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_BroadCasterRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_RealisticAidsRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_TcsAllowedRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_ScAllowedRace1);
-            this.groupBox_Rules.Controls.Add(this.CbBox_PenaltyTimeRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_CustomSetupRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_ForceManualRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_AbsAllowedRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_ManualPitStopRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_RaceFormationLapRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_CoolDownLapRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_ManualRollingStartsRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_DisableDriveLineRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_FillSessionWithAiRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_DriveThroughPenaltyRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_AutoStartEngineRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_RaceRollingStartRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_PitLinePenaltyRace1);
-            this.groupBox_Rules.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace1);
-            this.groupBox_Rules.Controls.Add(this.CbBox_AllowedViewsRace1);
-            this.groupBox_Rules.Controls.Add(this.label108);
-            this.groupBox_Rules.Controls.Add(this.CbBox_FuelUsageRace1);
-            this.groupBox_Rules.Controls.Add(this.label110);
-            this.groupBox_Rules.Controls.Add(this.CbBox_TireWearRace1);
-            this.groupBox_Rules.Controls.Add(this.label111);
-            this.groupBox_Rules.Controls.Add(this.CbBox_DamageTypeRace1);
-            this.groupBox_Rules.Controls.Add(this.label112);
-            this.groupBox_Rules.Location = new System.Drawing.Point(6, 222);
-            this.groupBox_Rules.Name = "groupBox_Rules";
-            this.groupBox_Rules.Size = new System.Drawing.Size(938, 232);
-            this.groupBox_Rules.TabIndex = 51;
-            this.groupBox_Rules.TabStop = false;
-            this.groupBox_Rules.Text = "Règles";
+            this.GroupBox_RulesRace1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_PenaltiesRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_RankRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_pitStopErrorsRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.TxtBox_RankRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_PitSpeedLimiterRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CbBox_RankRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_RaceDirectorRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_WaitForRaceReadyRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_MechanicalFailuresRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_BroadCasterRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_RealisticAidsRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_TcsAllowedRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_ScAllowedRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CbBox_PenaltyTimeRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_CustomSetupRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_ForceManualRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_AbsAllowedRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_ManualPitStopRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_RaceFormationLapRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_CoolDownLapRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_ManualRollingStartsRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_DisableDriveLineRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_FillSessionWithAiRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_DriveThroughPenaltyRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_AutoStartEngineRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_RaceRollingStartRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_PitLinePenaltyRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.CbBox_AllowedViewsRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.label108);
+            this.GroupBox_RulesRace1.Controls.Add(this.CbBox_FuelUsageRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.label110);
+            this.GroupBox_RulesRace1.Controls.Add(this.CbBox_TireWearRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.label111);
+            this.GroupBox_RulesRace1.Controls.Add(this.CbBox_DamageTypeRace1);
+            this.GroupBox_RulesRace1.Controls.Add(this.label112);
+            this.GroupBox_RulesRace1.Location = new System.Drawing.Point(6, 222);
+            this.GroupBox_RulesRace1.Name = "GroupBox_RulesRace1";
+            this.GroupBox_RulesRace1.Size = new System.Drawing.Size(938, 232);
+            this.GroupBox_RulesRace1.TabIndex = 51;
+            this.GroupBox_RulesRace1.TabStop = false;
+            this.GroupBox_RulesRace1.Text = "Règles";
             // 
             // CheckBox_PenaltiesRace1
             // 
@@ -2612,7 +2611,6 @@
             this.CbBox_Race1Class4.Size = new System.Drawing.Size(248, 21);
             this.CbBox_Race1Class4.TabIndex = 83;
             this.CbBox_Race1Class4.Visible = false;
-            this.CbBox_Race1Class4.SelectionChangeCommitted += new System.EventHandler(this.CbBox_Race1Class4_SelectionChangeCommitted);
             // 
             // CbBox_Race1Cars
             // 
@@ -2858,7 +2856,6 @@
             this.CbBox_Race1Cars.Name = "CbBox_Race1Cars";
             this.CbBox_Race1Cars.Size = new System.Drawing.Size(248, 21);
             this.CbBox_Race1Cars.TabIndex = 59;
-            this.CbBox_Race1Cars.SelectionChangeCommitted += new System.EventHandler(this.CbBox_Race1Cars_SelectionChangeCommitted);
             // 
             // TxtBx_Race1MaxCars
             // 
@@ -2938,7 +2935,6 @@
             this.CbBox_Race1Class3.Size = new System.Drawing.Size(248, 21);
             this.CbBox_Race1Class3.TabIndex = 82;
             this.CbBox_Race1Class3.Visible = false;
-            this.CbBox_Race1Class3.SelectionChangeCommitted += new System.EventHandler(this.CbBox_Race1Class3_SelectionChangeCommitted);
             // 
             // TxtBx_Race1TracksID
             // 
@@ -3019,7 +3015,6 @@
             this.CbBox_Race1Class1.Size = new System.Drawing.Size(248, 21);
             this.CbBox_Race1Class1.TabIndex = 80;
             this.CbBox_Race1Class1.Visible = false;
-            this.CbBox_Race1Class1.SelectionChangeCommitted += new System.EventHandler(this.CbBox_Race1Class1_SelectionChangeCommitted);
             // 
             // CbBox_Race1Class2
             // 
@@ -3092,7 +3087,6 @@
             this.CbBox_Race1Class2.Size = new System.Drawing.Size(248, 21);
             this.CbBox_Race1Class2.TabIndex = 81;
             this.CbBox_Race1Class2.Visible = false;
-            this.CbBox_Race1Class2.SelectionChangeCommitted += new System.EventHandler(this.CbBox_Race1Class2_SelectionChangeCommitted);
             // 
             // CbBox_Race1Tracks
             // 
@@ -3168,7 +3162,7 @@
             // GrpBox_Race2
             // 
             this.GrpBox_Race2.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.GrpBox_Race2.Controls.Add(this.groupBox9);
+            this.GrpBox_Race2.Controls.Add(this.GroupBox_RulesRace2);
             this.GrpBox_Race2.Controls.Add(this.GrpBox_WeatherRace2);
             this.GrpBox_Race2.Controls.Add(this.GrpBox_QualifyWeatherRace2);
             this.GrpBox_Race2.Controls.Add(this.GrpBox_PracticeWeatherRace2);
@@ -3180,52 +3174,52 @@
             this.GrpBox_Race2.TabStop = false;
             this.GrpBox_Race2.Text = "Jour de course";
             // 
-            // groupBox9
+            // GroupBox_RulesRace2
             // 
-            this.groupBox9.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.groupBox9.Controls.Add(this.CheckBox_PenaltiesRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_RankRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_pitStopErrorsRace2);
-            this.groupBox9.Controls.Add(this.TxtBox_RankRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_PitSpeedLimiterRace2);
-            this.groupBox9.Controls.Add(this.CbBox_RankRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_RaceDirectorRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_WaitForRaceReadyRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_MechanicalFailuresRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_BroadCasterRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_RealisticAidsRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_TcsAllowedRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_ScAllowedRace2);
-            this.groupBox9.Controls.Add(this.CbBox_PenaltyTimeRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_CustomSetupRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_ForceManualRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_AbsAllowedRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_ManualPitStopRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_RaceFormationLapRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_CoolDownLapRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_ManualRollingStartsRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_DisableDriveLineRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_FillSessionWithAiRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_DriveThroughPenaltyRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_AutoStartEngineRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_RaceRollingStartRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_PitLinePenaltyRace2);
-            this.groupBox9.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace2);
-            this.groupBox9.Controls.Add(this.CbBox_AllowedViewsRace2);
-            this.groupBox9.Controls.Add(this.label107);
-            this.groupBox9.Controls.Add(this.CbBox_FuelUsageRace2);
-            this.groupBox9.Controls.Add(this.label109);
-            this.groupBox9.Controls.Add(this.CbBox_TireWearRace2);
-            this.groupBox9.Controls.Add(this.label113);
-            this.groupBox9.Controls.Add(this.CbBox_DamageTypeRace2);
-            this.groupBox9.Controls.Add(this.label114);
-            this.groupBox9.Location = new System.Drawing.Point(6, 222);
-            this.groupBox9.Name = "groupBox9";
-            this.groupBox9.Size = new System.Drawing.Size(938, 232);
-            this.groupBox9.TabIndex = 54;
-            this.groupBox9.TabStop = false;
-            this.groupBox9.Text = "Règles";
+            this.GroupBox_RulesRace2.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_PenaltiesRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_RankRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_pitStopErrorsRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.TxtBox_RankRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_PitSpeedLimiterRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CbBox_RankRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_RaceDirectorRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_WaitForRaceReadyRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_MechanicalFailuresRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_BroadCasterRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_RealisticAidsRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_TcsAllowedRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_ScAllowedRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CbBox_PenaltyTimeRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_CustomSetupRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_ForceManualRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_AbsAllowedRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_ManualPitStopRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_RaceFormationLapRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_CoolDownLapRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_ManualRollingStartsRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_DisableDriveLineRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_FillSessionWithAiRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_DriveThroughPenaltyRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_AutoStartEngineRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_RaceRollingStartRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_PitLinePenaltyRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.CbBox_AllowedViewsRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.label107);
+            this.GroupBox_RulesRace2.Controls.Add(this.CbBox_FuelUsageRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.label109);
+            this.GroupBox_RulesRace2.Controls.Add(this.CbBox_TireWearRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.label113);
+            this.GroupBox_RulesRace2.Controls.Add(this.CbBox_DamageTypeRace2);
+            this.GroupBox_RulesRace2.Controls.Add(this.label114);
+            this.GroupBox_RulesRace2.Location = new System.Drawing.Point(6, 222);
+            this.GroupBox_RulesRace2.Name = "GroupBox_RulesRace2";
+            this.GroupBox_RulesRace2.Size = new System.Drawing.Size(938, 232);
+            this.GroupBox_RulesRace2.TabIndex = 54;
+            this.GroupBox_RulesRace2.TabStop = false;
+            this.GroupBox_RulesRace2.Text = "Règles";
             // 
             // CheckBox_PenaltiesRace2
             // 
@@ -3647,6 +3641,7 @@
             this.CbBox_RaceWeatherSlot4Race2.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot4Race2.TabIndex = 57;
             this.CbBox_RaceWeatherSlot4Race2.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot4Race2.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot4Race2_SelectedIndexChanged);
             // 
             // label18
             // 
@@ -3682,6 +3677,7 @@
             this.CbBox_RaceWeatherSlot3Race2.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot3Race2.TabIndex = 56;
             this.CbBox_RaceWeatherSlot3Race2.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot3Race2.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot3Race2_SelectedIndexChanged);
             // 
             // CbBox_SpeedRaceWeatherRace2
             // 
@@ -3715,6 +3711,7 @@
             this.CbBox_RaceWeatherSlot1Race2.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot1Race2.TabIndex = 30;
             this.CbBox_RaceWeatherSlot1Race2.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot1Race2.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot1Race2_SelectedIndexChanged);
             // 
             // CbBox_RaceWeatherSlot2Race2
             // 
@@ -3726,6 +3723,7 @@
             this.CbBox_RaceWeatherSlot2Race2.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot2Race2.TabIndex = 55;
             this.CbBox_RaceWeatherSlot2Race2.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot2Race2.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot2Race2_SelectedIndexChanged);
             // 
             // label19
             // 
@@ -3763,6 +3761,7 @@
             this.CbBox_QualifWeatherSlot4Race2.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot4Race2.TabIndex = 57;
             this.CbBox_QualifWeatherSlot4Race2.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot4Race2.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot4Race2_SelectedIndexChanged);
             // 
             // label26
             // 
@@ -3798,6 +3797,7 @@
             this.CbBox_QualifWeatherSlot3Race2.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot3Race2.TabIndex = 56;
             this.CbBox_QualifWeatherSlot3Race2.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot3Race2.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot3Race2_SelectedIndexChanged);
             // 
             // CbBox_SpeedQualifWeatherRace2
             // 
@@ -3831,6 +3831,7 @@
             this.CbBox_QualifWeatherSlot1Race2.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot1Race2.TabIndex = 30;
             this.CbBox_QualifWeatherSlot1Race2.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot1Race2.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot1Race2_SelectedIndexChanged);
             // 
             // CbBox_QualifWeatherSlot2Race2
             // 
@@ -3842,6 +3843,7 @@
             this.CbBox_QualifWeatherSlot2Race2.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot2Race2.TabIndex = 55;
             this.CbBox_QualifWeatherSlot2Race2.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot2Race2.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot2Race2_SelectedIndexChanged);
             // 
             // label29
             // 
@@ -3879,6 +3881,7 @@
             this.CbBox_PracticeWeatherSlot4Race2.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot4Race2.TabIndex = 57;
             this.CbBox_PracticeWeatherSlot4Race2.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot4Race2.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot4Race2_SelectedIndexChanged);
             // 
             // label30
             // 
@@ -3914,6 +3917,7 @@
             this.CbBox_PracticeWeatherSlot3Race2.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot3Race2.TabIndex = 56;
             this.CbBox_PracticeWeatherSlot3Race2.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot3Race2.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot3Race2_SelectedIndexChanged);
             // 
             // CbBox_SpeedPratcticeWeatherRace2
             // 
@@ -3947,6 +3951,7 @@
             this.CbBox_PracticeWeatherSlot1Race2.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot1Race2.TabIndex = 30;
             this.CbBox_PracticeWeatherSlot1Race2.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot1Race2.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot1Race2_SelectedIndexChanged);
             // 
             // CbBox_PracticeWeatherSlot2Race2
             // 
@@ -3958,6 +3963,7 @@
             this.CbBox_PracticeWeatherSlot2Race2.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot2Race2.TabIndex = 55;
             this.CbBox_PracticeWeatherSlot2Race2.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot2Race2.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot2Race2_SelectedIndexChanged);
             // 
             // label31
             // 
@@ -4821,7 +4827,7 @@
             // GrpBox_Race3
             // 
             this.GrpBox_Race3.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.GrpBox_Race3.Controls.Add(this.groupBox11);
+            this.GrpBox_Race3.Controls.Add(this.GroupBox_RulesRace3);
             this.GrpBox_Race3.Controls.Add(this.GrpBox_WeatherRace3);
             this.GrpBox_Race3.Controls.Add(this.GrpBox_QualifyWeatherRace3);
             this.GrpBox_Race3.Controls.Add(this.GrpBox_PracticeWeatherRace3);
@@ -4833,52 +4839,52 @@
             this.GrpBox_Race3.TabStop = false;
             this.GrpBox_Race3.Text = "Jour de course";
             // 
-            // groupBox11
+            // GroupBox_RulesRace3
             // 
-            this.groupBox11.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.groupBox11.Controls.Add(this.CheckBox_PenaltiesRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_RankRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_pitStopErrorsRace3);
-            this.groupBox11.Controls.Add(this.TxtBox_RankRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_PitSpeedLimiterRace3);
-            this.groupBox11.Controls.Add(this.CbBox_RankRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_RaceDirectorRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_WaitForRaceReadyRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_MechanicalFailuresRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_BroadCasterRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_RealisticAidsRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_TcsAllowedRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_ScAllowedRace3);
-            this.groupBox11.Controls.Add(this.CbBox_PenaltyTimeRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_CustomSetupRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_ForceManualRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_AbsAllowedRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_ManualPitStopRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_RaceFormationLapRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_CoolDownLapRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_ManualRollingStartsRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_DisableDriveLineRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_FillSessionWithAiRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_DriveThroughPenaltyRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_AutoStartEngineRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_RaceRollingStartRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_PitLinePenaltyRace3);
-            this.groupBox11.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace3);
-            this.groupBox11.Controls.Add(this.CbBox_AllowedViewsRace3);
-            this.groupBox11.Controls.Add(this.label115);
-            this.groupBox11.Controls.Add(this.CbBox_FuelUsageRace3);
-            this.groupBox11.Controls.Add(this.label116);
-            this.groupBox11.Controls.Add(this.CbBox_TireWearRace3);
-            this.groupBox11.Controls.Add(this.label117);
-            this.groupBox11.Controls.Add(this.CbBox_DamageTypeRace3);
-            this.groupBox11.Controls.Add(this.label118);
-            this.groupBox11.Location = new System.Drawing.Point(6, 222);
-            this.groupBox11.Name = "groupBox11";
-            this.groupBox11.Size = new System.Drawing.Size(938, 232);
-            this.groupBox11.TabIndex = 54;
-            this.groupBox11.TabStop = false;
-            this.groupBox11.Text = "Règles";
+            this.GroupBox_RulesRace3.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_PenaltiesRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_RankRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_pitStopErrorsRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.TxtBox_RankRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_PitSpeedLimiterRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CbBox_RankRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_RaceDirectorRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_WaitForRaceReadyRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_MechanicalFailuresRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_BroadCasterRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_RealisticAidsRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_TcsAllowedRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_ScAllowedRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CbBox_PenaltyTimeRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_CustomSetupRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_ForceManualRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_AbsAllowedRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_ManualPitStopRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_RaceFormationLapRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_CoolDownLapRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_ManualRollingStartsRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_DisableDriveLineRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_FillSessionWithAiRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_DriveThroughPenaltyRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_AutoStartEngineRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_RaceRollingStartRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_PitLinePenaltyRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.CbBox_AllowedViewsRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.label115);
+            this.GroupBox_RulesRace3.Controls.Add(this.CbBox_FuelUsageRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.label116);
+            this.GroupBox_RulesRace3.Controls.Add(this.CbBox_TireWearRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.label117);
+            this.GroupBox_RulesRace3.Controls.Add(this.CbBox_DamageTypeRace3);
+            this.GroupBox_RulesRace3.Controls.Add(this.label118);
+            this.GroupBox_RulesRace3.Location = new System.Drawing.Point(6, 222);
+            this.GroupBox_RulesRace3.Name = "GroupBox_RulesRace3";
+            this.GroupBox_RulesRace3.Size = new System.Drawing.Size(938, 232);
+            this.GroupBox_RulesRace3.TabIndex = 54;
+            this.GroupBox_RulesRace3.TabStop = false;
+            this.GroupBox_RulesRace3.Text = "Règles";
             // 
             // CheckBox_PenaltiesRace3
             // 
@@ -5300,6 +5306,7 @@
             this.CbBox_RaceWeatherSlot4Race3.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot4Race3.TabIndex = 57;
             this.CbBox_RaceWeatherSlot4Race3.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot4Race3.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot4Race3_SelectedIndexChanged);
             // 
             // label34
             // 
@@ -5335,6 +5342,7 @@
             this.CbBox_RaceWeatherSlot3Race3.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot3Race3.TabIndex = 56;
             this.CbBox_RaceWeatherSlot3Race3.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot3Race3.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot3Race3_SelectedIndexChanged);
             // 
             // CbBox_SpeedRaceWeatherRace3
             // 
@@ -5368,6 +5376,7 @@
             this.CbBox_RaceWeatherSlot1Race3.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot1Race3.TabIndex = 30;
             this.CbBox_RaceWeatherSlot1Race3.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot1Race3.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot1Race3_SelectedIndexChanged);
             // 
             // CbBox_RaceWeatherSlot2Race3
             // 
@@ -5379,6 +5388,7 @@
             this.CbBox_RaceWeatherSlot2Race3.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot2Race3.TabIndex = 55;
             this.CbBox_RaceWeatherSlot2Race3.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot2Race3.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot2Race3_SelectedIndexChanged);
             // 
             // label35
             // 
@@ -5416,6 +5426,7 @@
             this.CbBox_QualifWeatherSlot4Race3.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot4Race3.TabIndex = 57;
             this.CbBox_QualifWeatherSlot4Race3.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot4Race3.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot4Race3_SelectedIndexChanged);
             // 
             // label44
             // 
@@ -5451,6 +5462,7 @@
             this.CbBox_QualifWeatherSlot3Race3.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot3Race3.TabIndex = 56;
             this.CbBox_QualifWeatherSlot3Race3.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot3Race3.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot3Race3_SelectedIndexChanged);
             // 
             // CbBox_SpeedQualifWeatherRace3
             // 
@@ -5484,6 +5496,7 @@
             this.CbBox_QualifWeatherSlot1Race3.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot1Race3.TabIndex = 30;
             this.CbBox_QualifWeatherSlot1Race3.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot1Race3.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot1Race3_SelectedIndexChanged);
             // 
             // CbBox_QualifWeatherSlot2Race3
             // 
@@ -5495,6 +5508,7 @@
             this.CbBox_QualifWeatherSlot2Race3.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot2Race3.TabIndex = 55;
             this.CbBox_QualifWeatherSlot2Race3.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot2Race3.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot2Race3_SelectedIndexChanged);
             // 
             // label45
             // 
@@ -5532,6 +5546,7 @@
             this.CbBox_PracticeWeatherSlot4Race3.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot4Race3.TabIndex = 57;
             this.CbBox_PracticeWeatherSlot4Race3.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot4Race3.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot4Race3_SelectedIndexChanged);
             // 
             // label49
             // 
@@ -5567,6 +5582,7 @@
             this.CbBox_PracticeWeatherSlot3Race3.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot3Race3.TabIndex = 56;
             this.CbBox_PracticeWeatherSlot3Race3.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot3Race3.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot3Race3_SelectedIndexChanged);
             // 
             // CbBox_SpeedPratcticeWeatherRace3
             // 
@@ -5600,6 +5616,7 @@
             this.CbBox_PracticeWeatherSlot1Race3.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot1Race3.TabIndex = 30;
             this.CbBox_PracticeWeatherSlot1Race3.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot1Race3.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot1Race3_SelectedIndexChanged);
             // 
             // CbBox_PracticeWeatherSlot2Race3
             // 
@@ -5611,6 +5628,7 @@
             this.CbBox_PracticeWeatherSlot2Race3.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot2Race3.TabIndex = 55;
             this.CbBox_PracticeWeatherSlot2Race3.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot2Race3.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot2Race3_SelectedIndexChanged);
             // 
             // label54
             // 
@@ -6474,7 +6492,7 @@
             // GrpBox_Race4
             // 
             this.GrpBox_Race4.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.GrpBox_Race4.Controls.Add(this.groupBox13);
+            this.GrpBox_Race4.Controls.Add(this.GroupBox_RulesRace4);
             this.GrpBox_Race4.Controls.Add(this.GrpBox_WeatherRace4);
             this.GrpBox_Race4.Controls.Add(this.GrpBox_QualifyWeatherRace4);
             this.GrpBox_Race4.Controls.Add(this.GrpBox_PracticeWeatherRace4);
@@ -6486,52 +6504,52 @@
             this.GrpBox_Race4.TabStop = false;
             this.GrpBox_Race4.Text = "Jour de course";
             // 
-            // groupBox13
+            // GroupBox_RulesRace4
             // 
-            this.groupBox13.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.groupBox13.Controls.Add(this.CheckBox_PenaltiesRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_RankRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_pitStopErrorsRace4);
-            this.groupBox13.Controls.Add(this.TxtBox_RankRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_PitSpeedLimiterRace4);
-            this.groupBox13.Controls.Add(this.CbBox_RankRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_RaceDirectorRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_WaitForRaceReadyRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_MechanicalFailuresRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_BroadCasterRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_RealisticAidsRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_TcsAllowedRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_ScAllowedRace4);
-            this.groupBox13.Controls.Add(this.CbBox_PenaltyTimeRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_CustomSetupRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_ForceManualRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_AbsAllowedRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_ManualPitStopRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_RaceFormationLapRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_CoolDownLapRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_ManualRollingStartsRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_DisableDriveLineRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_FillSessionWithAiRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_DriveThroughPenaltyRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_AutoStartEngineRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_RaceRollingStartRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_PitLinePenaltyRace4);
-            this.groupBox13.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace4);
-            this.groupBox13.Controls.Add(this.CbBox_AllowedViewsRace4);
-            this.groupBox13.Controls.Add(this.label119);
-            this.groupBox13.Controls.Add(this.CbBox_FuelUsageRace4);
-            this.groupBox13.Controls.Add(this.label120);
-            this.groupBox13.Controls.Add(this.CbBox_TireWearRace4);
-            this.groupBox13.Controls.Add(this.label121);
-            this.groupBox13.Controls.Add(this.CbBox_DamageTypeRace4);
-            this.groupBox13.Controls.Add(this.label122);
-            this.groupBox13.Location = new System.Drawing.Point(6, 222);
-            this.groupBox13.Name = "groupBox13";
-            this.groupBox13.Size = new System.Drawing.Size(938, 232);
-            this.groupBox13.TabIndex = 54;
-            this.groupBox13.TabStop = false;
-            this.groupBox13.Text = "Règles";
+            this.GroupBox_RulesRace4.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_PenaltiesRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_RankRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_pitStopErrorsRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.TxtBox_RankRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_PitSpeedLimiterRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CbBox_RankRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_RaceDirectorRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_WaitForRaceReadyRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_MechanicalFailuresRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_BroadCasterRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_RealisticAidsRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_TcsAllowedRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_ScAllowedRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CbBox_PenaltyTimeRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_CustomSetupRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_ForceManualRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_AbsAllowedRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_ManualPitStopRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_RaceFormationLapRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_CoolDownLapRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_ManualRollingStartsRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_DisableDriveLineRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_FillSessionWithAiRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_DriveThroughPenaltyRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_AutoStartEngineRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_RaceRollingStartRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_PitLinePenaltyRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.CbBox_AllowedViewsRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.label119);
+            this.GroupBox_RulesRace4.Controls.Add(this.CbBox_FuelUsageRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.label120);
+            this.GroupBox_RulesRace4.Controls.Add(this.CbBox_TireWearRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.label121);
+            this.GroupBox_RulesRace4.Controls.Add(this.CbBox_DamageTypeRace4);
+            this.GroupBox_RulesRace4.Controls.Add(this.label122);
+            this.GroupBox_RulesRace4.Location = new System.Drawing.Point(6, 222);
+            this.GroupBox_RulesRace4.Name = "GroupBox_RulesRace4";
+            this.GroupBox_RulesRace4.Size = new System.Drawing.Size(938, 232);
+            this.GroupBox_RulesRace4.TabIndex = 54;
+            this.GroupBox_RulesRace4.TabStop = false;
+            this.GroupBox_RulesRace4.Text = "Règles";
             // 
             // CheckBox_PenaltiesRace4
             // 
@@ -6953,6 +6971,7 @@
             this.CbBox_RaceWeatherSlot4Race4.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot4Race4.TabIndex = 57;
             this.CbBox_RaceWeatherSlot4Race4.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot4Race4.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot4Race4_SelectedIndexChanged);
             // 
             // label55
             // 
@@ -6988,6 +7007,7 @@
             this.CbBox_RaceWeatherSlot3Race4.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot3Race4.TabIndex = 56;
             this.CbBox_RaceWeatherSlot3Race4.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot3Race4.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot3Race4_SelectedIndexChanged);
             // 
             // CbBox_SpeedRaceWeatherRace4
             // 
@@ -7021,6 +7041,7 @@
             this.CbBox_RaceWeatherSlot1Race4.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot1Race4.TabIndex = 30;
             this.CbBox_RaceWeatherSlot1Race4.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot1Race4.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot1Race4_SelectedIndexChanged);
             // 
             // CbBox_RaceWeatherSlot2Race4
             // 
@@ -7032,6 +7053,7 @@
             this.CbBox_RaceWeatherSlot2Race4.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot2Race4.TabIndex = 55;
             this.CbBox_RaceWeatherSlot2Race4.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot2Race4.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot2Race4_SelectedIndexChanged);
             // 
             // label59
             // 
@@ -7069,6 +7091,7 @@
             this.CbBox_QualifWeatherSlot4Race4.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot4Race4.TabIndex = 57;
             this.CbBox_QualifWeatherSlot4Race4.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot4Race4.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot4Race4_SelectedIndexChanged);
             // 
             // label64
             // 
@@ -7104,6 +7127,7 @@
             this.CbBox_QualifWeatherSlot3Race4.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot3Race4.TabIndex = 56;
             this.CbBox_QualifWeatherSlot3Race4.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot3Race4.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot3Race4_SelectedIndexChanged);
             // 
             // CbBox_SpeedQualifWeatherRace4
             // 
@@ -7137,6 +7161,7 @@
             this.CbBox_QualifWeatherSlot1Race4.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot1Race4.TabIndex = 30;
             this.CbBox_QualifWeatherSlot1Race4.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot1Race4.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot1Race4_SelectedIndexChanged);
             // 
             // CbBox_QualifWeatherSlot2Race4
             // 
@@ -7148,6 +7173,7 @@
             this.CbBox_QualifWeatherSlot2Race4.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot2Race4.TabIndex = 55;
             this.CbBox_QualifWeatherSlot2Race4.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot2Race4.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot2Race4_SelectedIndexChanged);
             // 
             // label65
             // 
@@ -7185,6 +7211,7 @@
             this.CbBox_PracticeWeatherSlot4Race4.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot4Race4.TabIndex = 57;
             this.CbBox_PracticeWeatherSlot4Race4.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot4Race4.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot4Race4_SelectedIndexChanged);
             // 
             // label69
             // 
@@ -7220,6 +7247,7 @@
             this.CbBox_PracticeWeatherSlot3Race4.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot3Race4.TabIndex = 56;
             this.CbBox_PracticeWeatherSlot3Race4.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot3Race4.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot3Race4_SelectedIndexChanged);
             // 
             // CbBox_SpeedPratcticeWeatherRace4
             // 
@@ -7253,6 +7281,7 @@
             this.CbBox_PracticeWeatherSlot1Race4.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot1Race4.TabIndex = 30;
             this.CbBox_PracticeWeatherSlot1Race4.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot1Race4.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot1Race4_SelectedIndexChanged);
             // 
             // CbBox_PracticeWeatherSlot2Race4
             // 
@@ -7264,6 +7293,7 @@
             this.CbBox_PracticeWeatherSlot2Race4.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot2Race4.TabIndex = 55;
             this.CbBox_PracticeWeatherSlot2Race4.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot2Race4.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot2Race4_SelectedIndexChanged);
             // 
             // label74
             // 
@@ -8127,7 +8157,7 @@
             // GrpBox_Race5
             // 
             this.GrpBox_Race5.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.GrpBox_Race5.Controls.Add(this.groupBox15);
+            this.GrpBox_Race5.Controls.Add(this.GroupBox_RulesRace5);
             this.GrpBox_Race5.Controls.Add(this.GrpBox_WeatherRace5);
             this.GrpBox_Race5.Controls.Add(this.GrpBox_QualifyWeatherRace5);
             this.GrpBox_Race5.Controls.Add(this.GrpBox_PracticeWeatherRace5);
@@ -8139,52 +8169,52 @@
             this.GrpBox_Race5.TabStop = false;
             this.GrpBox_Race5.Text = "Jour de course";
             // 
-            // groupBox15
+            // GroupBox_RulesRace5
             // 
-            this.groupBox15.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.groupBox15.Controls.Add(this.CheckBox_PenaltiesRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_RankRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_pitStopErrorsRace5);
-            this.groupBox15.Controls.Add(this.TxtBox_RankRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_PitSpeedLimiterRace5);
-            this.groupBox15.Controls.Add(this.CbBox_RankRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_RaceDirectorRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_WaitForRaceReadyRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_MechanicalFailuresRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_BroadCasterRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_RealisticAidsRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_TcsAllowedRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_ScAllowedRace5);
-            this.groupBox15.Controls.Add(this.CbBox_PenaltyTimeRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_CustomSetupRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_ForceManualRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_AbsAllowedRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_ManualPitStopRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_RaceFormationLapRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_CoolDownLapRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_ManualRollingStartsRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_DisableDriveLineRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_FillSessionWithAiRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_DriveThroughPenaltyRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_AutoStartEngineRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_RaceRollingStartRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_PitLinePenaltyRace5);
-            this.groupBox15.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace5);
-            this.groupBox15.Controls.Add(this.CbBox_AllowedViewsRace5);
-            this.groupBox15.Controls.Add(this.label123);
-            this.groupBox15.Controls.Add(this.CbBox_FuelUsageRace5);
-            this.groupBox15.Controls.Add(this.label124);
-            this.groupBox15.Controls.Add(this.CbBox_TireWearRace5);
-            this.groupBox15.Controls.Add(this.label125);
-            this.groupBox15.Controls.Add(this.CbBox_DamageTypeRace5);
-            this.groupBox15.Controls.Add(this.label126);
-            this.groupBox15.Location = new System.Drawing.Point(6, 222);
-            this.groupBox15.Name = "groupBox15";
-            this.groupBox15.Size = new System.Drawing.Size(938, 232);
-            this.groupBox15.TabIndex = 54;
-            this.groupBox15.TabStop = false;
-            this.groupBox15.Text = "Règles";
+            this.GroupBox_RulesRace5.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_PenaltiesRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_RankRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_pitStopErrorsRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.TxtBox_RankRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_PitSpeedLimiterRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CbBox_RankRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_RaceDirectorRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_WaitForRaceReadyRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_MechanicalFailuresRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_BroadCasterRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_RealisticAidsRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_TcsAllowedRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_ScAllowedRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CbBox_PenaltyTimeRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_CustomSetupRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_ForceManualRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_AbsAllowedRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_ManualPitStopRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_RaceFormationLapRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_CoolDownLapRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_ManualRollingStartsRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_DisableDriveLineRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_FillSessionWithAiRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_DriveThroughPenaltyRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_AutoStartEngineRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_RaceRollingStartRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_PitLinePenaltyRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.CbBox_AllowedViewsRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.label123);
+            this.GroupBox_RulesRace5.Controls.Add(this.CbBox_FuelUsageRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.label124);
+            this.GroupBox_RulesRace5.Controls.Add(this.CbBox_TireWearRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.label125);
+            this.GroupBox_RulesRace5.Controls.Add(this.CbBox_DamageTypeRace5);
+            this.GroupBox_RulesRace5.Controls.Add(this.label126);
+            this.GroupBox_RulesRace5.Location = new System.Drawing.Point(6, 222);
+            this.GroupBox_RulesRace5.Name = "GroupBox_RulesRace5";
+            this.GroupBox_RulesRace5.Size = new System.Drawing.Size(938, 232);
+            this.GroupBox_RulesRace5.TabIndex = 54;
+            this.GroupBox_RulesRace5.TabStop = false;
+            this.GroupBox_RulesRace5.Text = "Règles";
             // 
             // CheckBox_PenaltiesRace5
             // 
@@ -8606,6 +8636,7 @@
             this.CbBox_RaceWeatherSlot4Race5.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot4Race5.TabIndex = 57;
             this.CbBox_RaceWeatherSlot4Race5.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot4Race5.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot4Race5_SelectedIndexChanged);
             // 
             // label75
             // 
@@ -8641,6 +8672,7 @@
             this.CbBox_RaceWeatherSlot3Race5.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot3Race5.TabIndex = 56;
             this.CbBox_RaceWeatherSlot3Race5.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot3Race5.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot3Race5_SelectedIndexChanged);
             // 
             // CbBox_SpeedRaceWeatherRace5
             // 
@@ -8674,6 +8706,7 @@
             this.CbBox_RaceWeatherSlot1Race5.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot1Race5.TabIndex = 30;
             this.CbBox_RaceWeatherSlot1Race5.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot1Race5.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot1Race5_SelectedIndexChanged);
             // 
             // CbBox_RaceWeatherSlot2Race5
             // 
@@ -8685,6 +8718,7 @@
             this.CbBox_RaceWeatherSlot2Race5.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot2Race5.TabIndex = 55;
             this.CbBox_RaceWeatherSlot2Race5.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot2Race5.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot2Race5_SelectedIndexChanged);
             // 
             // label84
             // 
@@ -8722,6 +8756,7 @@
             this.CbBox_QualifWeatherSlot4Race5.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot4Race5.TabIndex = 57;
             this.CbBox_QualifWeatherSlot4Race5.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot4Race5.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot4Race5_SelectedIndexChanged);
             // 
             // label85
             // 
@@ -8757,6 +8792,7 @@
             this.CbBox_QualifWeatherSlot3Race5.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot3Race5.TabIndex = 56;
             this.CbBox_QualifWeatherSlot3Race5.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot3Race5.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot3Race5_SelectedIndexChanged);
             // 
             // CbBox_SpeedQualifWeatherRace5
             // 
@@ -8790,6 +8826,7 @@
             this.CbBox_QualifWeatherSlot1Race5.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot1Race5.TabIndex = 30;
             this.CbBox_QualifWeatherSlot1Race5.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot1Race5.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot1Race5_SelectedIndexChanged);
             // 
             // CbBox_QualifWeatherSlot2Race5
             // 
@@ -8801,6 +8838,7 @@
             this.CbBox_QualifWeatherSlot2Race5.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot2Race5.TabIndex = 55;
             this.CbBox_QualifWeatherSlot2Race5.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot2Race5.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot2Race5_SelectedIndexChanged);
             // 
             // label86
             // 
@@ -8838,6 +8876,7 @@
             this.CbBox_PracticeWeatherSlot4Race5.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot4Race5.TabIndex = 57;
             this.CbBox_PracticeWeatherSlot4Race5.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot4Race5.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot4Race5_SelectedIndexChanged);
             // 
             // label87
             // 
@@ -8873,6 +8912,7 @@
             this.CbBox_PracticeWeatherSlot3Race5.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot3Race5.TabIndex = 56;
             this.CbBox_PracticeWeatherSlot3Race5.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot3Race5.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot3Race5_SelectedIndexChanged);
             // 
             // CbBox_SpeedPratcticeWeatherRace5
             // 
@@ -8906,6 +8946,7 @@
             this.CbBox_PracticeWeatherSlot1Race5.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot1Race5.TabIndex = 30;
             this.CbBox_PracticeWeatherSlot1Race5.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot1Race5.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot1Race5_SelectedIndexChanged);
             // 
             // CbBox_PracticeWeatherSlot2Race5
             // 
@@ -8917,6 +8958,7 @@
             this.CbBox_PracticeWeatherSlot2Race5.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot2Race5.TabIndex = 55;
             this.CbBox_PracticeWeatherSlot2Race5.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot2Race5.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot2Race5_SelectedIndexChanged);
             // 
             // label88
             // 
@@ -9780,7 +9822,7 @@
             // GrpBox_Race6
             // 
             this.GrpBox_Race6.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.GrpBox_Race6.Controls.Add(this.groupBox17);
+            this.GrpBox_Race6.Controls.Add(this.GroupBox_RulesRace6);
             this.GrpBox_Race6.Controls.Add(this.GrpBox_WeatherRace6);
             this.GrpBox_Race6.Controls.Add(this.GrpBox_QualifyWeatherRace6);
             this.GrpBox_Race6.Controls.Add(this.GrpBox_PracticeWeatherRace6);
@@ -9792,52 +9834,52 @@
             this.GrpBox_Race6.TabStop = false;
             this.GrpBox_Race6.Text = "Jour de course";
             // 
-            // groupBox17
+            // GroupBox_RulesRace6
             // 
-            this.groupBox17.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.groupBox17.Controls.Add(this.CheckBox_PenaltiesRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_RankRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_pitStopErrorsRace6);
-            this.groupBox17.Controls.Add(this.TxtBox_RankRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_PitSpeedLimiterRace6);
-            this.groupBox17.Controls.Add(this.CbBox_RankRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_RaceDirectorRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_WaitForRaceReadyRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_MechanicalFailuresRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_BroadCasterRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_RealisticAidsRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_TcsAllowedRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_ScAllowedRace6);
-            this.groupBox17.Controls.Add(this.CbBox_PenaltyTimeRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_CustomSetupRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_ForceManualRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_AbsAllowedRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_ManualPitStopRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_RaceFormationLapRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_CoolDownLapRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_ManualRollingStartsRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_DisableDriveLineRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_FillSessionWithAiRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_DriveThroughPenaltyRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_AutoStartEngineRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_RaceRollingStartRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_PitLinePenaltyRace6);
-            this.groupBox17.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace6);
-            this.groupBox17.Controls.Add(this.CbBox_AllowedViewsRace6);
-            this.groupBox17.Controls.Add(this.label127);
-            this.groupBox17.Controls.Add(this.CbBox_FuelUsageRace6);
-            this.groupBox17.Controls.Add(this.label128);
-            this.groupBox17.Controls.Add(this.CbBox_TireWearRace6);
-            this.groupBox17.Controls.Add(this.label129);
-            this.groupBox17.Controls.Add(this.CbBox_DamageTypeRace6);
-            this.groupBox17.Controls.Add(this.label130);
-            this.groupBox17.Location = new System.Drawing.Point(6, 222);
-            this.groupBox17.Name = "groupBox17";
-            this.groupBox17.Size = new System.Drawing.Size(938, 232);
-            this.groupBox17.TabIndex = 54;
-            this.groupBox17.TabStop = false;
-            this.groupBox17.Text = "Règles";
+            this.GroupBox_RulesRace6.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_PenaltiesRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_RankRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_pitStopErrorsRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.TxtBox_RankRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_PitSpeedLimiterRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CbBox_RankRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_RaceDirectorRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_WaitForRaceReadyRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_MechanicalFailuresRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_BroadCasterRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_RealisticAidsRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_TcsAllowedRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_ScAllowedRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CbBox_PenaltyTimeRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_CustomSetupRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_ForceManualRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_AbsAllowedRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_ManualPitStopRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_RaceFormationLapRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_CoolDownLapRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_ManualRollingStartsRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_DisableDriveLineRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_FillSessionWithAiRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_DriveThroughPenaltyRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_AutoStartEngineRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_RaceRollingStartRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_PitLinePenaltyRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.CbBox_AllowedViewsRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.label127);
+            this.GroupBox_RulesRace6.Controls.Add(this.CbBox_FuelUsageRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.label128);
+            this.GroupBox_RulesRace6.Controls.Add(this.CbBox_TireWearRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.label129);
+            this.GroupBox_RulesRace6.Controls.Add(this.CbBox_DamageTypeRace6);
+            this.GroupBox_RulesRace6.Controls.Add(this.label130);
+            this.GroupBox_RulesRace6.Location = new System.Drawing.Point(6, 222);
+            this.GroupBox_RulesRace6.Name = "GroupBox_RulesRace6";
+            this.GroupBox_RulesRace6.Size = new System.Drawing.Size(938, 232);
+            this.GroupBox_RulesRace6.TabIndex = 54;
+            this.GroupBox_RulesRace6.TabStop = false;
+            this.GroupBox_RulesRace6.Text = "Règles";
             // 
             // CheckBox_PenaltiesRace6
             // 
@@ -10259,6 +10301,7 @@
             this.CbBox_RaceWeatherSlot4Race6.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot4Race6.TabIndex = 57;
             this.CbBox_RaceWeatherSlot4Race6.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot4Race6.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot4Race6_SelectedIndexChanged);
             // 
             // label89
             // 
@@ -10294,6 +10337,7 @@
             this.CbBox_RaceWeatherSlot3Race6.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot3Race6.TabIndex = 56;
             this.CbBox_RaceWeatherSlot3Race6.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot3Race6.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot3Race6_SelectedIndexChanged);
             // 
             // CbBox_SpeedRaceWeatherRace6
             // 
@@ -10327,6 +10371,7 @@
             this.CbBox_RaceWeatherSlot1Race6.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot1Race6.TabIndex = 30;
             this.CbBox_RaceWeatherSlot1Race6.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot1Race6.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot1Race6_SelectedIndexChanged);
             // 
             // CbBox_RaceWeatherSlot2Race6
             // 
@@ -10338,6 +10383,7 @@
             this.CbBox_RaceWeatherSlot2Race6.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot2Race6.TabIndex = 55;
             this.CbBox_RaceWeatherSlot2Race6.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot2Race6.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot2Race6_SelectedIndexChanged);
             // 
             // label90
             // 
@@ -10375,6 +10421,7 @@
             this.CbBox_QualifWeatherSlot4Race6.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot4Race6.TabIndex = 57;
             this.CbBox_QualifWeatherSlot4Race6.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot4Race6.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot4Race6_SelectedIndexChanged);
             // 
             // label91
             // 
@@ -10410,6 +10457,7 @@
             this.CbBox_QualifWeatherSlot3Race6.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot3Race6.TabIndex = 56;
             this.CbBox_QualifWeatherSlot3Race6.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot3Race6.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot3Race6_SelectedIndexChanged);
             // 
             // CbBox_SpeedQualifWeatherRace6
             // 
@@ -10443,6 +10491,7 @@
             this.CbBox_QualifWeatherSlot1Race6.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot1Race6.TabIndex = 30;
             this.CbBox_QualifWeatherSlot1Race6.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot1Race6.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot1Race6_SelectedIndexChanged);
             // 
             // CbBox_QualifWeatherSlot2Race6
             // 
@@ -10454,6 +10503,7 @@
             this.CbBox_QualifWeatherSlot2Race6.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot2Race6.TabIndex = 55;
             this.CbBox_QualifWeatherSlot2Race6.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot2Race6.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot2Race6_SelectedIndexChanged);
             // 
             // label92
             // 
@@ -10491,6 +10541,7 @@
             this.CbBox_PracticeWeatherSlot4Race6.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot4Race6.TabIndex = 57;
             this.CbBox_PracticeWeatherSlot4Race6.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot4Race6.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot4Race6_SelectedIndexChanged);
             // 
             // label93
             // 
@@ -10545,6 +10596,7 @@
             this.CbBox_PracticeWeatherSlot3Race6.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot3Race6.TabIndex = 56;
             this.CbBox_PracticeWeatherSlot3Race6.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot3Race6.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot3Race6_SelectedIndexChanged);
             // 
             // CbBox_SpeedPratcticeWeatherRace6
             // 
@@ -10578,6 +10630,7 @@
             this.CbBox_PracticeWeatherSlot1Race6.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot1Race6.TabIndex = 30;
             this.CbBox_PracticeWeatherSlot1Race6.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot1Race6.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot1Race6_SelectedIndexChanged);
             // 
             // CbBox_PracticeWeatherSlot2Race6
             // 
@@ -10589,6 +10642,7 @@
             this.CbBox_PracticeWeatherSlot2Race6.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot2Race6.TabIndex = 55;
             this.CbBox_PracticeWeatherSlot2Race6.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot2Race6.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot2Race6_SelectedIndexChanged);
             // 
             // label94
             // 
@@ -11452,7 +11506,7 @@
             // GrpBox_Race7
             // 
             this.GrpBox_Race7.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.GrpBox_Race7.Controls.Add(this.groupBox19);
+            this.GrpBox_Race7.Controls.Add(this.GroupBox_RulesRace7);
             this.GrpBox_Race7.Controls.Add(this.GrpBox_WeatherRace7);
             this.GrpBox_Race7.Controls.Add(this.GrpBox_QualifyWeatherRace7);
             this.GrpBox_Race7.Controls.Add(this.GrpBox_PracticeWeatherRace7);
@@ -11464,52 +11518,52 @@
             this.GrpBox_Race7.TabStop = false;
             this.GrpBox_Race7.Text = "Jour de course";
             // 
-            // groupBox19
+            // GroupBox_RulesRace7
             // 
-            this.groupBox19.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.groupBox19.Controls.Add(this.CheckBox_PenaltiesRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_RankRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_pitStopErrorsRace7);
-            this.groupBox19.Controls.Add(this.TxtBox_RankRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_PitSpeedLimiterRace7);
-            this.groupBox19.Controls.Add(this.CbBox_RankRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_RaceDirectorRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_WaitForRaceReadyRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_MechanicalFailuresRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_BroadCasterRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_RealisticAidsRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_TcsAllowedRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_ScAllowedRace7);
-            this.groupBox19.Controls.Add(this.CbBox_PenaltyTimeRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_CustomSetupRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_ForceManualRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_AbsAllowedRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_ManualPitStopRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_RaceFormationLapRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_CoolDownLapRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_ManualRollingStartsRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_DisableDriveLineRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_FillSessionWithAiRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_DriveThroughPenaltyRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_AutoStartEngineRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_RaceRollingStartRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_PitLinePenaltyRace7);
-            this.groupBox19.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace7);
-            this.groupBox19.Controls.Add(this.CbBox_AllowedViewsRace7);
-            this.groupBox19.Controls.Add(this.label131);
-            this.groupBox19.Controls.Add(this.CbBox_FuelUsageRace7);
-            this.groupBox19.Controls.Add(this.label132);
-            this.groupBox19.Controls.Add(this.CbBox_TireWearRace7);
-            this.groupBox19.Controls.Add(this.label133);
-            this.groupBox19.Controls.Add(this.CbBox_DamageTypeRace7);
-            this.groupBox19.Controls.Add(this.label134);
-            this.groupBox19.Location = new System.Drawing.Point(6, 222);
-            this.groupBox19.Name = "groupBox19";
-            this.groupBox19.Size = new System.Drawing.Size(938, 232);
-            this.groupBox19.TabIndex = 54;
-            this.groupBox19.TabStop = false;
-            this.groupBox19.Text = "Règles";
+            this.GroupBox_RulesRace7.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_PenaltiesRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_RankRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_pitStopErrorsRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.TxtBox_RankRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_PitSpeedLimiterRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CbBox_RankRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_RaceDirectorRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_WaitForRaceReadyRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_MechanicalFailuresRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_BroadCasterRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_RealisticAidsRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_TcsAllowedRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_ScAllowedRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CbBox_PenaltyTimeRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_CustomSetupRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_ForceManualRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_AbsAllowedRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_ManualPitStopRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_RaceFormationLapRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_CoolDownLapRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_ManualRollingStartsRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_DisableDriveLineRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_FillSessionWithAiRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_DriveThroughPenaltyRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_AutoStartEngineRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_RaceRollingStartRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_PitLinePenaltyRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.CbBox_AllowedViewsRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.label131);
+            this.GroupBox_RulesRace7.Controls.Add(this.CbBox_FuelUsageRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.label132);
+            this.GroupBox_RulesRace7.Controls.Add(this.CbBox_TireWearRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.label133);
+            this.GroupBox_RulesRace7.Controls.Add(this.CbBox_DamageTypeRace7);
+            this.GroupBox_RulesRace7.Controls.Add(this.label134);
+            this.GroupBox_RulesRace7.Location = new System.Drawing.Point(6, 222);
+            this.GroupBox_RulesRace7.Name = "GroupBox_RulesRace7";
+            this.GroupBox_RulesRace7.Size = new System.Drawing.Size(938, 232);
+            this.GroupBox_RulesRace7.TabIndex = 54;
+            this.GroupBox_RulesRace7.TabStop = false;
+            this.GroupBox_RulesRace7.Text = "Règles";
             // 
             // CheckBox_PenaltiesRace7
             // 
@@ -11931,6 +11985,7 @@
             this.CbBox_RaceWeatherSlot4Race7.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot4Race7.TabIndex = 57;
             this.CbBox_RaceWeatherSlot4Race7.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot4Race7.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot4Race7_SelectedIndexChanged);
             // 
             // label95
             // 
@@ -11966,6 +12021,7 @@
             this.CbBox_RaceWeatherSlot3Race7.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot3Race7.TabIndex = 56;
             this.CbBox_RaceWeatherSlot3Race7.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot3Race7.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot3Race7_SelectedIndexChanged);
             // 
             // CbBox_SpeedRaceWeatherRace7
             // 
@@ -11999,6 +12055,7 @@
             this.CbBox_RaceWeatherSlot1Race7.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot1Race7.TabIndex = 30;
             this.CbBox_RaceWeatherSlot1Race7.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot1Race7.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot1Race7_SelectedIndexChanged);
             // 
             // CbBox_RaceWeatherSlot2Race7
             // 
@@ -12010,6 +12067,7 @@
             this.CbBox_RaceWeatherSlot2Race7.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot2Race7.TabIndex = 55;
             this.CbBox_RaceWeatherSlot2Race7.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot2Race7.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot2Race7_SelectedIndexChanged);
             // 
             // label96
             // 
@@ -12047,6 +12105,7 @@
             this.CbBox_QualifWeatherSlot4Race7.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot4Race7.TabIndex = 57;
             this.CbBox_QualifWeatherSlot4Race7.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot4Race7.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot4Race7_SelectedIndexChanged);
             // 
             // label97
             // 
@@ -12082,6 +12141,7 @@
             this.CbBox_QualifWeatherSlot3Race7.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot3Race7.TabIndex = 56;
             this.CbBox_QualifWeatherSlot3Race7.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot3Race7.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot3Race7_SelectedIndexChanged);
             // 
             // CbBox_SpeedQualifWeatherRace7
             // 
@@ -12115,6 +12175,7 @@
             this.CbBox_QualifWeatherSlot1Race7.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot1Race7.TabIndex = 30;
             this.CbBox_QualifWeatherSlot1Race7.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot1Race7.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot1Race7_SelectedIndexChanged);
             // 
             // CbBox_QualifWeatherSlot2Race7
             // 
@@ -12126,6 +12187,7 @@
             this.CbBox_QualifWeatherSlot2Race7.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot2Race7.TabIndex = 55;
             this.CbBox_QualifWeatherSlot2Race7.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot2Race7.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot2Race7_SelectedIndexChanged);
             // 
             // label98
             // 
@@ -12163,6 +12225,7 @@
             this.CbBox_PracticeWeatherSlot4Race7.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot4Race7.TabIndex = 57;
             this.CbBox_PracticeWeatherSlot4Race7.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot4Race7.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot4Race7_SelectedIndexChanged);
             // 
             // label99
             // 
@@ -12198,6 +12261,7 @@
             this.CbBox_PracticeWeatherSlot3Race7.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot3Race7.TabIndex = 56;
             this.CbBox_PracticeWeatherSlot3Race7.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot3Race7.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot3Race7_SelectedIndexChanged);
             // 
             // CbBox_SpeedPratcticeWeatherRace7
             // 
@@ -12231,6 +12295,7 @@
             this.CbBox_PracticeWeatherSlot1Race7.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot1Race7.TabIndex = 30;
             this.CbBox_PracticeWeatherSlot1Race7.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot1Race7.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot1Race7_SelectedIndexChanged);
             // 
             // CbBox_PracticeWeatherSlot2Race7
             // 
@@ -12242,6 +12307,7 @@
             this.CbBox_PracticeWeatherSlot2Race7.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot2Race7.TabIndex = 55;
             this.CbBox_PracticeWeatherSlot2Race7.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot2Race7.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot2Race7_SelectedIndexChanged);
             // 
             // label100
             // 
@@ -13105,7 +13171,7 @@
             // GrpBox_Race8
             // 
             this.GrpBox_Race8.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.GrpBox_Race8.Controls.Add(this.groupBox21);
+            this.GrpBox_Race8.Controls.Add(this.GroupBox_RulesRace8);
             this.GrpBox_Race8.Controls.Add(this.GrpBox_WeatherRace8);
             this.GrpBox_Race8.Controls.Add(this.GrpBox_QualifyWeatherRace8);
             this.GrpBox_Race8.Controls.Add(this.GrpBox_PracticeWeatherRace8);
@@ -13117,52 +13183,52 @@
             this.GrpBox_Race8.TabStop = false;
             this.GrpBox_Race8.Text = "Jour de course";
             // 
-            // groupBox21
+            // GroupBox_RulesRace8
             // 
-            this.groupBox21.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.groupBox21.Controls.Add(this.CheckBox_PenaltiesRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_RankRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_pitStopErrorsRace8);
-            this.groupBox21.Controls.Add(this.TxtBox_RankRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_PitSpeedLimiterRace8);
-            this.groupBox21.Controls.Add(this.CbBox_RankRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_RaceDirectorRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_WaitForRaceReadyRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_MechanicalFailuresRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_BroadCasterRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_RealisticAidsRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_TcsAllowedRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_ScAllowedRace8);
-            this.groupBox21.Controls.Add(this.CbBox_PenaltyTimeRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_CustomSetupRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_ForceManualRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_AbsAllowedRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_ManualPitStopRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_RaceFormationLapRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_CoolDownLapRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_ManualRollingStartsRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_DisableDriveLineRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_FillSessionWithAiRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_DriveThroughPenaltyRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_AutoStartEngineRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_RaceRollingStartRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_PitLinePenaltyRace8);
-            this.groupBox21.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace8);
-            this.groupBox21.Controls.Add(this.CbBox_AllowedViewsRace8);
-            this.groupBox21.Controls.Add(this.label135);
-            this.groupBox21.Controls.Add(this.CbBox_FuelUsageRace8);
-            this.groupBox21.Controls.Add(this.label136);
-            this.groupBox21.Controls.Add(this.CbBox_TireWearRace8);
-            this.groupBox21.Controls.Add(this.label137);
-            this.groupBox21.Controls.Add(this.CbBox_DamageTypeRace8);
-            this.groupBox21.Controls.Add(this.label138);
-            this.groupBox21.Location = new System.Drawing.Point(6, 222);
-            this.groupBox21.Name = "groupBox21";
-            this.groupBox21.Size = new System.Drawing.Size(938, 232);
-            this.groupBox21.TabIndex = 54;
-            this.groupBox21.TabStop = false;
-            this.groupBox21.Text = "Règles";
+            this.GroupBox_RulesRace8.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_PenaltiesRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_RankRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_pitStopErrorsRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.TxtBox_RankRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_PitSpeedLimiterRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CbBox_RankRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_RaceDirectorRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_WaitForRaceReadyRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_MechanicalFailuresRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_BroadCasterRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_RealisticAidsRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_TcsAllowedRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_ScAllowedRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CbBox_PenaltyTimeRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_CustomSetupRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_ForceManualRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_AbsAllowedRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_AntiGriefingCollisionsRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_ManualPitStopRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_RaceFormationLapRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_CoolDownLapRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_ManualRollingStartsRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_DisableDriveLineRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_FillSessionWithAiRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_DriveThroughPenaltyRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_AutoStartEngineRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_RaceRollingStartRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_PitLinePenaltyRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CheckBox_RaceMandatoryPitStopsRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.CbBox_AllowedViewsRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.label135);
+            this.GroupBox_RulesRace8.Controls.Add(this.CbBox_FuelUsageRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.label136);
+            this.GroupBox_RulesRace8.Controls.Add(this.CbBox_TireWearRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.label137);
+            this.GroupBox_RulesRace8.Controls.Add(this.CbBox_DamageTypeRace8);
+            this.GroupBox_RulesRace8.Controls.Add(this.label138);
+            this.GroupBox_RulesRace8.Location = new System.Drawing.Point(6, 222);
+            this.GroupBox_RulesRace8.Name = "GroupBox_RulesRace8";
+            this.GroupBox_RulesRace8.Size = new System.Drawing.Size(938, 232);
+            this.GroupBox_RulesRace8.TabIndex = 54;
+            this.GroupBox_RulesRace8.TabStop = false;
+            this.GroupBox_RulesRace8.Text = "Règles";
             // 
             // CheckBox_PenaltiesRace8
             // 
@@ -13204,6 +13270,7 @@
             this.TxtBox_RankRace8.Name = "TxtBox_RankRace8";
             this.TxtBox_RankRace8.Size = new System.Drawing.Size(60, 20);
             this.TxtBox_RankRace8.TabIndex = 54;
+            this.TxtBox_RankRace8.Validating += new System.ComponentModel.CancelEventHandler(this.TxtBox_RankRace8_Validating);
             // 
             // CheckBox_PitSpeedLimiterRace8
             // 
@@ -13583,6 +13650,7 @@
             this.CbBox_RaceWeatherSlot4Race8.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot4Race8.TabIndex = 57;
             this.CbBox_RaceWeatherSlot4Race8.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot4Race8.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot4Race8_SelectedIndexChanged);
             // 
             // label101
             // 
@@ -13618,6 +13686,7 @@
             this.CbBox_RaceWeatherSlot3Race8.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot3Race8.TabIndex = 56;
             this.CbBox_RaceWeatherSlot3Race8.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot3Race8.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot3Race8_SelectedIndexChanged);
             // 
             // CbBox_SpeedRaceWeatherRace8
             // 
@@ -13651,6 +13720,7 @@
             this.CbBox_RaceWeatherSlot1Race8.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot1Race8.TabIndex = 30;
             this.CbBox_RaceWeatherSlot1Race8.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot1Race8.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot1Race8_SelectedIndexChanged);
             // 
             // CbBox_RaceWeatherSlot2Race8
             // 
@@ -13662,6 +13732,7 @@
             this.CbBox_RaceWeatherSlot2Race8.Size = new System.Drawing.Size(121, 21);
             this.CbBox_RaceWeatherSlot2Race8.TabIndex = 55;
             this.CbBox_RaceWeatherSlot2Race8.ValueMember = "name";
+            this.CbBox_RaceWeatherSlot2Race8.SelectedIndexChanged += new System.EventHandler(this.CbBox_RaceWeatherSlot2Race8_SelectedIndexChanged);
             // 
             // label102
             // 
@@ -13699,6 +13770,7 @@
             this.CbBox_QualifWeatherSlot4Race8.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot4Race8.TabIndex = 57;
             this.CbBox_QualifWeatherSlot4Race8.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot4Race8.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot4Race8_SelectedIndexChanged);
             // 
             // label103
             // 
@@ -13734,6 +13806,7 @@
             this.CbBox_QualifWeatherSlot3Race8.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot3Race8.TabIndex = 56;
             this.CbBox_QualifWeatherSlot3Race8.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot3Race8.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot3Race8_SelectedIndexChanged);
             // 
             // CbBox_SpeedQualifWeatherRace8
             // 
@@ -13767,6 +13840,7 @@
             this.CbBox_QualifWeatherSlot1Race8.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot1Race8.TabIndex = 30;
             this.CbBox_QualifWeatherSlot1Race8.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot1Race8.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot1Race8_SelectedIndexChanged);
             // 
             // CbBox_QualifWeatherSlot2Race8
             // 
@@ -13778,6 +13852,7 @@
             this.CbBox_QualifWeatherSlot2Race8.Size = new System.Drawing.Size(121, 21);
             this.CbBox_QualifWeatherSlot2Race8.TabIndex = 55;
             this.CbBox_QualifWeatherSlot2Race8.ValueMember = "name";
+            this.CbBox_QualifWeatherSlot2Race8.SelectedIndexChanged += new System.EventHandler(this.CbBox_QualifWeatherSlot2Race8_SelectedIndexChanged);
             // 
             // label104
             // 
@@ -13815,6 +13890,7 @@
             this.CbBox_PracticeWeatherSlot4Race8.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot4Race8.TabIndex = 57;
             this.CbBox_PracticeWeatherSlot4Race8.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot4Race8.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot4Race8_SelectedIndexChanged);
             // 
             // label105
             // 
@@ -13850,6 +13926,7 @@
             this.CbBox_PracticeWeatherSlot3Race8.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot3Race8.TabIndex = 56;
             this.CbBox_PracticeWeatherSlot3Race8.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot3Race8.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot3Race8_SelectedIndexChanged);
             // 
             // CbBox_SpeedPratcticeWeatherRace8
             // 
@@ -13883,6 +13960,7 @@
             this.CbBox_PracticeWeatherSlot1Race8.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot1Race8.TabIndex = 30;
             this.CbBox_PracticeWeatherSlot1Race8.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot1Race8.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot1Race8_SelectedIndexChanged);
             // 
             // CbBox_PracticeWeatherSlot2Race8
             // 
@@ -13894,6 +13972,7 @@
             this.CbBox_PracticeWeatherSlot2Race8.Size = new System.Drawing.Size(121, 21);
             this.CbBox_PracticeWeatherSlot2Race8.TabIndex = 55;
             this.CbBox_PracticeWeatherSlot2Race8.ValueMember = "name";
+            this.CbBox_PracticeWeatherSlot2Race8.SelectedIndexChanged += new System.EventHandler(this.CbBox_PracticeWeatherSlot2Race8_SelectedIndexChanged);
             // 
             // label106
             // 
@@ -14873,8 +14952,8 @@
             this.TabControl.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.GrpBox_Race1.ResumeLayout(false);
-            this.groupBox_Rules.ResumeLayout(false);
-            this.groupBox_Rules.PerformLayout();
+            this.GroupBox_RulesRace1.ResumeLayout(false);
+            this.GroupBox_RulesRace1.PerformLayout();
             this.GrpBox_WeatherRace1.ResumeLayout(false);
             this.GrpBox_WeatherRace1.PerformLayout();
             this.GrpBox_QualifyWeatherRace1.ResumeLayout(false);
@@ -14887,8 +14966,8 @@
             this.groupBox_Race1TracksAndCars.PerformLayout();
             this.tabPage2.ResumeLayout(false);
             this.GrpBox_Race2.ResumeLayout(false);
-            this.groupBox9.ResumeLayout(false);
-            this.groupBox9.PerformLayout();
+            this.GroupBox_RulesRace2.ResumeLayout(false);
+            this.GroupBox_RulesRace2.PerformLayout();
             this.GrpBox_WeatherRace2.ResumeLayout(false);
             this.GrpBox_WeatherRace2.PerformLayout();
             this.GrpBox_QualifyWeatherRace2.ResumeLayout(false);
@@ -14901,8 +14980,8 @@
             this.groupBox1.PerformLayout();
             this.tabPage3.ResumeLayout(false);
             this.GrpBox_Race3.ResumeLayout(false);
-            this.groupBox11.ResumeLayout(false);
-            this.groupBox11.PerformLayout();
+            this.GroupBox_RulesRace3.ResumeLayout(false);
+            this.GroupBox_RulesRace3.PerformLayout();
             this.GrpBox_WeatherRace3.ResumeLayout(false);
             this.GrpBox_WeatherRace3.PerformLayout();
             this.GrpBox_QualifyWeatherRace3.ResumeLayout(false);
@@ -14915,8 +14994,8 @@
             this.groupBox2.PerformLayout();
             this.tabPage4.ResumeLayout(false);
             this.GrpBox_Race4.ResumeLayout(false);
-            this.groupBox13.ResumeLayout(false);
-            this.groupBox13.PerformLayout();
+            this.GroupBox_RulesRace4.ResumeLayout(false);
+            this.GroupBox_RulesRace4.PerformLayout();
             this.GrpBox_WeatherRace4.ResumeLayout(false);
             this.GrpBox_WeatherRace4.PerformLayout();
             this.GrpBox_QualifyWeatherRace4.ResumeLayout(false);
@@ -14929,8 +15008,8 @@
             this.groupBox3.PerformLayout();
             this.tabPage5.ResumeLayout(false);
             this.GrpBox_Race5.ResumeLayout(false);
-            this.groupBox15.ResumeLayout(false);
-            this.groupBox15.PerformLayout();
+            this.GroupBox_RulesRace5.ResumeLayout(false);
+            this.GroupBox_RulesRace5.PerformLayout();
             this.GrpBox_WeatherRace5.ResumeLayout(false);
             this.GrpBox_WeatherRace5.PerformLayout();
             this.GrpBox_QualifyWeatherRace5.ResumeLayout(false);
@@ -14943,8 +15022,8 @@
             this.groupBox4.PerformLayout();
             this.tabPage6.ResumeLayout(false);
             this.GrpBox_Race6.ResumeLayout(false);
-            this.groupBox17.ResumeLayout(false);
-            this.groupBox17.PerformLayout();
+            this.GroupBox_RulesRace6.ResumeLayout(false);
+            this.GroupBox_RulesRace6.PerformLayout();
             this.GrpBox_WeatherRace6.ResumeLayout(false);
             this.GrpBox_WeatherRace6.PerformLayout();
             this.GrpBox_QualifyWeatherRace6.ResumeLayout(false);
@@ -14957,8 +15036,8 @@
             this.groupBox5.PerformLayout();
             this.tabPage7.ResumeLayout(false);
             this.GrpBox_Race7.ResumeLayout(false);
-            this.groupBox19.ResumeLayout(false);
-            this.groupBox19.PerformLayout();
+            this.GroupBox_RulesRace7.ResumeLayout(false);
+            this.GroupBox_RulesRace7.PerformLayout();
             this.GrpBox_WeatherRace7.ResumeLayout(false);
             this.GrpBox_WeatherRace7.PerformLayout();
             this.GrpBox_QualifyWeatherRace7.ResumeLayout(false);
@@ -14971,8 +15050,8 @@
             this.groupBox6.PerformLayout();
             this.tabPage8.ResumeLayout(false);
             this.GrpBox_Race8.ResumeLayout(false);
-            this.groupBox21.ResumeLayout(false);
-            this.groupBox21.PerformLayout();
+            this.GroupBox_RulesRace8.ResumeLayout(false);
+            this.GroupBox_RulesRace8.PerformLayout();
             this.GrpBox_WeatherRace8.ResumeLayout(false);
             this.GrpBox_WeatherRace8.PerformLayout();
             this.GrpBox_QualifyWeatherRace8.ResumeLayout(false);
@@ -15513,7 +15592,7 @@
         public System.Windows.Forms.ComboBox CbBox_PracticeWeatherSlot1Race8;
         public System.Windows.Forms.ComboBox CbBox_PracticeWeatherSlot2Race8;
         public System.Windows.Forms.Label label106;
-        public System.Windows.Forms.GroupBox groupBox_Rules;
+        public System.Windows.Forms.GroupBox GroupBox_RulesRace1;
         public System.Windows.Forms.CheckBox CheckBox_RankRace1;
         public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace1;
         public System.Windows.Forms.TextBox TxtBox_RankRace1;
@@ -15550,7 +15629,7 @@
         public System.Windows.Forms.Label label111;
         public System.Windows.Forms.ComboBox CbBox_DamageTypeRace1;
         public System.Windows.Forms.Label label112;
-        public System.Windows.Forms.GroupBox groupBox9;
+        public System.Windows.Forms.GroupBox GroupBox_RulesRace2;
         public System.Windows.Forms.CheckBox CheckBox_RankRace2;
         public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace2;
         public System.Windows.Forms.TextBox TxtBox_RankRace2;
@@ -15587,7 +15666,7 @@
         public System.Windows.Forms.Label label113;
         public System.Windows.Forms.ComboBox CbBox_DamageTypeRace2;
         public System.Windows.Forms.Label label114;
-        public System.Windows.Forms.GroupBox groupBox11;
+        public System.Windows.Forms.GroupBox GroupBox_RulesRace3;
         public System.Windows.Forms.CheckBox CheckBox_RankRace3;
         public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace3;
         public System.Windows.Forms.TextBox TxtBox_RankRace3;
@@ -15624,7 +15703,7 @@
         public System.Windows.Forms.Label label117;
         public System.Windows.Forms.ComboBox CbBox_DamageTypeRace3;
         public System.Windows.Forms.Label label118;
-        public System.Windows.Forms.GroupBox groupBox13;
+        public System.Windows.Forms.GroupBox GroupBox_RulesRace4;
         public System.Windows.Forms.CheckBox CheckBox_RankRace4;
         public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace4;
         public System.Windows.Forms.TextBox TxtBox_RankRace4;
@@ -15661,7 +15740,7 @@
         public System.Windows.Forms.Label label121;
         public System.Windows.Forms.ComboBox CbBox_DamageTypeRace4;
         public System.Windows.Forms.Label label122;
-        public System.Windows.Forms.GroupBox groupBox15;
+        public System.Windows.Forms.GroupBox GroupBox_RulesRace5;
         public System.Windows.Forms.CheckBox CheckBox_RankRace5;
         public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace5;
         public System.Windows.Forms.TextBox TxtBox_RankRace5;
@@ -15698,7 +15777,7 @@
         public System.Windows.Forms.Label label125;
         public System.Windows.Forms.ComboBox CbBox_DamageTypeRace5;
         public System.Windows.Forms.Label label126;
-        public System.Windows.Forms.GroupBox groupBox17;
+        public System.Windows.Forms.GroupBox GroupBox_RulesRace6;
         public System.Windows.Forms.CheckBox CheckBox_RankRace6;
         public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace6;
         public System.Windows.Forms.TextBox TxtBox_RankRace6;
@@ -15735,7 +15814,7 @@
         public System.Windows.Forms.Label label129;
         public System.Windows.Forms.ComboBox CbBox_DamageTypeRace6;
         public System.Windows.Forms.Label label130;
-        public System.Windows.Forms.GroupBox groupBox19;
+        public System.Windows.Forms.GroupBox GroupBox_RulesRace7;
         public System.Windows.Forms.CheckBox CheckBox_RankRace7;
         public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace7;
         public System.Windows.Forms.TextBox TxtBox_RankRace7;
@@ -15772,7 +15851,7 @@
         public System.Windows.Forms.Label label133;
         public System.Windows.Forms.ComboBox CbBox_DamageTypeRace7;
         public System.Windows.Forms.Label label134;
-        public System.Windows.Forms.GroupBox groupBox21;
+        public System.Windows.Forms.GroupBox GroupBox_RulesRace8;
         public System.Windows.Forms.CheckBox CheckBox_RankRace8;
         public System.Windows.Forms.CheckBox CheckBox_pitStopErrorsRace8;
         public System.Windows.Forms.TextBox TxtBox_RankRace8;

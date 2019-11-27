@@ -218,6 +218,8 @@ namespace GuiServerPCars2V2._0
         
 
 
+
+
         public Form2()
         {
             InitializeComponent();
@@ -237,6 +239,7 @@ namespace GuiServerPCars2V2._0
             pictureBox1.Location = new Point(650, 28);
             showOrHideElements.ShowOrHideCbBox_Penalties();
             showOrHideElements.ShowOrHideRank();
+            
         }
 
         private void ValueForSameTracks()
@@ -1452,35 +1455,7 @@ namespace GuiServerPCars2V2._0
             showOrHideElements.ApplySameCarForAllRaces();
         }
 
-        private void CbBox_Race2Cars_SelectionChangeCommitted(object sender, EventArgs e)
-        {
-            showOrHideElements.ApplySameCarForAllRaces();
-        }
-
-        private void CbBox_Race1Cars_SelectionChangeCommitted(object sender, EventArgs e)
-        {
-            showOrHideElements.ApplySameCarForAllRaces();
-        }
-
-        private void CbBox_Race1Class1_SelectionChangeCommitted(object sender, EventArgs e)
-        {
-            showOrHideElements.ApplySameCarForAllRaces();
-        }
-
-        private void CbBox_Race1Class2_SelectionChangeCommitted(object sender, EventArgs e)
-        {
-            showOrHideElements.ApplySameCarForAllRaces();
-        }
-
-        private void CbBox_Race1Class3_SelectionChangeCommitted(object sender, EventArgs e)
-        {
-            showOrHideElements.ApplySameCarForAllRaces();
-        }
-
-        private void CbBox_Race1Class4_SelectionChangeCommitted(object sender, EventArgs e)
-        {
-            showOrHideElements.ApplySameCarForAllRaces();
-        }
+       
 
         //End Section for same traks an cars
 
@@ -1573,12 +1548,16 @@ namespace GuiServerPCars2V2._0
             valueControl.RankControl();
             TxtBox_RankRace7.Text = value;
         }
-
-        private void TabControl_Validating(object sender, CancelEventArgs e)
+        private void TxtBox_RankRace8_Validating(object sender, CancelEventArgs e)
         {
             value = TxtBox_RankRace8.Text;
             valueControl.RankControl();
             TxtBox_RankRace8.Text = value;
+        }
+
+        private void TabControl_Validating(object sender, CancelEventArgs e)
+        {
+            
         }
 
         // End of section Rank
@@ -1653,7 +1632,26 @@ namespace GuiServerPCars2V2._0
         // Section for same rule for all races
         private void CheckBox_SameRules_CheckedChanged(object sender, EventArgs e)
         {
-
+            if (CheckBox_SameRules.Checked)
+            {
+                GroupBox_RulesRace2.Enabled = false;
+                GroupBox_RulesRace3.Enabled = false;
+                GroupBox_RulesRace4.Enabled = false;
+                GroupBox_RulesRace5.Enabled = false;
+                GroupBox_RulesRace6.Enabled = false;
+                GroupBox_RulesRace7.Enabled = false;
+                GroupBox_RulesRace8.Enabled = false;
+            }
+            else
+            {
+                GroupBox_RulesRace2.Enabled = true;
+                GroupBox_RulesRace3.Enabled = true;
+                GroupBox_RulesRace4.Enabled = true;
+                GroupBox_RulesRace5.Enabled = true;
+                GroupBox_RulesRace6.Enabled = true;
+                GroupBox_RulesRace7.Enabled = true;
+                GroupBox_RulesRace8.Enabled = true;
+            }
         }
         //end section for same rules
 
@@ -1887,5 +1885,426 @@ namespace GuiServerPCars2V2._0
         {
             valueControl.RaceWeatherSlot4Race1();
         }
+
+        private void CbBox_PracticeWeatherSlot1Race2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot1Race2();
+        }
+
+        private void CbBox_PracticeWeatherSlot2Race2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot2Race2();
+        }
+
+        private void CbBox_PracticeWeatherSlot3Race2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot3Race2();
+        }
+
+        private void CbBox_PracticeWeatherSlot4Race2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot4Race2();
+        }
+
+        private void CbBox_QualifWeatherSlot1Race2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot1Race2();
+        }
+
+        private void CbBox_QualifWeatherSlot2Race2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot2Race2();
+        }
+
+        private void CbBox_QualifWeatherSlot3Race2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot3Race2();
+        }
+
+        private void CbBox_QualifWeatherSlot4Race2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot4Race2();
+        }
+
+        private void CbBox_RaceWeatherSlot1Race2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot1Race2();
+        }
+
+        private void CbBox_RaceWeatherSlot2Race2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot2Race2();
+        }
+
+        private void CbBox_RaceWeatherSlot3Race2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot3Race2();
+        }
+
+        private void CbBox_RaceWeatherSlot4Race2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot4Race2();
+        }
+
+        private void CbBox_PracticeWeatherSlot1Race3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot1Race3();
+        }
+
+        private void CbBox_PracticeWeatherSlot2Race3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot2Race3();
+        }
+
+        private void CbBox_PracticeWeatherSlot3Race3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot3Race3();
+        }
+
+        private void CbBox_PracticeWeatherSlot4Race3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot4Race3();
+        }
+
+        private void CbBox_QualifWeatherSlot1Race3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot1Race3();
+        }
+
+        private void CbBox_QualifWeatherSlot2Race3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot2Race3();
+        }
+
+        private void CbBox_QualifWeatherSlot3Race3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot3Race3();
+        }
+
+        private void CbBox_QualifWeatherSlot4Race3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot4Race3();
+        }
+
+        private void CbBox_RaceWeatherSlot1Race3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot1Race3();
+        }
+
+        private void CbBox_RaceWeatherSlot2Race3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot2Race3();
+        }
+
+        private void CbBox_RaceWeatherSlot3Race3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot3Race3();
+        }
+
+        private void CbBox_RaceWeatherSlot4Race3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot4Race3();
+        }
+
+        private void CbBox_PracticeWeatherSlot1Race4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot1Race4();
+        }
+
+        private void CbBox_PracticeWeatherSlot2Race4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot2Race4();
+        }
+
+        private void CbBox_PracticeWeatherSlot3Race4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot3Race4();
+        }
+
+        private void CbBox_PracticeWeatherSlot4Race4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot4Race4();
+        }
+
+        private void CbBox_QualifWeatherSlot1Race4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot1Race4();
+        }
+
+        private void CbBox_QualifWeatherSlot2Race4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot2Race4();
+        }
+
+        private void CbBox_QualifWeatherSlot3Race4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot3Race4();
+        }
+
+        private void CbBox_QualifWeatherSlot4Race4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot4Race4();
+        }
+
+        private void CbBox_RaceWeatherSlot1Race4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot1Race4();
+        }
+
+        private void CbBox_RaceWeatherSlot2Race4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot2Race4();
+        }
+
+        private void CbBox_RaceWeatherSlot3Race4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot3Race4();
+        }
+
+        private void CbBox_RaceWeatherSlot4Race4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot4Race4();
+        }
+
+        private void CbBox_PracticeWeatherSlot1Race5_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot1Race5();
+        }
+
+        private void CbBox_PracticeWeatherSlot2Race5_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot2Race5();
+        }
+
+        private void CbBox_PracticeWeatherSlot3Race5_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot3Race5();
+        }
+
+        private void CbBox_PracticeWeatherSlot4Race5_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot4Race5();
+        }
+
+        private void CbBox_QualifWeatherSlot1Race5_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot1Race5();
+        }
+
+        private void CbBox_QualifWeatherSlot2Race5_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot2Race5();
+        }
+
+        private void CbBox_QualifWeatherSlot3Race5_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot3Race5();
+        }
+
+        private void CbBox_QualifWeatherSlot4Race5_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot4Race5();
+        }
+
+        private void CbBox_RaceWeatherSlot1Race5_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot1Race5();
+        }
+
+        private void CbBox_RaceWeatherSlot2Race5_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot2Race5();
+        }
+
+        private void CbBox_RaceWeatherSlot3Race5_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot3Race5();
+        }
+
+        private void CbBox_RaceWeatherSlot4Race5_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot4Race5();
+        }
+
+        private void CbBox_PracticeWeatherSlot1Race6_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot1Race6();
+        }
+
+        private void CbBox_PracticeWeatherSlot2Race6_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot2Race6();
+        }
+
+        private void CbBox_PracticeWeatherSlot3Race6_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot3Race6();
+        }
+
+        private void CbBox_PracticeWeatherSlot4Race6_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot4Race6();
+        }
+
+        private void CbBox_QualifWeatherSlot1Race6_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot1Race6();
+        }
+
+        private void CbBox_QualifWeatherSlot2Race6_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot2Race6();
+        }
+
+        private void CbBox_QualifWeatherSlot3Race6_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot3Race6();
+        }
+
+        private void CbBox_QualifWeatherSlot4Race6_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot4Race6();
+        }
+
+        private void CbBox_RaceWeatherSlot1Race6_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot1Race6();
+        }
+
+        private void CbBox_RaceWeatherSlot2Race6_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot2Race6();
+        }
+
+        private void CbBox_RaceWeatherSlot3Race6_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot3Race6();
+        }
+
+        private void CbBox_RaceWeatherSlot4Race6_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot4Race6();
+        }
+
+        private void CbBox_PracticeWeatherSlot1Race7_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot1Race7();
+        }
+
+        private void CbBox_PracticeWeatherSlot2Race7_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot2Race7();
+        }
+
+        private void CbBox_PracticeWeatherSlot3Race7_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot3Race7();
+        }
+
+        private void CbBox_PracticeWeatherSlot4Race7_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot4Race7();
+        }
+
+        private void CbBox_QualifWeatherSlot1Race7_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot1Race7();
+        }
+
+        private void CbBox_QualifWeatherSlot2Race7_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot2Race7();
+        }
+
+        private void CbBox_QualifWeatherSlot3Race7_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot3Race7();
+        }
+
+        private void CbBox_QualifWeatherSlot4Race7_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot4Race7();
+        }
+
+        private void CbBox_RaceWeatherSlot1Race7_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot1Race7();
+        }
+
+        private void CbBox_RaceWeatherSlot2Race7_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot2Race7();
+        }
+
+        private void CbBox_RaceWeatherSlot3Race7_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot3Race7();
+        }
+
+        private void CbBox_RaceWeatherSlot4Race7_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot4Race7();
+        }
+
+        private void CbBox_PracticeWeatherSlot1Race8_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot1Race8();
+        }
+
+        private void CbBox_PracticeWeatherSlot2Race8_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot2Race8();
+        }
+
+        private void CbBox_PracticeWeatherSlot3Race8_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot3Race8();
+        }
+
+        private void CbBox_PracticeWeatherSlot4Race8_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.PracticeWeatherSlot4Race8();
+        }
+
+        private void CbBox_QualifWeatherSlot1Race8_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot1Race8();
+        }
+
+        private void CbBox_QualifWeatherSlot2Race8_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot2Race8();
+        }
+
+        private void CbBox_QualifWeatherSlot3Race8_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot3Race8();
+        }
+
+        private void CbBox_QualifWeatherSlot4Race8_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.QualifyWeatherSlot4Race8();
+        }
+
+        private void CbBox_RaceWeatherSlot1Race8_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot1Race8();
+        }
+
+        private void CbBox_RaceWeatherSlot2Race8_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot2Race8();
+        }
+
+        private void CbBox_RaceWeatherSlot3Race8_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot3Race8();
+        }
+
+        private void CbBox_RaceWeatherSlot4Race8_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            valueControl.RaceWeatherSlot4Race8();
+        }
+        //End section Weather
     }
 }

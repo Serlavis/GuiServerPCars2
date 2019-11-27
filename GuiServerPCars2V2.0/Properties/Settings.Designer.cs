@@ -12577,7 +12577,7 @@ namespace GuiServerPCars2V2._0.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
+        [global::System.Configuration.DefaultSettingValueAttribute("1")]
         public int Server5PracticeWeatherSlotsRace7 {
             get {
                 return ((int)(this["Server5PracticeWeatherSlotsRace7"]));

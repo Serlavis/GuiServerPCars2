@@ -1108,7 +1108,7 @@ namespace GuiServerPCars2V2._0
                     Form2.mainWindow.CbBox_Race7Cars.Enabled = false;
                     Form2.mainWindow.CbBox_Race8Cars.Enabled = false;
                 }
-                else if (Form2.mainWindow.RadioButton_Race1CarByClass.Checked == true)
+                else 
                 {
                     Form2.mainWindow.CbBox_Race2ClassSlots.SelectedIndex = Form2.mainWindow.CbBox_Race1ClassSlots.SelectedIndex;
                     Form2.mainWindow.CbBox_Race3ClassSlots.SelectedIndex = Form2.mainWindow.CbBox_Race1ClassSlots.SelectedIndex;
@@ -1315,6 +1315,7 @@ namespace GuiServerPCars2V2._0
                 Form2.mainWindow.RadioButton_Race6CarByClass.Enabled = true;
                 Form2.mainWindow.RadioButton_Race7CarByClass.Enabled = true;
                 Form2.mainWindow.RadioButton_Race8CarByClass.Enabled = true;
+
 
                 Form2.mainWindow.CbBox_Race2ClassSlots.SelectedIndex = Form2.mainWindow.ClassSlots2;
                 Form2.mainWindow.CbBox_Race3ClassSlots.SelectedIndex = Form2.mainWindow.ClassSlots3;

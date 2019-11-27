@@ -12,17 +12,24 @@ namespace GuiServerPCars2V2._0
         [STAThread]
         static void Main()
         {
-            Mutex mutex = new Mutex(true, "Mon_Mutex_Pour_Mon_Application", out bool owned);
-            if (owned)
+            using (var mutex = new Mutex(true, "MY_Mutex_For_My_App", out bool owned))
             {
-                Application.EnableVisualStyles();
-                Application.SetCompatibleTextRenderingDefault(false);
-                Application.Run(new Form1());
-                mutex.ReleaseMutex();
+                if (owned)
+                {
+                    Application.EnableVisualStyles();
+                    Application.SetCompatibleTextRenderingDefault(false);
+                    Application.Run(new Form1());
+                }
+                else
+                {
+                    MessageBox.Show("L'application est déjà lancée");
+                    return;
+
+                }
             }
-            else
-                MessageBox.Show("L'application est déjà lancée");
-            
+
+
+
         }
     }
 }

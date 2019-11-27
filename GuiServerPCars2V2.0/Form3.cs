@@ -7,12 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace GuiServerPCars2V2._0
 {
     public partial class Form3 : Form
     {
         public static Form3 dialWindow;
+        
         public Form3()
         {
             InitializeComponent();
@@ -26,6 +28,16 @@ namespace GuiServerPCars2V2._0
 
         private void Button_Yes_Click(object sender, EventArgs e)
         {
+            string data = Form1.workFolder + "\\lua_config\\sms_stats_data.json";
+            
+            Directory.CreateDirectory(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "backup Data"));
+           if (File.Exists(data))
+            {
+                string backup =  Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)) + "\\backup Data\\" + DateTime.Now.ToString(" yyyy_MM_dd_HH") + "h" + DateTime.Now.ToString("mm") + ".json";
+                MessageBox.Show(backup);
+                File.Move(data, backup);
+                File.Delete(data);
+            }
             Form2.mainWindow.Enabled = true;
             this.Close();
         }
